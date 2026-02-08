@@ -1,0 +1,73 @@
+{
+  "model": "deepseek-reasoner",
+  "reasoning_enabled": true,
+  "technical_indicators": {
+    "moving_averages": {
+      "fibonacci_periods": [
+        8,
+        13,
+        21,
+        34,
+        55,
+        89
+      ],
+      "calculation_method": "exponential"
+    },
+    "trend_lines": {
+      "auto_detection": true,
+      "min_points": 3
+    },
+    "fibonacci": {
+      "levels": [
+        0.0,
+        0.236,
+        0.382,
+        0.5,
+        0.618,
+        0.786,
+        1.0
+      ],
+      "extensions": [
+        1.272,
+        1.414,
+        1.618
+      ]
+    },
+    "oscillators": {
+      "rsi": {
+        "period": 14,
+        "overbought": 70,
+        "oversold": 30
+      },
+      "macd": {
+        "fast": 12,
+        "slow": 26,
+        "signal": 9
+      }
+    },
+    "volume_analysis": {
+      "volume_price_trend": true,
+      "on_balance_volume": true
+    }
+  },
+  "chart_patterns": [
+    "parallel_channel",
+    "trend_channel",
+    "head_and_shoulders",
+    "double_top_bottom",
+    "triangle",
+    "wedge"
+  ],
+  "timeframes": [
+    "1h",
+    "4h",
+    "1d",
+    "1w"
+  ],
+  "output_formats": [
+    "chart",
+    "report",
+    "alert",
+    "prediction"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "symbol": "HK.HSI",
+  "name": "恒生指數",
+  "last_price": 18542.67,
+  "open_price": 18450.12,
+  "high_price": 18620.34,
+  "low_price": 18380.45,
+  "prev_close_price": 18420.89,
+  "change": 121.78,
+  "change_percent": 0.66,
+  "volume": 1854234567,
+  "turnover": 128.45,
+  "update_time": "2026-02-08 11:45:00",
+  "data_collection_time": "2026-02-08T11:44:04.745933",
+  "note": "模擬數據 - 基於HSI典型市場特徵生成",
+  "data_source": "simulated",
+  "confidence": "high",
+  "simulation_parameters": {
+    "base_price": 18000,
+    "daily_volatility": 0.015,
+    "trend_slope": 0.001,
+    "volume_mean": 1500000000,
+    "volume_std": 500000000
+  }
+}

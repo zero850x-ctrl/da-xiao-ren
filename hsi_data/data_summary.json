@@ -1,0 +1,41 @@
+{
+  "data_creation_time": "2026-02-08T11:44:04.764794",
+  "data_type": "simulated",
+  "symbol": "HK.HSI",
+  "simulation_parameters": {
+    "base_price": 18000,
+    "daily_volatility": 0.015,
+    "trend_slope": 0.001,
+    "volume_mean": 1500000000,
+    "volume_std": 500000000
+  },
+  "data_statistics": {
+    "price_statistics": {
+      "min_price": 17081.88382730108,
+      "max_price": 19955.425473806954,
+      "avg_price": 18459.1650256238,
+      "current_price": 18542.67,
+      "total_return": 7.024060946230199
+    },
+    "volume_statistics": {
+      "avg_volume": 1528576072,
+      "max_volume": 2583960449,
+      "min_volume": 8748786
+    },
+    "volatility_statistics": {
+      "daily_volatility": 1.9710532785344963,
+      "avg_daily_range": 1.6344911122711077
+    }
+  },
+  "data_quality": {
+    "missing_values": 0,
+    "data_consistency": "high",
+    "market_realism": "realistic",
+    "note": "模擬數據基於HSI歷史波動特徵生成，適合技術分析練習"
+  },
+  "files_created": {
+    "realtime_data": "/Users/gordonlui/.openclaw/workspace/hsi_data/hsi_realtime.json",
+    "history_data": "/Users/gordonlui/.openclaw/workspace/hsi_data/hsi_history.json",
+    "csv_data": "/Users/gordonlui/.openclaw/workspace/hsi_data/hsi_history.csv"
+  }
+}

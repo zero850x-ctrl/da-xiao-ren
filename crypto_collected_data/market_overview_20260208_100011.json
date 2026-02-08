@@ -1,0 +1,49 @@
+{
+  "timestamp": "20260208_100011",
+  "collection_time": "2026-02-08T10:00:19.736570",
+  "site": "coingecko",
+  "market_summary": {
+    "total_market_cap": "待分析",
+    "24h_volume": "待分析",
+    "btc_dominance": "待分析",
+    "market_sentiment": "待分析"
+  },
+  "top_cryptos": [
+    {
+      "symbol": "BTC",
+      "price": "待分析",
+      "24h_change": "待分析",
+      "market_cap": "待分析"
+    },
+    {
+      "symbol": "ETH",
+      "price": "待分析",
+      "24h_change": "待分析",
+      "market_cap": "待分析"
+    },
+    {
+      "symbol": "BNB",
+      "price": "待分析",
+      "24h_change": "待分析",
+      "market_cap": "待分析"
+    },
+    {
+      "symbol": "SOL",
+      "price": "待分析",
+      "24h_change": "待分析",
+      "market_cap": "待分析"
+    },
+    {
+      "symbol": "XRP",
+      "price": "待分析",
+      "24h_change": "待分析",
+      "market_cap": "待分析"
+    }
+  ],
+  "analysis_notes": [
+    "這是自動收集的市場數據快照",
+    "需要進一步分析頁面結構來提取具體數據",
+    "可以訓練AI識別價格和變化元素",
+    "建議定期收集建立時間序列數據"
+  ]
+}

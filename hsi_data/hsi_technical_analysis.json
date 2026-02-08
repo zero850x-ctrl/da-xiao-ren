@@ -1,0 +1,158 @@
+{
+  "analysis_time": "2026-02-08T11:44:11.039802",
+  "symbol": "HK.HSI",
+  "data_summary": {
+    "data_points": 90,
+    "date_range": {
+      "start": "2025-11-11 00:00:00",
+      "end": "2026-02-08 00:00:00"
+    }
+  },
+  "technical_analysis": {
+    "moving_averages": {
+      "MA8": {
+        "value": 19279.601098576797,
+        "period": 8,
+        "calculation": "最近8日收盤價的平均值",
+        "current_price_relation": "價格接近MA(差異0.9%)"
+      },
+      "MA13": {
+        "value": 19268.17174395544,
+        "period": 13,
+        "calculation": "最近13日收盤價的平均值",
+        "current_price_relation": "價格接近MA(差異1.0%)"
+      },
+      "MA34": {
+        "value": 19029.50506614604,
+        "period": 34,
+        "calculation": "最近34日收盤價的平均值",
+        "current_price_relation": "價格高於MA2.2%"
+      },
+      "alignment_analysis": {
+        "is_bullish": true,
+        "is_bearish": false,
+        "alignment": "多頭排列",
+        "current_price": 19452.139341513244
+      }
+    },
+    "parallel_channel": {
+      "upper_channel": {
+        "slope": 21.787645604387826,
+        "intercept": 18931.739083563054,
+        "current_value": 19563.5808060903,
+        "equation": "y = 21.79x + 18931.74"
+      },
+      "lower_channel": {
+        "slope": 25.45516066330999,
+        "intercept": 18570.99976648424,
+        "current_value": 19309.19942572023,
+        "equation": "y = 25.46x + 18571.00"
+      },
+      "channel_analysis": {
+        "is_parallel": false,
+        "channel_width": 254.38138037006865,
+        "width_percent": 1.3174102911342234,
+        "current_price_position": "通道中部(56.2%)"
+      }
+    },
+    "fibonacci_retracement": {
+      "swing_high": 19955.425473806954,
+      "swing_low": 17484.86672898874,
+      "price_range": 2470.5587448182123,
+      "fibonacci_levels": {
+        "FIB_0.0": {
+          "level": 0.0,
+          "price": 19955.425473806954,
+          "description": "0.0%回撤水平",
+          "distance_from_current": {
+            "absolute": -503.28613229370967,
+            "percent": -2.5220516242778777,
+            "direction": "below"
+          }
+        },
+        "FIB_0.236": {
+          "level": 0.236,
+          "price": 19372.373610029856,
+          "description": "23.6%回撤水平",
+          "distance_from_current": {
+            "absolute": 79.76573148338866,
+            "percent": 0.4117499129899639,
+            "direction": "above"
+          }
+        },
+        "FIB_0.382": {
+          "level": 0.382,
+          "price": 19011.672033286395,
+          "description": "38.2%回撤水平",
+          "distance_from_current": {
+            "absolute": 440.4673082268491,
+            "percent": 2.316825723985041,
+            "direction": "above"
+          }
+        },
+        "FIB_0.5": {
+          "level": 0.5,
+          "price": 18720.146101397848,
+          "description": "50.0%回撤水平",
+          "distance_from_current": {
+            "absolute": 731.9932401153965,
+            "percent": 3.910189782443728,
+            "direction": "above"
+          }
+        },
+        "FIB_0.618": {
+          "level": 0.618,
+          "price": 18428.6201695093,
+          "description": "61.8%回撤水平",
+          "distance_from_current": {
+            "absolute": 1023.5191720039438,
+            "percent": 5.553965313677617,
+            "direction": "above"
+          }
+        },
+        "FIB_0.786": {
+          "level": 0.786,
+          "price": 18013.56630037984,
+          "description": "78.6%回撤水平",
+          "distance_from_current": {
+            "absolute": 1438.5730411334043,
+            "percent": 7.986053495154205,
+            "direction": "above"
+          }
+        },
+        "FIB_1.0": {
+          "level": 1.0,
+          "price": 17484.86672898874,
+          "description": "100.0%回撤水平",
+          "distance_from_current": {
+            "absolute": 1967.2726125245026,
+            "percent": 11.251287430534978,
+            "direction": "above"
+          }
+        }
+      },
+      "current_price_analysis": "在23.6%回撤水平附近(差異0.4%)"
+    },
+    "rsi": {
+      "current_value": 56.17483797466754,
+      "period": 14,
+      "overbought_level": 70,
+      "oversold_level": 30,
+      "signal": "偏多(>50)",
+      "trend": "下降趨勢"
+    },
+    "summary": {
+      "trend_assessment": "多頭趨勢",
+      "key_levels": [
+        "斐波那契0.382回撤: 19011.67",
+        "斐波那契0.618回撤: 18428.62"
+      ],
+      "trading_signals": [
+        "RSI信號: 偏多(>50)",
+        "通道位置: 通道中部(56.2%)"
+      ],
+      "risk_assessment": "中等",
+      "timeframe": "日線"
+    }
+  }
+}

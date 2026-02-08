@@ -1,0 +1,8 @@
+# 加密貨幣每小時報告 - 每小時的第5分鐘運行
+5 * * * * /Users/gordonlui/.openclaw/workspace/send_crypto_report.sh >> /Users/gordonlui/.openclaw/workspace/crypto_reports/cron_output.log 2>&1
+
+# 每日學習總結 - 每天00:10運行
+10 0 * * * python3 /Users/gordonlui/.openclaw/workspace/crypto_data/daily_monitor.py >> /Users/gordonlui/.openclaw/workspace/crypto_reports/daily_summary.log 2>&1
+
+# 周一股票交易準備 - 周日23:00運行
+0 23 * * 0 python3 /Users/gordonlui/.openclaw/workspace/futu_monday_prep.py >> /Users/gordonlui/.openclaw/workspace/crypto_reports/monday_prep.log 2>&1

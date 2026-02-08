@@ -1,0 +1,9 @@
+# 設置每30分鐘運行監控
+# 在Terminal中執行:
+crontab -e
+
+# 添加這行（交易時間 09:30-16:00）:
+30,0 9-15 * * 1-5 cd /path/to/workspace && python3 futu_monitor.py >> trading_log.txt
+
+# 或者手動運行:
+python3 futu_monitor.py

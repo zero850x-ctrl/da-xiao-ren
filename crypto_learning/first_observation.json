@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-02-07T22:37:16.136887",
+  "observations": [
+    {
+      "symbol": "BTCUSDT",
+      "price": 68935.41,
+      "change_24h": 1.117,
+      "high_24h": 133305.5,
+      "low_24h": 40000.0,
+      "volume": 1372.19164
+    },
+    {
+      "symbol": "ETHUSDT",
+      "price": 2037.92,
+      "change_24h": 2.718,
+      "high_24h": 3104.94,
+      "low_24h": 1079.76,
+      "volume": 23435.7777
+    },
+    {
+      "symbol": "BNBUSDT",
+      "price": 637.75,
+      "change_24h": -1.894,
+      "high_24h": 856.98,
+      "low_24h": 440.85,
+      "volume": 11174.744
+    },
+    {
+      "symbol": "SOLUSDT",
+      "price": 85.98,
+      "change_24h": 2.09,
+      "high_24h": 89.76,
+      "low_24h": 83.55,
+      "volume": 132070.394
+    },
+    {
+      "symbol": "XRPUSDT",
+      "price": 1.4006,
+      "change_24h": -3.493,
+      "high_24h": 1.5417,
+      "low_24h": 0.82,
+      "volume": 9520718.7
+    }
+  ],
+  "report": "\n\ud83d\udc40 22:35 \u52a0\u5bc6\u8ca8\u5e63\u5b78\u7fd2\u7cfb\u7d71\u555f\u52d5\u5831\u544a\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83d\ude80 \u7cfb\u7d71\u72c0\u614b: \u5df2\u555f\u52d5\n\u23f0 \u958b\u59cb\u6642\u9593: 22:37:16\n\u23f3 \u6301\u7e8c\u6642\u9593: 24\u5c0f\u6642\n\ud83d\udcca \u89c0\u5bdf\u9593\u9694: \u6bcf\u5c0f\u6642\u4e00\u6b21\n\n\ud83c\udf10 \u7576\u524d\u5e02\u5834\u72c0\u6cc1:\n\u2022 BTC: $68,935.41 (+1.12%)\n\u2022 ETH: $2,037.92 (+2.72%)\n\u2022 BNB: $637.75 (-1.89%)\n\u2022 SOL: $85.98 (+2.09%)\n\u2022 XRP: $1.40 (-3.49%)\n\n\ud83d\udcc8 \u6ce2\u52d5\u5206\u6790:\n\u2022 BTC 24\u5c0f\u6642\u6ce2\u52d5: $93,305.50\n\u2022 \u5e02\u5834\u6574\u9ad4: \u4e0a\u6f32\u8da8\u52e2\n\n\ud83d\udee1\ufe0f \u98a8\u96aa\u7ba1\u7406\u8a2d\u7f6e:\n\u2022 \u6bcf\u7b46\u4ea4\u6613\u6700\u5927\u98a8\u96aa: 2%\n\u2022 \u89c0\u5bdf\u5e63\u7a2e: 5\u500b\n\u2022 \u5b78\u7fd2\u91cd\u9ede: \u6ce2\u52d5\u89c0\u5bdf + \u98a8\u96aa\u7d00\u5f8b\n\n\ud83e\udde0 \u4eca\u65e5\u5b78\u7fd2\u76ee\u6a19:\n1. \u89c0\u5bdf\u52a0\u5bc6\u8ca8\u5e6324\u5c0f\u6642\u6ce2\u52d5\u6a21\u5f0f\n2. \u5be6\u8e102%\u6b62\u640d\u8a08\u7b97\u65b9\u6cd5\n3. \u8a18\u9304\u50f9\u683c\u8b8a\u5316\u8207\u5e02\u5834\u60c5\u7dd2\u95dc\u4fc2\n\n\ud83d\udcc5 \u5831\u544a\u8a08\u5283:\n\u2022 \u6bcf\u5c0f\u6642: \u5e02\u5834\u89c0\u5bdf\u66f4\u65b0\n\u2022 \u6bcf3\u5c0f\u6642: \u5b78\u7fd2\u9ede\u7e3d\u7d50\n\u2022 00:00: \u6bcf\u65e5\u5b78\u7fd2\u5831\u544a\n\n\ud83d\udcaa \u5b78\u7fd2\u5fc3\u614b:\n\u5c08\u6ce8\u904e\u7a0b\uff0c\u4e0d\u95dc\u6ce8\u76c8\u8667\n\u8a18\u9304\u89c0\u5bdf\uff0c\u4e0d\u9810\u6e2c\u5e02\u5834\n\u5be6\u8e10\u7d00\u5f8b\uff0c\u4e0d\u60c5\u7dd2\u4ea4\u6613\n\n\u23f0 \u4e0b\u4e00\u5831\u544a: 23:35\n"
+}

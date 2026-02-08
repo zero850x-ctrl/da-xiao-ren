@@ -1,0 +1,16 @@
+{
+  "code": "HK.800000",
+  "name": "Hang Seng Index",
+  "last_price": 26559.95,
+  "open_price": 26354.34,
+  "high_price": 26710.34,
+  "low_price": 26295.03,
+  "prev_close_price": 26885.24,
+  "change": -325.2900000000009,
+  "change_rate": -1.209920387543503,
+  "volume": 0,
+  "turnover": 247865325139.495,
+  "update_time": "2026-02-06 16:00:00",
+  "timestamp": "2026-02-08 14:10:10",
+  "data_source": "Futu OpenD"
+}

@@ -1,0 +1,33 @@
+{
+  "start_date": "2026-02-09",
+  "trading_hours": "09:30-16:00",
+  "initial_capital": 979000,
+  "risk_per_trade": 0.02,
+  "monitoring_interval": 30,
+  "products_to_watch": [
+    "HK.999010",
+    "HK.02800",
+    "HK.02828"
+  ],
+  "trading_rules": {
+    "max_positions": 3,
+    "stop_loss": "2% of capital",
+    "take_profit": "risk_reward_1_2",
+    "position_sizing": "calculated_by_risk"
+  },
+  "monitoring_schedule": [
+    "09:30",
+    "10:00",
+    "10:30",
+    "11:00",
+    "11:30",
+    "12:00",
+    "13:00",
+    "13:30",
+    "14:00",
+    "14:30",
+    "15:00",
+    "15:30",
+    "16:00"
+  ]
+}

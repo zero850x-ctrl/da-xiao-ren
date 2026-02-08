@@ -1,0 +1,67 @@
+{
+  "critical": [],
+  "high": [],
+  "medium": [],
+  "low": [],
+  "passed": [
+    {
+      "title": "Gateway綁定安全",
+      "description": "Gateway綁定到回環地址 (bind=loopback, port=18789)",
+      "fix": "✅ 已正確配置",
+      "timestamp": "2026-02-07T16:06:14.778141"
+    },
+    {
+      "title": "Gateway認證已啟用",
+      "description": "Gateway使用 token 認證",
+      "fix": "✅ 已正確配置",
+      "timestamp": "2026-02-07T16:06:14.778148"
+    },
+    {
+      "title": "DM政策安全",
+      "description": "WhatsApp使用白名單模式，允許 1 個號碼",
+      "fix": "✅ 已正確配置",
+      "timestamp": "2026-02-07T16:06:14.778239"
+    },
+    {
+      "title": "憑證目錄權限安全",
+      "description": "憑證目錄權限設置正確",
+      "fix": "✅ 已正確配置",
+      "timestamp": "2026-02-07T16:06:14.778262"
+    },
+    {
+      "title": "配置文件權限安全",
+      "description": "配置文件權限設置正確",
+      "fix": "✅ 已正確配置",
+      "timestamp": "2026-02-07T16:06:14.778271"
+    },
+    {
+      "title": "命令執行有安全限制",
+      "description": "命令執行需要確認或已被限制",
+      "fix": "✅ 已正確配置",
+      "timestamp": "2026-02-07T16:06:14.778342"
+    },
+    {
+      "title": "日誌記錄已啟用",
+      "description": "找到 2 個日誌文件",
+      "fix": "✅ 已正確配置",
+      "timestamp": "2026-02-07T16:06:14.778529"
+    },
+    {
+      "title": "Qwen已完全移除",
+      "description": "配置文件中未發現Qwen相關設定",
+      "fix": "✅ 已正確移除",
+      "timestamp": "2026-02-07T16:06:14.778685"
+    }
+  ],
+  "summary": {
+    "security_level": "✅ 安全 - 配置良好",
+    "critical": 0,
+    "high": 0,
+    "medium": 0,
+    "low": 0,
+    "passed": 8,
+    "total_checks": 8,
+    "audit_date": "2026-02-07T16:06:14.778693",
+    "auditor": "久留美安全審計工具"
+  }
+}

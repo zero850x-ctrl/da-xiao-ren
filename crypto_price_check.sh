@@ -1,0 +1,20 @@
+#!/bin/bash
+# 加密貨幣價格檢查示例（概念）
+export PATH="/Users/gordonlui/.npm-global/bin:$PATH"
+
+echo "📈 加密貨幣價格檢查工作流"
+echo ""
+echo "步驟1: 分析目標網站結構"
+echo "  agent-browser open https://www.coingecko.com"
+echo "  agent-browser snapshot -i --json > coingecko_snapshot.json"
+echo ""
+echo "步驟2: 識別價格元素"
+echo "  分析JSON文件，找到價格相關的元素引用"
+echo ""
+echo "步驟3: 創建數據提取腳本"
+echo "  agent-browser get text @price_element --json"
+echo ""
+echo "步驟4: 設置定時任務"
+echo "  使用cron定期運行數據收集"
+echo ""
+echo "⚠️  注意: 尊重網站服務條款，避免過度請求"

@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2026-02-07T22:35:29.361246",
+    "symbols": {
+      "BTCUSDT": {
+        "price": 68905.09,
+        "change_24h": 1.73,
+        "high_24h": 133305.5,
+        "low_24h": 40000.0,
+        "volume": 1373.47878
+      },
+      "ETHUSDT": {
+        "price": 2038.16,
+        "change_24h": 3.225,
+        "high_24h": 3104.94,
+        "low_24h": 1079.76,
+        "volume": 23427.9265
+      },
+      "BNBUSDT": {
+        "price": 637.41,
+        "change_24h": -1.809,
+        "high_24h": 856.98,
+        "low_24h": 440.85,
+        "volume": 11286.749
+      },
+      "SOLUSDT": {
+        "price": 85.99,
+        "change_24h": 2.601,
+        "high_24h": 89.76,
+        "low_24h": 83.55,
+        "volume": 132075.284
+      },
+      "XRPUSDT": {
+        "price": 1.4011,
+        "change_24h": -3.326,
+        "high_24h": 1.5417,
+        "low_24h": 0.82,
+        "volume": 9521377.3
+      }
+    }
+  }
+]
