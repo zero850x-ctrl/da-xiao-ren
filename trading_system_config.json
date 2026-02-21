@@ -1,0 +1,27 @@
+{
+  "stock_codes": [
+    "00005",
+    "00700",
+    "09988"
+  ],
+  "update_frequency": "daily",
+  "trading_hours": {
+    "start": "09:30",
+    "end": "16:00"
+  },
+  "risk_management": {
+    "max_position_size": 0.3,
+    "stop_loss": -0.05,
+    "take_profit": 0.08,
+    "max_daily_loss": -0.02
+  },
+  "model_settings": {
+    "retrain_frequency": 30,
+    "prediction_horizon": 1,
+    "confidence_threshold": 0.6
+  },
+  "data_settings": {
+    "history_days": 365,
+    "update_on_market_close": true
+  }
+}

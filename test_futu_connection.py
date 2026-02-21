@@ -1,57 +1,107 @@
 #!/usr/bin/env python3
-import socket
-import time
+"""
+測試富途連接
+"""
 
-def test_port(host='127.0.0.1', port=11111, timeout=5):
-    """測試端口是否開放"""
+import sys
+import json
+from datetime import datetime
+
+def main():
+    """主函數"""
+    print("🚀 富途連接測試")
+    print(f"時間: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"{'='*70}")
+    
     try:
-        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        sock.settimeout(timeout)
-        result = sock.connect_ex((host, port))
-        sock.close()
+        # 嘗試導入futu
+        print("1. 📦 檢查futu庫...")
+        try:
+            import futu
+            print(f"   ✅ futu版本: {futu.__version__}")
+        except ImportError:
+            print("   ❌ futu未安裝")
+            print("     請運行: pip install futu-api")
+            return
         
-        if result == 0:
-            print(f"✅ 端口 {port} 開放，連接成功！")
-            return True
-        else:
-            print(f"❌ 端口 {port} 關閉，錯誤代碼: {result}")
-            return False
+        # 測試連接
+        print("\n2. 🔌 測試API連接...")
+        try:
+            from futu import OpenQuoteContext, RET_OK
+            
+            # 創建連接
+            quote_ctx = OpenQuoteContext(host='127.0.0.1', port=11111)
+            print("   ✅ 成功創建連接")
+            
+            # 測試獲取數據
+            print("\n3. 📈 測試獲取股票數據...")
+            test_stocks = ['HK.00992', 'HK.00700']
+            
+            ret, data = quote_ctx.get_market_snapshot(test_stocks)
+            if ret == RET_OK:
+                print(f"   ✅ 成功獲取{len(data)}隻股票數據")
+                for _, row in data.iterrows():
+                    print(f"      {row['code']}: HKD {row['last_price']:.2f}")
+            else:
+                print(f"   ❌ 獲取數據失敗")
+            
+            # 關閉連接
+            quote_ctx.close()
+            print("\n4. 🔌 關閉連接...")
+            print("   ✅ 連接已關閉")
+            
+            status = "SUCCESS"
+            error = None
+            
+        except Exception as e:
+            print(f"   ❌ 連接失敗: {e}")
+            status = "CONNECTION_FAILED"
+            error = str(e)
+        
     except Exception as e:
-        print(f"❌ 連接端口 {port} 時出錯: {e}")
-        return False
-
-def test_common_ports():
-    """測試常見的Futu端口"""
-    common_ports = [11111, 11112, 11113, 11114, 11115]
-    for port in common_ports:
-        print(f"\n測試端口 {port}...")
-        if test_port(port=port):
-            print(f"🎯 發現OpenD在端口 {port} 上運行！")
-            return port
-    return None
+        print(f"❌ 系統錯誤: {e}")
+        status = "SYSTEM_ERROR"
+        error = str(e)
+    
+    # 報告
+    print(f"\n{'='*70}")
+    print(f"📋 測試結果")
+    print(f"{'='*70}")
+    
+    report = {
+        'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+        'status': status,
+        'error': error
+    }
+    
+    if status == "SUCCESS":
+        print("✅ 富途連接測試成功!")
+        print("   可以獲取股票數據")
+        print("\n💡 下一步:")
+        print("   1. 確保富途OpenD運行中")
+        print("   2. 登錄模擬賬戶")
+        print("   3. 運行真實交易系統")
+    else:
+        print(f"❌ 測試失敗: {status}")
+        if error:
+            print(f"   錯誤: {error}")
+        print("\n🔧 故障排除:")
+        print("   1. 檢查富途OpenD是否運行")
+        print("   2. 檢查端口11111是否開放")
+        print("   3. 確認網絡連接正常")
+    
+    # 保存報告
+    report_file = f"/Users/gordonlui/.openclaw/workspace/futu_test_{datetime.now().strftime('%Y%m%d_%H%M')}.json"
+    try:
+        with open(report_file, 'w') as f:
+            json.dump(report, f, indent=2)
+        print(f"\n💾 報告已保存: {report_file}")
+    except Exception as e:
+        print(f"❌ 保存失敗: {e}")
+    
+    print(f"\n{'='*70}")
+    print(f"✅ 測試完成")
+    print(f"{'='*70}")
 
 if __name__ == "__main__":
-    print("🔍 開始測試Futu OpenD連接...")
-    print(f"時間: {time.strftime('%Y-%m-%d %H:%M:%S')}")
-    print("=" * 50)
-    
-    # 先測試默認端口
-    print("\n1. 測試默認端口 11111...")
-    if test_port():
-        print("✅ OpenD連接正常！")
-    else:
-        print("⚠️  默認端口連接失敗，嘗試其他端口...")
-        found_port = test_common_ports()
-        if found_port:
-            print(f"\n🎉 發現OpenD在端口 {found_port} 上運行！")
-            print(f"請使用 host='127.0.0.1', port={found_port} 連接")
-        else:
-            print("\n❌ 所有常見端口都無法連接")
-            print("可能原因:")
-            print("1. OpenD未正確啟動")
-            print("2. 防火牆阻止了連接")
-            print("3. OpenD配置了非標準端口")
-            print("4. 網絡配置問題")
-    
-    print("\n" + "=" * 50)
-    print("測試完成")
+    main()

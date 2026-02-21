@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-02-20 11:53:16",
+  "stock": "HK.09868",
+  "stock_name": "\u5c0f\u9d6c\u6c7d\u8eca-W",
+  "price": 68.15,
+  "quantity": 100,
+  "amount": 6815.000000000001,
+  "order_id": "7443306",
+  "cash_before": 481582.853,
+  "status": "SUBMITTED"
+}

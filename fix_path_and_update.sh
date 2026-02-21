@@ -4,8 +4,8 @@ echo "🔧 修復OpenClaw版本和PATH問題"
 echo "========================================"
 
 echo "1. 當前版本狀況:"
-echo "   - 系統命令: $(which openclaw) -> $(openclaw --version)"
-echo "   - 用戶命令: ~/.npm-global/bin/openclaw -> $(~/.npm-global/bin/openclaw --version)"
+echo "   - 系統命令: $(command -v openclaw 2>/dev/null || echo '未找到') -> $(openclaw --version 2>/dev/null || echo '命令不可用')"
+echo "   - 用戶命令: ~/.npm-global/bin/openclaw -> $(~/.npm-global/bin/openclaw --version 2>/dev/null || echo '命令不可用')"
 echo ""
 
 echo "2. PATH檢查:"

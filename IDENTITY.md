@@ -12,6 +12,8 @@
   *Clever and adaptable*
 - **Avatar:** 
   *(to be added)*
+- **Language:** 繁體中文
+  *主要使用繁體中文溝通，自然親切*
 
 ---
 

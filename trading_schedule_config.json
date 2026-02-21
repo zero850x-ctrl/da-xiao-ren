@@ -1,0 +1,41 @@
+{
+  "monitor_stocks": [
+    "00992",
+    "00700",
+    "09988",
+    "00005",
+    "01398",
+    "02638",
+    "09618"
+  ],
+  "trading_hours": {
+    "start": "09:30",
+    "end": "16:00"
+  },
+  "schedule_times": [
+    "09:30",
+    "10:00",
+    "10:30",
+    "11:00",
+    "11:30",
+    "12:00",
+    "12:30",
+    "13:00",
+    "14:00",
+    "14:30",
+    "15:00",
+    "15:30",
+    "15:55"
+  ],
+  "tasks": {
+    "price_check": "\u6aa2\u67e5\u50f9\u683c\u548c\u95dc\u9375\u50f9\u4f4d",
+    "breakout_detect": "\u6aa2\u6e2c\u50f9\u683c\u7a81\u7834",
+    "prediction_update": "\u66f4\u65b0XGBoost\u9810\u6e2c",
+    "risk_assessment": "\u98a8\u96aa\u8a55\u4f30",
+    "portfolio_check": "\u6295\u8cc7\u7d44\u5408\u6aa2\u67e5"
+  },
+  "notifications": {
+    "telegram": true,
+    "silent_mode": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-02-20 12:16:37",
+  "positions_count": 5,
+  "stop_loss_orders": [],
+  "risk_management": {
+    "stop_loss_config": {
+      "MOMENTUM": 0.08,
+      "VALUE": 0.1,
+      "DIVIDEND": 0.12,
+      "DCA": 0.15,
+      "DEFAULT": 0.1
+    },
+    "stock_strategies": {
+      "HK.09868": "MOMENTUM",
+      "HK.00992": "DCA",
+      "HK.00700": "VALUE",
+      "HK.00883": "DIVIDEND",
+      "HK.02020": "VALUE",
+      "HK.09988": "VALUE",
+      "HK.09618": "VALUE",
+      "HK.00005": "DIVIDEND",
+      "HK.01398": "DIVIDEND",
+      "HK.02638": "DIVIDEND",
+      "HK.02800": "DEFAULT"
+    }
+  }
+}

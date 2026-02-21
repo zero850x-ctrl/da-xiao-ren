@@ -1,0 +1,214 @@
+[
+  {
+    "timestamp": "2026-02-19 20:07:42",
+    "breakouts": [],
+    "alerts": [],
+    "advice": {
+      "timestamp": "2026-02-19 20:07:42",
+      "stock": "00992",
+      "current_price": 9.3,
+      "breakouts": [],
+      "alerts": [],
+      "recommendations": [
+        {
+          "action": "持有",
+          "reason": "價格在0.618之上，趨勢良好",
+          "urgency": "低"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-02-20 10:37:39",
+    "breakouts": [
+      {
+        "level": "golden_618",
+        "level_price": 9.12,
+        "current_price": 9.17,
+        "distance_percent": 0.5482456140350955,
+        "type": "突破上方",
+        "timestamp": "2026-02-20 10:37:39",
+        "urgency": "中"
+      }
+    ],
+    "alerts": [],
+    "advice": {
+      "timestamp": "2026-02-20 10:37:39",
+      "stock": "00992",
+      "current_price": 9.17,
+      "breakouts": [
+        {
+          "level": "golden_618",
+          "level_price": 9.12,
+          "current_price": 9.17,
+          "distance_percent": 0.5482456140350955,
+          "type": "突破上方",
+          "timestamp": "2026-02-20 10:37:39",
+          "urgency": "中"
+        }
+      ],
+      "alerts": [],
+      "recommendations": [
+        {
+          "action": "加倉",
+          "reason": "突破0.618黃金分割位，趨勢轉強",
+          "urgency": "高"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-02-20 11:30:10",
+    "breakouts": [
+      {
+        "level": "golden_618",
+        "level_price": 9.12,
+        "current_price": 9.19,
+        "distance_percent": 0.767543859649126,
+        "type": "突破上方",
+        "timestamp": "2026-02-20 11:30:10",
+        "urgency": "中"
+      }
+    ],
+    "alerts": [],
+    "advice": {
+      "timestamp": "2026-02-20 11:30:10",
+      "stock": "00992",
+      "current_price": 9.19,
+      "breakouts": [
+        {
+          "level": "golden_618",
+          "level_price": 9.12,
+          "current_price": 9.19,
+          "distance_percent": 0.767543859649126,
+          "type": "突破上方",
+          "timestamp": "2026-02-20 11:30:10",
+          "urgency": "中"
+        }
+      ],
+      "alerts": [],
+      "recommendations": [
+        {
+          "action": "加倉",
+          "reason": "突破0.618黃金分割位，趨勢轉強",
+          "urgency": "高"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-02-20 11:30:34",
+    "breakouts": [
+      {
+        "level": "golden_618",
+        "level_price": 9.12,
+        "current_price": 9.19,
+        "distance_percent": 0.767543859649126,
+        "type": "突破上方",
+        "timestamp": "2026-02-20 11:30:34",
+        "urgency": "中"
+      }
+    ],
+    "alerts": [],
+    "advice": {
+      "timestamp": "2026-02-20 11:30:34",
+      "stock": "00992",
+      "current_price": 9.19,
+      "breakouts": [
+        {
+          "level": "golden_618",
+          "level_price": 9.12,
+          "current_price": 9.19,
+          "distance_percent": 0.767543859649126,
+          "type": "突破上方",
+          "timestamp": "2026-02-20 11:30:34",
+          "urgency": "中"
+        }
+      ],
+      "alerts": [],
+      "recommendations": [
+        {
+          "action": "加倉",
+          "reason": "突破0.618黃金分割位，趨勢轉強",
+          "urgency": "高"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-02-20 14:00:25",
+    "breakouts": [],
+    "alerts": [],
+    "advice": {
+      "timestamp": "2026-02-20 14:00:25",
+      "stock": "00992",
+      "current_price": 9.26,
+      "breakouts": [],
+      "alerts": [],
+      "recommendations": [
+        {
+          "action": "持有",
+          "reason": "價格在0.618之上，趨勢良好",
+          "urgency": "低"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-02-20 14:30:12",
+    "breakouts": [],
+    "alerts": [],
+    "advice": {
+      "timestamp": "2026-02-20 14:30:12",
+      "stock": "00992",
+      "current_price": 9.25,
+      "breakouts": [],
+      "alerts": [],
+      "recommendations": [
+        {
+          "action": "持有",
+          "reason": "價格在0.618之上，趨勢良好",
+          "urgency": "低"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-02-20 15:00:32",
+    "breakouts": [],
+    "alerts": [],
+    "advice": {
+      "timestamp": "2026-02-20 15:00:32",
+      "stock": "00992",
+      "current_price": 9.24,
+      "breakouts": [],
+      "alerts": [],
+      "recommendations": [
+        {
+          "action": "持有",
+          "reason": "價格在0.618之上，趨勢良好",
+          "urgency": "低"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-02-20 15:30:16",
+    "breakouts": [],
+    "alerts": [],
+    "advice": {
+      "timestamp": "2026-02-20 15:30:16",
+      "stock": "00992",
+      "current_price": 9.22,
+      "breakouts": [],
+      "alerts": [],
+      "recommendations": [
+        {
+          "action": "持有",
+          "reason": "價格在0.618之上，趨勢良好",
+          "urgency": "低"
+        }
+      ]
+    }
+  }
+]

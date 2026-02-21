@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-02-19 20:50:26",
+  "stock_code": "INVALID",
+  "price": 100.0,
+  "previous_price": null,
+  "validations": {
+    "stock_code": {
+      "valid": false,
+      "reason": "股票代碼長度異常: 7位",
+      "severity": "critical"
+    },
+    "price_format": {
+      "valid": true,
+      "reason": "價格格式正確",
+      "severity": "normal"
+    },
+    "price_range": {
+      "valid": true,
+      "reason": "未定義範圍"
+    }
+  },
+  "overall_valid": false,
+  "issues": [
+    "股票代碼: 股票代碼長度異常: 7位"
+  ],
+  "warnings": []
+}

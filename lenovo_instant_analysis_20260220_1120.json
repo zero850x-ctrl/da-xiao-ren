@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-02-20 11:20:09",
+  "stock_code": "00992",
+  "current_price": 9.17,
+  "buy_price": 8.59,
+  "profit_pct": 6.752037252619325,
+  "profit_amount": 15080.000000000002,
+  "current_position": 26000,
+  "golden_ratio_level": "BETWEEN_500_618",
+  "golden_levels": {
+    "382": 8.89,
+    "500": 9.17,
+    "618": 9.55
+  },
+  "action": "HOLD",
+  "strength": "NEUTRAL",
+  "reason": "基礎分析"
+}

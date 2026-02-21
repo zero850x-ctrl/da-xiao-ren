@@ -1,0 +1,55 @@
+{
+  "last_execution": {
+    "timestamp": "2026-02-12 13:00:32",
+    "system": "futu_technical_trader_safe.py",
+    "mode": "execute",
+    "environment": "simulate",
+    "result": "no_new_signals",
+    "account_value": 972697.79,
+    "cash": 609642.79,
+    "positions_count": 3
+  },
+  "risk_management": {
+    "stop_loss_pct": 0.02,
+    "take_profit_pct": 0.10,
+    "max_risk_per_trade": 0.02,
+    "max_position_size": 0.25,
+    "min_volume": 1000000
+  },
+  "current_positions": [
+    {
+      "code": "HK.09618",
+      "quantity": 250,
+      "cost_price": 71.02,
+      "current_price": 108.20,
+      "pnl_pct": 0.525,
+      "status": "far_above_take_profit"
+    },
+    {
+      "code": "HK.00700",
+      "quantity": 400,
+      "cost_price": 547.25,
+      "current_price": 531.50,
+      "pnl_pct": -0.029,
+      "status": "near_stop_loss"
+    },
+    {
+      "code": "HK.02800",
+      "quantity": 4500,
+      "cost_price": 27.48,
+      "current_price": 27.22,
+      "pnl_pct": -0.009,
+      "status": "normal"
+    }
+  ],
+  "next_scheduled": "2026-02-12 13:30:00",
+  "monitoring_stocks": [
+    "HK.02800",
+    "HK.00700",
+    "HK.09988",
+    "HK.01299",
+    "HK.02318"
+  ],
+  "system_status": "operational",
+  "notes": "严格执行2% Rule风险管理，注重信号质量而非数量。当前市场震荡整理，等待明确趋势信号。"
+}

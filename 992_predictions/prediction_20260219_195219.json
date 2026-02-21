@@ -1,0 +1,46 @@
+{
+  "stock": "00992",
+  "date": "2026-02-19",
+  "prediction_date": "2026-02-20",
+  "current_price": 17.056689086970124,
+  "probability_up": 0.13975118100643158,
+  "signal": "🔴 強力賣出",
+  "action": "SELL",
+  "confidence": 0.8602488040924072,
+  "confidence_level": "極高",
+  "technical_analysis": {
+    "golden_618": 17.033183181632896,
+    "distance_to_618": 0.13800066074892123,
+    "golden_382": 16.11283110411817,
+    "distance_to_382": 5.857803490602702,
+    "golden_position": "在0.618黃金分割位附近",
+    "golden_signal": "可能反轉",
+    "moving_averages": {
+      "MA5": {
+        "value": 16.456677510844496,
+        "distance": 3.6460067697761986,
+        "position": "之上"
+      },
+      "MA8": {
+        "value": 16.130770691675014,
+        "distance": 5.740075368952893,
+        "position": "之上"
+      },
+      "MA13": {
+        "value": 16.08859393078265,
+        "distance": 6.017276340943607,
+        "position": "之上"
+      },
+      "MA21": {
+        "value": 15.927166809321369,
+        "distance": 7.091796621277946,
+        "position": "之上"
+      }
+    },
+    "RSI": 64.3975197351151,
+    "RSI_signal": "中性",
+    "volume_ratio": 1.4610584138898706,
+    "volume_signal": "正常"
+  },
+  "timestamp": "2026-02-19 19:52:19"
+}

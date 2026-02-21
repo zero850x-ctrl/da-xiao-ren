@@ -1,0 +1,188 @@
+Subject: OpenClaw Mac Mini Telegram 安裝腳本 (修改版)
+To: zero850x@gmail.com
+From: kurumi@openclaw.ai
+Date: 2026-02-14 17:52:00 (Hong Kong Time)
+
+尊敬的 Gordon,
+
+這是您要求的 OpenClaw Mac Mini 安裝腳本的 Telegram 修改版本。
+
+## 📋 修改摘要
+
+### 主要修改：
+1. **通道配置**：從 WhatsApp 改為 Telegram
+2. **API 配置**：使用您提供的 Token 和 Key
+3. **安裝流程**：針對 Telegram 優化
+4. **安全設置**：保護敏感信息
+
+### 使用的配置：
+- **Telegram Bot Token**: 8317346098:AAE6Xb7XHCNN7ACMOE1nXFQ2WuyaSQkcPxo
+- **DeepSeek API Key**: sk-4bb2b4b63f9b45438bf3de6f6ef3d07f
+- **Bot 名稱**: @Goognews2026_bot (小晴)
+
+## 📁 附件說明
+
+附件包含：
+1. **安裝腳本**：`openclaw_macmini_telegram_install.sh`
+2. **安裝說明**：詳細的步驟指南
+3. **安全提示**：重要的安全注意事項
+
+## 🚀 安裝步驟概要
+
+### 1. 準備工作
+- 確保是 macOS 系統
+- 準備好您的信息（姓名、手機號碼等）
+
+### 2. 運行安裝
+```bash
+chmod +x openclaw_macmini_telegram_install.sh
+./openclaw_macmini_telegram_install.sh
+```
+
+### 3. 設置 Telegram
+- 在 Telegram 搜索 `@Goognews2026_bot`
+- 點擊 "Start" 開始對話
+- 測試 AI 助手功能
+
+## 🔧 關鍵功能
+
+### 預配置項目：
+✅ DeepSeek API 已配置
+✅ Telegram Bot 已設置
+✅ 安全權限已設置
+✅ Gateway 服務自動安裝
+
+### 安全特性：
+🔒 配置文件權限限制
+🔒 敏感信息保護
+🔒 安全審計功能
+
+## 📊 系統要求
+
+- **操作系統**: macOS (建議最新版本)
+- **硬件**: Mac mini (M系列芯片最佳)
+- **網絡**: 穩定的互聯網連接
+- **存儲**: 至少 2GB 可用空間
+
+## 🛠️ 故障排除
+
+### 常見問題：
+1. **權限問題**: 使用 `chmod +x` 賦予執行權限
+2. **網絡問題**: 確保能訪問 Telegram API
+3. **配置問題**: 檢查 `~/.openclaw/openclaw.json`
+
+### 獲取幫助：
+- 官方文檔: https://docs.openclaw.ai
+- 社區討論: https://discord.com/invite/clawd
+- 問題反饋: GitHub Issues
+
+## 📈 性能優化建議
+
+### 對於交易系統：
+1. **定時任務**: 設置 cron 作業自動化交易
+2. **監控系統**: 配置健康檢查和警報
+3. **備份策略**: 定期備份配置和數據
+
+### 資源管理：
+- 監控 API 使用量
+- 優化模型選擇
+- 定期更新軟件
+
+## 🔒 安全重要提示
+
+### 必須做的事：
+1. **備份配置文件**: `~/.openclaw/openclaw.json`
+2. **保護 API Key**: 不要分享或公開
+3. **定期審計**: 運行 `openclaw security audit`
+4. **更新軟件**: 保持 OpenClaw 最新版本
+
+### 避免的事：
+❌ 不要公開配置文件
+❌ 不要分享 Gateway Token
+❌ 不要使用弱密碼
+❌ 不要忽略安全警告
+
+## 📱 使用指南
+
+### 開始對話：
+1. 打開 Telegram
+2. 搜索 `@Goognews2026_bot`
+3. 發送消息開始對話
+
+### 常用命令：
+- `openclaw status` - 查看系統狀態
+- `openclaw logs` - 查看日誌
+- `openclaw update` - 檢查更新
+- `openclaw doctor` - 系統診斷
+
+### 服務管理：
+```bash
+# 正確的重啟方式
+launchctl kickstart -k gui/$(id -u)/ai.openclaw.gateway
+
+# 避免使用（會卸載服務）
+❌ openclaw gateway stop
+```
+
+## 🎯 特別為交易系統優化
+
+### 已預配置：
+1. **DeepSeek 模型**: 適合技術分析和編程
+2. **Telegram 通知**: 實時交易警報
+3. **安全執行**: 需要確認的敏感操作
+4. **日誌記錄**: 完整的操作記錄
+
+### 可擴展功能：
+1. **技術分析集成**
+2. **自動交易腳本**
+3. **市場監控系統**
+4. **風險管理工具**
+
+## 📅 後續步驟建議
+
+### 安裝後立即：
+1. 測試 Telegram 連接
+2. 運行系統診斷
+3. 設置基本自動化
+
+### 一周內：
+1. 配置交易相關功能
+2. 設置定期備份
+3. 優化系統性能
+
+### 長期規劃：
+1. 擴展自動化功能
+2. 集成更多數據源
+3. 優化交易策略
+
+## 📞 支持與反饋
+
+如果在安裝或使用過程中遇到任何問題，請隨時聯繫。
+
+### 聯繫方式：
+- **即時支持**: 通過 Telegram @fx_kurumi_bot
+- **郵件支持**: 回覆此郵件
+- **文檔參考**: https://docs.openclaw.ai
+
+### 問題報告：
+請提供以下信息：
+1. 操作系統版本
+2. OpenClaw 版本
+3. 錯誤信息
+4. 重現步驟
+
+## 🎉 祝您安裝順利！
+
+希望這個修改後的安裝腳本能幫助您快速部署 OpenClaw 系統。腳本已經針對 Telegram 和您的特定需求進行了優化。
+
+如果有任何需要進一步修改的地方，請隨時告訴我。
+
+祝好！
+
+久留美 (Kurumi)
+AI 助手
+OpenClaw 系統
+
+---
+*這是一封自動生成的郵件，包含修改後的安裝腳本。*
+*請妥善保管附件中的敏感信息。*

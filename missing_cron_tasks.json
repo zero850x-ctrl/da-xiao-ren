@@ -1,0 +1,156 @@
+[
+  {
+    "name": "交易監控 10:00 - 整點價格監控",
+    "description": "整點價格監控：價格檢查、關鍵價位驗證",
+    "schedule": {
+      "kind": "cron",
+      "expr": "0 10 * * 1-5",
+      "tz": "Asia/Hong_Kong"
+    },
+    "payload": {
+      "kind": "agentTurn",
+      "message": "執行整點價格監控任務。時間: 10:00。運行價格檢查和關鍵價位驗證。執行: python3 /Users/gordonlui/.openclaw/workspace/trading_schedule_system.py --time 10:00。監控聯想集團關鍵支撐位 $9.17。",
+      "model": "deepseek/deepseek-coder",
+      "thinking": "normal"
+    },
+    "sessionTarget": "isolated",
+    "delivery": {
+      "mode": "announce",
+      "channel": "telegram",
+      "to": "7955740007"
+    },
+    "enabled": true
+  },
+  {
+    "name": "交易監控 10:30 - 早盤檢查",
+    "description": "早盤檢查：價格監控、突破檢測",
+    "schedule": {
+      "kind": "cron",
+      "expr": "30 10 * * 1-5",
+      "tz": "Asia/Hong_Kong"
+    },
+    "payload": {
+      "kind": "agentTurn",
+      "message": "執行早盤檢查任務。時間: 10:30。運行價格監控和突破檢測。執行: python3 /Users/gordonlui/.openclaw/workspace/trading_schedule_system.py --time 10:30。檢查聯想集團是否突破關鍵價位，監控市場走勢。",
+      "model": "deepseek/deepseek-coder",
+      "thinking": "normal"
+    },
+    "sessionTarget": "isolated",
+    "delivery": {
+      "mode": "announce",
+      "channel": "telegram",
+      "to": "7955740007"
+    },
+    "enabled": true
+  },
+  {
+    "name": "交易監控 12:00 - 午休前檢查",
+    "description": "午休前檢查：價格總結、上午走勢分析",
+    "schedule": {
+      "kind": "cron",
+      "expr": "0 12 * * 1-5",
+      "tz": "Asia/Hong_Kong"
+    },
+    "payload": {
+      "kind": "agentTurn",
+      "message": "執行午休前檢查任務。時間: 12:00。運行價格總結和上午走勢分析。執行: python3 /Users/gordonlui/.openclaw/workspace/trading_schedule_system.py --time 12:00。總結上午交易表現，分析聯想集團支撐位防守情況。",
+      "model": "deepseek/deepseek-coder",
+      "thinking": "normal"
+    },
+    "sessionTarget": "isolated",
+    "delivery": {
+      "mode": "announce",
+      "channel": "telegram",
+      "to": "7955740007"
+    },
+    "enabled": true
+  },
+  {
+    "name": "交易監控 12:30 - 午休檢查",
+    "description": "午休檢查：市場情緒分析、下午策略準備",
+    "schedule": {
+      "kind": "cron",
+      "expr": "30 12 * * 1-5",
+      "tz": "Asia/Hong_Kong"
+    },
+    "payload": {
+      "kind": "agentTurn",
+      "message": "執行午休檢查任務。時間: 12:30。運行市場情緒分析和下午策略準備。執行: python3 /Users/gordonlui/.openclaw/workspace/trading_schedule_system.py --time 12:30。分析上午市場情緒，準備下午交易策略。",
+      "model": "deepseek/deepseek-coder",
+      "thinking": "normal"
+    },
+    "sessionTarget": "isolated",
+    "delivery": {
+      "mode": "announce",
+      "channel": "telegram",
+      "to": "7955740007"
+    },
+    "enabled": true
+  },
+  {
+    "name": "交易監控 14:00 - 午後檢查",
+    "description": "午後檢查：開市價格更新、趨勢確認",
+    "schedule": {
+      "kind": "cron",
+      "expr": "0 14 * * 1-5",
+      "tz": "Asia/Hong_Kong"
+    },
+    "payload": {
+      "kind": "agentTurn",
+      "message": "執行午後檢查任務。時間: 14:00。運行開市價格更新和趨勢確認。執行: python3 /Users/gordonlui/.openclaw/workspace/trading_schedule_system.py --time 14:00。確認下午開市趨勢，更新聯想集團關鍵價位。",
+      "model": "deepseek/deepseek-coder",
+      "thinking": "normal"
+    },
+    "sessionTarget": "isolated",
+    "delivery": {
+      "mode": "announce",
+      "channel": "telegram",
+      "to": "7955740007"
+    },
+    "enabled": true
+  },
+  {
+    "name": "交易監控 14:30 - 午後檢查",
+    "description": "午後檢查：價格監控、突破檢測",
+    "schedule": {
+      "kind": "cron",
+      "expr": "30 14 * * 1-5",
+      "tz": "Asia/Hong_Kong"
+    },
+    "payload": {
+      "kind": "agentTurn",
+      "message": "執行午後檢查任務。時間: 14:30。運行價格監控和突破檢測。執行: python3 /Users/gordonlui/.openclaw/workspace/trading_schedule_system.py --time 14:30。監控下午市場走勢，檢測關鍵價位突破。",
+      "model": "deepseek/deepseek-coder",
+      "thinking": "normal"
+    },
+    "sessionTarget": "isolated",
+    "delivery": {
+      "mode": "announce",
+      "channel": "telegram",
+      "to": "7955740007"
+    },
+    "enabled": true
+  },
+  {
+    "name": "交易監控 15:00 - 尾盤檢查",
+    "description": "尾盤檢查：價格監控、風險評估",
+    "schedule": {
+      "kind": "cron",
+      "expr": "0 15 * * 1-5",
+      "tz": "Asia/Hong_Kong"
+    },
+    "payload": {
+      "kind": "agentTurn",
+      "message": "執行尾盤檢查任務。時間: 15:00。運行價格監控和風險評估。執行: python3 /Users/gordonlui/.openclaw/workspace/trading_schedule_system.py --time 15:00。監控尾盤走勢，評估收市前風險。",
+      "model": "deepseek/deepseek-coder",
+      "thinking": "normal"
+    },
+    "sessionTarget": "isolated",
+    "delivery": {
+      "mode": "announce",
+      "channel": "telegram",
+      "to": "7955740007"
+    },
+    "enabled": true
+  }
+]

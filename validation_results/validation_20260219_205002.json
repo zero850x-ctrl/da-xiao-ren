@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-02-19 20:50:02",
+  "stock_code": "09988",
+  "price": 0.01,
+  "previous_price": null,
+  "validations": {
+    "stock_code": {
+      "valid": true,
+      "reason": "股票代碼格式正確",
+      "severity": "normal",
+      "normalized_code": "09988"
+    },
+    "price_format": {
+      "valid": true,
+      "reason": "價格格式正確",
+      "severity": "normal"
+    },
+    "price_range": {
+      "valid": false,
+      "reason": "價格過低: $0.01 < 最低合理價 $70.00",
+      "severity": "high",
+      "suggested_price": 158.6
+    }
+  },
+  "overall_valid": false,
+  "issues": [
+    "價格範圍: 價格過低: $0.01 < 最低合理價 $70.00"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "交易監控 10:30 - 早盤檢查",
+  "description": "早盤檢查：價格監控、突破檢測",
+  "schedule": {
+    "kind": "cron",
+    "expr": "30 10 * * 1-5",
+    "tz": "Asia/Hong_Kong"
+  },
+  "payload": {
+    "kind": "agentTurn",
+    "message": "執行早盤檢查任務。時間: 10:30。運行價格監控和突破檢測。執行: python3 /Users/gordonlui/.openclaw/workspace/trading_schedule_system.py --time 10:30。檢查聯想集團是否突破關鍵價位，監控市場走勢。",
+    "model": "deepseek/deepseek-coder",
+    "thinking": "normal"
+  },
+  "sessionTarget": "isolated",
+  "delivery": {
+    "mode": "announce",
+    "channel": "telegram",
+    "to": "7955740007"
+  },
+  "enabled": true
+}

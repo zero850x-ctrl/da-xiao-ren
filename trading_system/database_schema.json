@@ -1,0 +1,59 @@
+{
+  "tables": {
+    "stock_prices": {
+      "columns": [
+        "date",
+        "stock_code",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume"
+      ],
+      "index": [
+        "date",
+        "stock_code"
+      ]
+    },
+    "predictions": {
+      "columns": [
+        "timestamp",
+        "stock_code",
+        "probability",
+        "signal",
+        "confidence",
+        "price"
+      ],
+      "index": [
+        "timestamp",
+        "stock_code"
+      ]
+    },
+    "trades": {
+      "columns": [
+        "trade_id",
+        "timestamp",
+        "stock_code",
+        "action",
+        "price",
+        "quantity",
+        "reason"
+      ],
+      "index": [
+        "trade_id"
+      ]
+    },
+    "performance": {
+      "columns": [
+        "date",
+        "total_value",
+        "daily_return",
+        "win_rate",
+        "sharpe_ratio"
+      ],
+      "index": [
+        "date"
+      ]
+    }
+  }
+}

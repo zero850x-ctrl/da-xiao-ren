@@ -1,0 +1,28 @@
+{
+  "stock": "00992",
+  "date": "2026-02-19",
+  "prediction_date": "2026-02-19",
+  "current_price": 8.99,
+  "buy_price": 8.99,
+  "position": 26000,
+  "prediction": {
+    "probability_up": 0.14,
+    "probability_down": 0.86,
+    "signal": "🔴 強力賣出",
+    "confidence": 0.86,
+    "confidence_level": "極高",
+    "reason": "技術面轉弱，接近黃金分割位"
+  },
+  "technical_analysis": {
+    "golden_618": 8.81,
+    "distance_to_golden": 2.0431328036322416,
+    "support_level": 8.81,
+    "resistance_level": 9.2
+  },
+  "trading_advice": {
+    "primary": "獲利了結",
+    "secondary": "部分減倉",
+    "stop_loss": 8.81,
+    "take_profit": 9.2
+  }
+}

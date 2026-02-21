@@ -1,0 +1,1593 @@
+{
+  "00700": {
+    "first_seen": "2026-02-19 20:27:55",
+    "prices": [
+      {
+        "timestamp": "2026-02-19 20:48:28",
+        "price": 535.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-19 20:50:47",
+        "price": 535.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-19 20:51:14",
+        "price": 535.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-19 21:04:02",
+        "price": 535.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 09:03:54",
+        "price": 535.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 09:30:02",
+        "price": 532.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 09:30:02",
+        "price": 542.3108674751459,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 09:30:02",
+        "price": 535.0,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 10:03:54",
+        "price": 535.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 10:07:41",
+        "price": 525.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 10:07:41",
+        "price": 534.6414541733266,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 10:07:41",
+        "price": 533.8125,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 10:37:39",
+        "price": 522.0,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 10:37:39",
+        "price": 546.0314842647132,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 10:37:39",
+        "price": 531.4017857142857,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 11:03:54",
+        "price": 535.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 11:30:02",
+        "price": 521.0,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 11:30:02",
+        "price": 531.8306169228815,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 11:30:02",
+        "price": 528.8854166666666,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 11:30:09",
+        "price": 521.0,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 11:30:09",
+        "price": 538.6813962131686,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 11:30:09",
+        "price": 526.6625,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:00:03",
+        "price": 522.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:00:03",
+        "price": 525.0922379872978,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 12:00:03",
+        "price": 525.3325,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:03:54",
+        "price": 535.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:30:03",
+        "price": 522.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:30:03",
+        "price": 538.5228139981957,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 12:30:03",
+        "price": 525.5825,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:00:03",
+        "price": 522.0,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:00:03",
+        "price": 537.5937102892194,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:00:03",
+        "price": 525.7253571428571,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 521.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 546.0066074586841,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 525.4025,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 521.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 541.4478189001192,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 523.197,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 521.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:05:17",
+        "price": 535.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:00:02",
+        "price": 520.0,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:00:02",
+        "price": 541.6345330151707,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 14:00:02",
+        "price": 524.085642857143,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 14:03:55",
+        "price": 535.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:30:03",
+        "price": 521.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:30:03",
+        "price": 533.3298465753869,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 14:30:03",
+        "price": 526.1995000000001,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 14:30:12",
+        "price": 521.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:30:12",
+        "price": 526.1261188195516,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 14:30:12",
+        "price": 526.8,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:00:03",
+        "price": 520.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:00:03",
+        "price": 531.0774983091557,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:00:03",
+        "price": 525.1600000000001,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:00:11",
+        "price": 521.0,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:00:11",
+        "price": 544.9201097848044,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:00:11",
+        "price": 522.45,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:00:32",
+        "price": 521.0,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:00:32",
+        "price": 530.6269673152945,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:00:32",
+        "price": 522.35,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:03:54",
+        "price": 535.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:30:02",
+        "price": 520.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:30:02",
+        "price": 537.5701133683057,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:30:02",
+        "price": 523.8000000000001,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:30:20",
+        "price": 535.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:55:03",
+        "price": 521.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:55:03",
+        "price": 540.3583417527904,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:55:03",
+        "price": 526.0583333333333,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 16:03:55",
+        "price": 535.5,
+        "valid": true
+      }
+    ],
+    "validation_stats": {
+      "total": 73,
+      "valid": 42,
+      "invalid": 31
+    },
+    "last_price": 535.5,
+    "last_validation": "2026-02-20 16:03:55"
+  },
+  "09988": {
+    "first_seen": "2026-02-19 20:27:55",
+    "prices": [
+      {
+        "timestamp": "2026-02-19 20:48:28",
+        "price": 158.6,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-19 20:50:47",
+        "price": 158.6,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-19 20:50:55",
+        "price": 0.01,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-19 20:51:14",
+        "price": 158.6,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-19 21:04:02",
+        "price": 158.6,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 09:03:54",
+        "price": 158.6,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 09:30:02",
+        "price": 151.2,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 09:30:02",
+        "price": 156.49664506843442,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 09:30:02",
+        "price": 134.88714285714286,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 10:03:54",
+        "price": 158.6,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 10:07:41",
+        "price": 149.7,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 10:07:41",
+        "price": 157.6665289187177,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 10:07:41",
+        "price": 133.6157142857143,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 10:37:39",
+        "price": 148.7,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 10:37:39",
+        "price": 156.29039999765396,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 10:37:39",
+        "price": 153.35999999999999,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 11:03:54",
+        "price": 158.6,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 11:30:02",
+        "price": 148.7,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 11:30:02",
+        "price": 161.001673521178,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 11:30:02",
+        "price": 152.85999999999999,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 11:30:09",
+        "price": 148.6,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 11:30:09",
+        "price": 155.94502682136226,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 11:30:09",
+        "price": 151.14999999999998,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 12:00:03",
+        "price": 148.9,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:00:03",
+        "price": 157.4684798472779,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 12:00:03",
+        "price": 151.2,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:03:54",
+        "price": 158.6,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:30:03",
+        "price": 148.9,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:30:03",
+        "price": 157.70229183196489,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 12:30:03",
+        "price": 151.23999999999998,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:00:03",
+        "price": 149.0,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:00:03",
+        "price": 155.94049258762502,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:00:03",
+        "price": 151.32,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 149.1,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 157.7384904273778,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 151.35333333333332,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 149.1,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 161.24612558691277,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 149.63,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 149.1,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:05:17",
+        "price": 158.6,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:00:02",
+        "price": 148.7,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:00:02",
+        "price": 159.85533056481006,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 14:00:02",
+        "price": 150.705,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:03:55",
+        "price": 158.6,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:30:03",
+        "price": 148.6,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:30:03",
+        "price": 159.94398394152336,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 14:30:03",
+        "price": 151.9907142857143,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 14:30:12",
+        "price": 148.6,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:30:12",
+        "price": 156.17763327318735,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 14:30:12",
+        "price": 152.30083333333334,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:00:03",
+        "price": 148.4,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:00:03",
+        "price": 159.30530035641283,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:00:03",
+        "price": 150.981,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:00:11",
+        "price": 148.4,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:00:11",
+        "price": 161.59585254683117,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:00:11",
+        "price": 149.09525,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:00:32",
+        "price": 148.3,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:00:32",
+        "price": 156.55034224050218,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:00:32",
+        "price": 149.02024999999998,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:03:54",
+        "price": 158.6,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:30:02",
+        "price": 148.1,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:30:02",
+        "price": 160.49988781778603,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:30:02",
+        "price": 150.87619999999998,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:30:20",
+        "price": 158.6,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:55:03",
+        "price": 147.4,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:55:03",
+        "price": 157.5818040562507,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:55:03",
+        "price": 152.2,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 16:03:55",
+        "price": 158.6,
+        "valid": true
+      }
+    ],
+    "validation_stats": {
+      "total": 74,
+      "valid": 39,
+      "invalid": 35
+    },
+    "last_price": 158.6,
+    "last_validation": "2026-02-20 16:03:55"
+  },
+  "00992": {
+    "first_seen": "2026-02-19 20:27:55",
+    "prices": [
+      {
+        "timestamp": "2026-02-20 10:07:41",
+        "price": 9.24,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 10:07:41",
+        "price": 9.46363830009487,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 10:07:41",
+        "price": 9.304,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 10:07:41",
+        "price": 9.24,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 10:37:39",
+        "price": 9.17,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 10:37:39",
+        "price": 9.28825684307687,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 10:37:39",
+        "price": 9.259714285714285,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 11:03:54",
+        "price": 9.3,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 11:30:02",
+        "price": 9.19,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 11:30:02",
+        "price": 9.460774817190675,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 11:30:02",
+        "price": 9.240666666666668,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 11:30:02",
+        "price": 9.19,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 11:30:02",
+        "price": 9.407229323700735,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 11:30:02",
+        "price": 9.218,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 11:30:02",
+        "price": 9.19,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 11:30:09",
+        "price": 9.19,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 11:30:09",
+        "price": 9.124316574931882,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 11:30:09",
+        "price": 9.213,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:00:02",
+        "price": 9.24,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:00:02",
+        "price": 9.349184773525122,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 12:00:02",
+        "price": 9.206833333333334,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 12:00:03",
+        "price": 9.24,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:00:03",
+        "price": 9.330856090263424,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 12:00:03",
+        "price": 9.215166666666667,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 12:00:03",
+        "price": 9.24,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:03:54",
+        "price": 9.3,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:30:03",
+        "price": 9.24,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:30:03",
+        "price": 9.323452976777714,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 12:30:03",
+        "price": 9.251999999999999,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 12:30:03",
+        "price": 9.24,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:30:03",
+        "price": 9.322017438281488,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 12:30:03",
+        "price": 9.252,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:30:03",
+        "price": 9.24,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:00:03",
+        "price": 9.28,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:00:03",
+        "price": 9.24067012381862,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:00:03",
+        "price": 9.258666666666668,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:00:03",
+        "price": 9.28,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:00:03",
+        "price": 9.276150040589442,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:00:03",
+        "price": 9.2584,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:00:03",
+        "price": 9.28,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 9.3,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 9.269735631539406,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 9.273066666666667,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 9.3,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 9.372643326148614,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 9.283679999999999,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 9.3,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:05:17",
+        "price": 9.3,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:00:02",
+        "price": 9.26,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:00:02",
+        "price": 9.443176454414356,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 14:00:02",
+        "price": 9.292,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:00:02",
+        "price": 9.26,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:00:02",
+        "price": 9.32844863751627,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 14:00:02",
+        "price": 9.285333333333334,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 14:00:03",
+        "price": 9.26,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:03:55",
+        "price": 9.3,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:30:03",
+        "price": 9.25,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:30:03",
+        "price": 9.176165651030987,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 14:30:03",
+        "price": 9.270333333333333,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 14:30:03",
+        "price": 9.25,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:30:03",
+        "price": 9.173549800998536,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 14:30:03",
+        "price": 9.264,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:30:03",
+        "price": 9.25,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:30:12",
+        "price": 9.25,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:30:12",
+        "price": 9.347760535522335,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 14:30:12",
+        "price": 9.260666666666667,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:00:03",
+        "price": 9.25,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:00:03",
+        "price": 9.160350488341209,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:00:03",
+        "price": 9.252799999999999,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:00:03",
+        "price": 9.25,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:00:03",
+        "price": 9.419920652154495,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:00:03",
+        "price": 9.252799999999999,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:00:03",
+        "price": 9.25,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:00:11",
+        "price": 9.25,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:00:11",
+        "price": 9.196777587626801,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:00:11",
+        "price": 9.25,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:00:11",
+        "price": 9.25,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:00:11",
+        "price": 9.299505895893251,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:00:11",
+        "price": 9.25,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:00:11",
+        "price": 9.25,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:00:32",
+        "price": 9.24,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:00:32",
+        "price": 9.35037234367922,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:00:32",
+        "price": 9.248571428571427,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:03:54",
+        "price": 9.3,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:30:02",
+        "price": 9.23,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:30:02",
+        "price": 9.226333570076564,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:30:02",
+        "price": 9.253333333333336,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:30:02",
+        "price": 9.23,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:30:02",
+        "price": 9.347108446551655,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:30:02",
+        "price": 9.25,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:30:02",
+        "price": 9.23,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:30:20",
+        "price": 9.3,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:55:02",
+        "price": 9.23,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:55:03",
+        "price": 9.200789058310109,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:55:03",
+        "price": 9.245,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:55:03",
+        "price": 9.23,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:55:03",
+        "price": 9.26071138090587,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:55:03",
+        "price": 9.245000000000001,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 15:55:03",
+        "price": 9.23,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 16:03:55",
+        "price": 9.3,
+        "valid": true
+      }
+    ],
+    "validation_stats": {
+      "total": 123,
+      "valid": 72,
+      "invalid": 51
+    },
+    "last_price": 9.3,
+    "last_validation": "2026-02-20 16:03:55"
+  },
+  "INVALID": {
+    "first_seen": "2026-02-19 20:50:26",
+    "prices": [
+      {
+        "timestamp": "2026-02-19 20:50:26",
+        "price": 100.0,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-19 20:51:21",
+        "price": 100.0,
+        "valid": false
+      }
+    ],
+    "validation_stats": {
+      "total": 2,
+      "valid": 0,
+      "invalid": 2
+    },
+    "last_price": 100.0,
+    "last_validation": "2026-02-19 20:51:21"
+  },
+  "00005": {
+    "first_seen": "2026-02-19 20:50:47",
+    "prices": [
+      {
+        "timestamp": "2026-02-19 20:50:47",
+        "price": 134.2,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-19 20:51:14",
+        "price": 134.2,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-19 21:04:02",
+        "price": 134.2,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 09:03:54",
+        "price": 134.2,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 10:03:54",
+        "price": 134.2,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 11:03:54",
+        "price": 134.2,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:03:54",
+        "price": 134.2,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 134.6,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 136.431427901268,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 134.25,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:05:17",
+        "price": 134.2,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:03:55",
+        "price": 134.2,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:03:54",
+        "price": 134.2,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:30:20",
+        "price": 134.2,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 16:03:55",
+        "price": 134.2,
+        "valid": true
+      }
+    ],
+    "validation_stats": {
+      "total": 15,
+      "valid": 14,
+      "invalid": 1
+    },
+    "last_price": 134.2,
+    "last_validation": "2026-02-20 16:03:55"
+  },
+  "01398": {
+    "first_seen": "2026-02-19 20:50:47",
+    "prices": [
+      {
+        "timestamp": "2026-02-19 20:50:47",
+        "price": 6.4,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-19 20:51:14",
+        "price": 6.4,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-19 21:04:02",
+        "price": 6.4,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 09:03:54",
+        "price": 6.4,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 10:03:54",
+        "price": 6.4,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 11:03:54",
+        "price": 6.4,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:03:54",
+        "price": 6.4,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 6.49,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 6.487151751465304,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 6.41125,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:05:17",
+        "price": 6.4,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:03:55",
+        "price": 6.4,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:03:54",
+        "price": 6.4,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:30:20",
+        "price": 6.4,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 16:03:55",
+        "price": 6.4,
+        "valid": true
+      }
+    ],
+    "validation_stats": {
+      "total": 15,
+      "valid": 13,
+      "invalid": 2
+    },
+    "last_price": 6.4,
+    "last_validation": "2026-02-20 16:03:55"
+  },
+  "02638": {
+    "first_seen": "2026-02-19 20:50:47",
+    "prices": [
+      {
+        "timestamp": "2026-02-19 20:50:47",
+        "price": 6.97,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-19 20:51:14",
+        "price": 6.97,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-19 21:04:02",
+        "price": 6.97,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 09:03:54",
+        "price": 6.97,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 10:03:54",
+        "price": 6.97,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 11:03:54",
+        "price": 6.97,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:03:54",
+        "price": 6.97,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 6.97,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 7.095000894556245,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 6.97,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:05:17",
+        "price": 6.97,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:03:55",
+        "price": 6.97,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:03:54",
+        "price": 6.97,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:30:20",
+        "price": 6.97,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 16:03:55",
+        "price": 6.97,
+        "valid": true
+      }
+    ],
+    "validation_stats": {
+      "total": 15,
+      "valid": 14,
+      "invalid": 1
+    },
+    "last_price": 6.97,
+    "last_validation": "2026-02-20 16:03:55"
+  },
+  "09618": {
+    "first_seen": "2026-02-19 20:50:47",
+    "prices": [
+      {
+        "timestamp": "2026-02-19 20:50:47",
+        "price": 105.9,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-19 20:51:14",
+        "price": 105.9,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-19 21:04:02",
+        "price": 105.9,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 09:03:54",
+        "price": 105.9,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 10:03:54",
+        "price": 105.9,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 11:03:54",
+        "price": 105.9,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 12:03:54",
+        "price": 105.9,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 104.5,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 104.34871929647845,
+        "valid": false
+      },
+      {
+        "timestamp": "2026-02-20 13:03:15",
+        "price": 105.725,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 13:05:17",
+        "price": 105.9,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 14:03:55",
+        "price": 105.9,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:03:54",
+        "price": 105.9,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 15:30:20",
+        "price": 105.9,
+        "valid": true
+      },
+      {
+        "timestamp": "2026-02-20 16:03:55",
+        "price": 105.9,
+        "valid": true
+      }
+    ],
+    "validation_stats": {
+      "total": 15,
+      "valid": 14,
+      "invalid": 1
+    },
+    "last_price": 105.9,
+    "last_validation": "2026-02-20 16:03:55"
+  }
+}

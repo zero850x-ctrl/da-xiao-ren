@@ -1,0 +1,67 @@
+{
+  "timestamp": "2026-02-12T16:00:04.151501",
+  "summary": {
+    "timestamp": "16:00",
+    "total_positions": 5,
+    "total_value": 488720.0,
+    "total_pnl": 6864.613000000012,
+    "total_pnl_pct": 1.4246209931860765,
+    "holdings": [
+      {
+        "code": "HK.00700",
+        "qty": 200.0,
+        "current_price": 533.0,
+        "market_val": 106600.0,
+        "pnl": -100.0,
+        "pnl_pct": -0.09372071227741331,
+        "sell_net": 106478.4,
+        "cost_pct": 0.11407129455909945
+      },
+      {
+        "code": "HK.00992",
+        "qty": 26000.0,
+        "current_price": 8.94,
+        "market_val": 232440.0,
+        "pnl": -1300.0,
+        "pnl_pct": -0.5561735261401557,
+        "sell_net": 232192.56,
+        "cost_pct": 0.1064532782653588
+      },
+      {
+        "code": "HK.09618",
+        "qty": 250.0,
+        "current_price": 108.4,
+        "market_val": 27100.0,
+        "pnl": 9344.612999999998,
+        "pnl_pct": 52.629734288528866,
+        "sell_net": 27057.9,
+        "cost_pct": 0.15535055350553506
+      },
+      {
+        "code": "HK.02800",
+        "qty": 4500.0,
+        "current_price": 27.24,
+        "market_val": 122580.0,
+        "pnl": -1080.0,
+        "pnl_pct": -0.8733624454148471,
+        "sell_net": 122442.42,
+        "cost_pct": 0.11223690651003425
+      },
+      {
+        "code": "HK.00700",
+        "qty": 0.0,
+        "current_price": 0,
+        "market_val": 0.0,
+        "pnl": 0.0,
+        "pnl_pct": 0,
+        "sell_net": -15.0,
+        "cost_pct": 0
+      }
+    ],
+    "alerts": [
+      "\ud83d\udcb0 HK.09618: \u76c8\u522952.6%"
+    ]
+  },
+  "whatsapp_sent": true,
+  "message_preview": "\ud83d\udcca \u4ea4\u6613\u76e3\u63a7 (16:00)\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\n\ud83d\udce6 \u6301\u5009: 5\u500b\n\ud83d\udcb0 \u7e3d\u5e02\u503c: HKD 488,720\n\ud83d\udcc8 \u7e3d\u76c8\u8667: HKD +6,865 (+1.4%)\n..."
+}

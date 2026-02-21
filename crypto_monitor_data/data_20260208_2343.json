@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-02-08T23:43:07.620753",
+  "symbols": {
+    "BTCUSDT": {
+      "error": "HTTPSConnectionPool(host='testnet.binance.vision', port=443): Read timed out. (read timeout=10)"
+    },
+    "ETHUSDT": {
+      "error": "HTTPSConnectionPool(host='testnet.binance.vision', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=ETHUSDT (Caused by NameResolutionError(\"HTTPSConnection(host='testnet.binance.vision', port=443): Failed to resolve 'testnet.binance.vision' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    "BNBUSDT": {
+      "error": "HTTPSConnectionPool(host='testnet.binance.vision', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=BNBUSDT (Caused by NameResolutionError(\"HTTPSConnection(host='testnet.binance.vision', port=443): Failed to resolve 'testnet.binance.vision' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    }
+  }
+}

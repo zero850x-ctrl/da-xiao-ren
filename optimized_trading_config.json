@@ -1,0 +1,11 @@
+{
+  "max_position_size": 0.25,
+  "stop_loss_pct": 0.04,
+  "take_profit_pct": 0.12,
+  "rsi_overbought": 68,
+  "rsi_oversold": 32,
+  "min_volume": 800000,
+  "trade_frequency": "15min",
+  "use_more_indicators": true,
+  "dynamic_position_sizing": true
+}

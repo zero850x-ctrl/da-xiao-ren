@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-02-09T19:59:40.932580",
+  "summary": {
+    "timestamp": "19:59",
+    "total_positions": 2,
+    "total_value": 113785.0,
+    "total_pnl": 20759.613000000012,
+    "total_pnl_pct": 22.316072708195254,
+    "holdings": [
+      {
+        "code": "HK.02800",
+        "qty": 2000.0,
+        "current_price": 27.22,
+        "market_val": 54440.0,
+        "pnl": 11720.0,
+        "pnl_pct": 27.43445692883895,
+        "sell_net": 54370.56,
+        "cost_pct": 0.12755326965466568
+      },
+      {
+        "code": "HK.09618",
+        "qty": 550.0,
+        "current_price": 107.9,
+        "market_val": 59345.0,
+        "pnl": 9039.613000000005,
+        "pnl_pct": 17.969473130183864,
+        "sell_net": 59270.655,
+        "cost_pct": 0.12527592889038672
+      }
+    ],
+    "alerts": [
+      "\ud83d\udcb0 HK.02800: \u76c8\u522927.4%",
+      "\ud83d\udcb0 HK.09618: \u76c8\u522918.0%"
+    ]
+  },
+  "whatsapp_sent": true,
+  "message_preview": "\ud83d\udcca \u4ea4\u6613\u76e3\u63a7 (19:59)\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\n\ud83d\udce6 \u6301\u5009: 2\u500b\n\ud83d\udcb0 \u7e3d\u5e02\u503c: HKD 113,785\n\ud83d\udcc8 \u7e3d\u76c8\u8667: HKD +20,760 (+22.3%..."
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-02-19",
+  "recommendations": [
+    {
+      "action": "BUY",
+      "stocks": [
+        {
+          "code": "00005",
+          "confidence": 0.9893403649330139
+        },
+        {
+          "code": "00700",
+          "confidence": 0.9893403649330139
+        },
+        {
+          "code": "09988",
+          "confidence": 0.9893403649330139
+        }
+      ],
+      "reason": "技術面看好"
+    }
+  ],
+  "risk_assessment": "中等",
+  "market_outlook": "謹慎樂觀"
+}

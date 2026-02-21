@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-02-08T21:40:51.943359",
+  "symbols": {
+    "BTCUSDT": {
+      "price": 71252.27,
+      "change_24h": 3.358,
+      "high_24h": 98000.2,
+      "low_24h": 40000.0,
+      "volatility": 58000.2
+    },
+    "ETHUSDT": {
+      "price": 2125.23,
+      "change_24h": 4.54,
+      "high_24h": 3791.98,
+      "low_24h": 1121.34,
+      "volatility": 2670.6400000000003
+    },
+    "BNBUSDT": {
+      "price": 643.07,
+      "change_24h": 0.994,
+      "high_24h": 803.52,
+      "low_24h": 526.98,
+      "volatility": 276.53999999999996
+    }
+  }
+}

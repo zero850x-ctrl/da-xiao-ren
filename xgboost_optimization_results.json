@@ -1,0 +1,31 @@
+{
+  "optimization_date": "2026-02-19 19:41:20",
+  "best_parameters": {
+    "max_depth": 4,
+    "learning_rate": 0.05,
+    "n_estimators": 200,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "gamma": 0.1,
+    "reg_alpha": 0.1,
+    "reg_lambda": 1.0
+  },
+  "best_accuracy": 0.99,
+  "feature_count": 14,
+  "feature_importance": {
+    "open": 0.04920148476958275,
+    "high": 0.12722629308700562,
+    "low": 0.06113443151116371,
+    "close": 0.023429468274116516,
+    "volume": 0.04745975881814957,
+    "MA8": 0.07951778918504715,
+    "MA13": 0.08979250490665436,
+    "MA34": 0.07016884535551071,
+    "golden_618": 0.1490054428577423,
+    "RSI": 0.04472659155726433,
+    "return_1d": 0.045257046818733215,
+    "return_5d": 0.06394262611865997,
+    "return_20d": 0.10271291434764862,
+    "volume_ratio": 0.04642485827207565
+  }
+}

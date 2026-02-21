@@ -1,0 +1,9 @@
+{
+  "bot_token": "YOUR_BOT_TOKEN_HERE",
+  "chat_id": "YOUR_CHAT_ID_HERE",
+  "trading": {
+    "symbol": "XAUUSD",
+    "lot_size": 0.01,
+    "max_daily_signals": 3
+  }
+}

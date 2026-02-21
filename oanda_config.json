@@ -1,0 +1,17 @@
+{
+  "api_key": "YOUR_OANDA_API_KEY_HERE",
+  "account_id": "1600092639",
+  "environment": "practice",
+  "symbol": "XAU_USD",
+  "lot_size": 0.01,
+  "max_daily_trades": 3,
+  "max_concurrent_trades": 2,
+  "strategies": {
+    "trend_following": true,
+    "mean_reversion": true,
+    "breakout": true
+  },
+  "mt5_login": "1600092639",
+  "mt5_password": "EgC1#zHbU",
+  "mt5_server": "OANDA_Global-Demo-1"
+}

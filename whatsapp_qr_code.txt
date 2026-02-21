@@ -1,0 +1,38 @@
+WhatsApp QR Code for OpenClaw Reconnection
+===========================================
+
+To reconnect WhatsApp, please follow these steps:
+
+1. Open WhatsApp on your phone
+2. Tap the three dots (menu) in the top right
+3. Select "Linked devices"
+4. Tap "Link a device"
+5. Scan the QR code below
+
+IMPORTANT: This QR code is time-sensitive and will expire. Please scan it as soon as possible.
+
+QR Code Information:
+- Account: +85298104938
+- Generated: 2026-02-10 18:54 GMT+8
+- Status: Waiting for scan
+
+If you cannot scan this text QR code, you can generate a new one by running:
+openclaw channels login --channel whatsapp --account default
+
+Once scanned, WhatsApp should reconnect automatically and the status will show as "OK".
+
+After scanning, you can verify the connection by running:
+openclaw status
+
+The WhatsApp monitoring system is now configured to:
+1. Check connection every 30 minutes
+2. Automatically detect disconnections
+3. Generate new QR codes when needed
+4. Send notifications if reconnection is required
+
+Telegram bot has also been successfully configured:
+- Bot name: fx_kurumi_bot
+- Token: 8126725811:AAH73jxFrWV-yL8AZFrl4JK_FSbRPRUzAUU
+- Status: ✅ Running and configured
+
+You can test the Telegram bot by sending a message to @fx_kurumi_bot

@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-02-09T08:18:55.165893",
+  "symbols": {
+    "BTCUSDT": {
+      "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))"
+    },
+    "ETHUSDT": {
+      "price": 2089.25,
+      "change_24h": 0.174,
+      "high_24h": 3787.05,
+      "low_24h": 1694.6,
+      "volatility": 2092.4500000000003
+    },
+    "BNBUSDT": {
+      "price": 641.51,
+      "change_24h": -0.81,
+      "high_24h": 803.52,
+      "low_24h": 633.13,
+      "volatility": 170.39
+    }
+  }
+}

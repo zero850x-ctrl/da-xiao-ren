@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-02-20 12:15:31",
+  "account_info": {
+    "total_assets": 972555.013,
+    "cash": 474740.013
+  },
+  "trade_strategy": {
+    "percentage": 0.05,
+    "planned_amount": 48627.75065
+  },
+  "trades_executed": [
+    {
+      "order_id": "7443325",
+      "stock_code": "HK.09868",
+      "stock_name": "小鵬汽車-W",
+      "action": "BUY",
+      "price": 68.2,
+      "lots": 2,
+      "quantity": 200,
+      "amount": 13640.0,
+      "strategy": "MOMENTUM",
+      "reason": "技術突破，動能強勁",
+      "weight_percentage": 1.402491357062184,
+      "timestamp": "2026-02-20 12:15:30",
+      "status": "SUBMITTED"
+    }
+  ],
+  "summary": {
+    "total_trades": 1,
+    "successful_trades": 0,
+    "total_amount": 13640.0,
+    "percentage_of_assets": 1.402491357062184
+  }
+}

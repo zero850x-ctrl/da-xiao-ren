@@ -1,0 +1,23 @@
+{
+  "optimized_strategy": "\u5e73\u8861\u7b56\u7565",
+  "parameters": {
+    "name": "\u5e73\u8861\u7b56\u7565",
+    "sma_short": 15,
+    "sma_long": 40,
+    "rsi_period": 10,
+    "rsi_low": 25,
+    "rsi_high": 75,
+    "stop_loss": 60,
+    "take_profit": 120,
+    "threshold": 0.5
+  },
+  "performance": {
+    "total_profit": -17.767825859096725,
+    "win_rate": 31.76470588235294,
+    "total_trades": 170,
+    "profit_percent": -1.7767825859096726
+  },
+  "optimization_date": "2026-02-17T12:28:48.545935",
+  "max_lot_size": 0.01,
+  "initial_balance": 1000
+}

@@ -28,6 +28,18 @@
     "peekaboo": {
       "version": "1.0.0",
       "installedAt": 1770554947583
+    },
+    "desktop-control": {
+      "version": "1.0.0",
+      "installedAt": 1771075383386
+    },
+    "chrome": {
+      "version": "1.0.0",
+      "installedAt": 1771075389653
+    },
+    "browser-automation": {
+      "version": "1.0.1",
+      "installedAt": 1771075398675
     }
   }
 }

@@ -1,0 +1,51 @@
+# ===== 優化後的Cron配置（避開23:30-06:30斷電） =====
+# 創建時間: 2026-02-09 19:40
+# 網絡斷電時段: 23:30-06:30
+# 更新: 添加每30分鐘交易監控
+# 修復時間: 2026-02-15 - 添加PATH解決which openclaw問題
+
+# 設置PATH確保cron能找到openclaw
+PATH=/Users/gordonlui/.npm-global/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin
+
+# 加密貨幣報告（07:00-22:00每小時，避開斷電）
+5 7-22 * * * cd /Users/gordonlui/.openclaw/workspace && python3 crypto_hourly_report.py >> /Users/gordonlui/.openclaw/workspace/crypto_reports/cron.log 2>&1
+
+# 每日學習總結（07:10）
+10 7 * * * cd /Users/gordonlui/.openclaw/workspace && python3 crypto_data/daily_monitor.py >> /Users/gordonlui/.openclaw/workspace/crypto_reports/daily.log 2>&1
+
+# OpenClaw會話監控（07:00-22:00每小時）
+0 7-22 * * * /Users/gordonlui/.openclaw/monitor_session.sh >> /Users/gordonlui/.openclaw/session_monitor.log 2>&1
+
+# OpenClaw系統清理（07:30）
+30 7 * * * /Users/gordonlui/.openclaw/session_cleanup.sh >> /Users/gordonlui/.openclaw/cleanup.log 2>&1
+
+# OpenClaw Gateway重啟（周日09:00）
+0 9 * * 0 /Users/gordonlui/.npm-global/bin/openclaw gateway restart >> /Users/gordonlui/.openclaw/gateway_restart.log 2>&1
+
+# WhatsApp連接監控（08:00-22:00每2小時）
+
+# 會話使用率警報（08:00-22:00每30分鐘）
+*/30 8-22 * * * USAGE=$(/Users/gordonlui/.npm-global/bin/openclaw session_status 2>/dev/null | grep -E 'Context:|Tokens:' | head -1 | sed -n 's/.*Context: \([0-9]\+\)k\/\([0-9]\+\)k.*/\1/p'); if [ -n "$USAGE" ] && [ "$USAGE" -gt 100 ]; then /Users/gordonlui/.npm-global/bin/openclaw message --channel whatsapp --to +85298104938 --message "⚠️ 會話使用率: ${USAGE}k/128k" >> /Users/gordonlui/.openclaw/whatsapp_alerts.log 2>&1; fi
+
+# 富途交易任務（交易日09:00-16:30）
+11 9 * * 1-5 cd /Users/gordonlui/.openclaw/workspace && python3 futu_monday_prep.py >> /Users/gordonlui/.openclaw/futu_prep.log 2>&1
+
+# 富途交易監控（交易日09:30-16:00每30分鐘，包含成本計算和15分鐘圖）
+*/30 9-16 * * 1-5 cd /Users/gordonlui/.openclaw/workspace && python3 futu_quick_monitor.py >> /Users/gordonlui/.openclaw/futu_monitor.log 2>&1
+
+# 富途每日交易總結（16:30）
+30 16 * * 1-5 cd /Users/gordonlui/.openclaw/workspace && python3 futu_daily_summary.py >> /Users/gordonlui/.openclaw/futu_summary.log 2>&1
+
+# 任務狀態監控（08:15）
+15 8 * * * /Users/gordonlui/.openclaw/task_monitor.py >> /Users/gordonlui/.openclaw/task_monitor.log 2>&1
+
+# Mac睡眠提醒（22:45 - 提前15分鐘提醒）
+45 22 * * * /Users/gordonlui/.npm-global/bin/openclaw message --channel whatsapp --to +85298104938 --message "⏰ 15分鐘後網絡將斷電 (23:00)，請保存工作" >> /Users/gordonlui/.openclaw/sleep_reminder.log 2>&1
+
+# WhatsApp連接恢復檢查（07:15 - 網絡恢復後檢查）
+
+# 系統健康檢查（08:00-22:00每小時）
+0 8-22 * * * echo "$(date): 系統運行正常" >> /Users/gordonlui/.openclaw/workspace/crypto_reports/health.log 2>&1
+
+# DNS連接監控（每小時）
+0 */2 * * * /Users/gordonlui/.openclaw/dns_monitor.sh >> /Users/gordonlui/.openclaw/dns_monitor.log 2>&1

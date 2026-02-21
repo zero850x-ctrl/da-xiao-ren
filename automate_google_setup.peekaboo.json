@@ -1,0 +1,58 @@
+{
+  "name": "自動化Google Cloud Console設置",
+  "description": "自動完成Google API設置，包括創建項目、啟用API、創建OAuth憑證",
+  "version": "1.0",
+  "author": "OpenClaw Assistant",
+  "steps": [
+    {
+      "name": "檢查權限",
+      "command": "peekaboo permissions",
+      "description": "確認屏幕錄製和輔助功能權限"
+    },
+    {
+      "name": "啟動Chrome瀏覽器",
+      "command": "peekaboo app launch \"Google Chrome\"",
+      "description": "打開Google Chrome瀏覽器",
+      "wait": 3
+    },
+    {
+      "name": "導航到Google Cloud Console",
+      "command": "peekaboo keyboard type \"https://console.cloud.google.com/\"",
+      "description": "輸入網址",
+      "wait": 1
+    },
+    {
+      "name": "按下Enter",
+      "command": "peekaboo keyboard press \"Enter\"",
+      "description": "加載頁面",
+      "wait": 5
+    },
+    {
+      "name": "截屏確認",
+      "command": "peekaboo image --output /tmp/google_cloud_loaded.png",
+      "description": "確認頁面加載成功"
+    },
+    {
+      "name": "檢查是否已登錄",
+      "command": "peekaboo image --region \"右上角頭像區域\" --output /tmp/login_status.png",
+      "description": "檢查Google賬號登錄狀態"
+    }
+  ],
+  "variables": {
+    "project_name": "OpenClaw-Gog",
+    "apis_to_enable": [
+      "Gmail API",
+      "Google Calendar API", 
+      "Google Drive API",
+      "Google Sheets API",
+      "Google Docs API",
+      "People API"
+    ]
+  },
+  "notes": [
+    "需要屏幕錄製和輔助功能權限",
+    "確保Chrome瀏覽器已安裝",
+    "確保已登錄Google賬號",
+    "此腳本為概念驗證，實際操作可能需要調整坐標和等待時間"
+  ]
+}

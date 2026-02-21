@@ -1,0 +1,22 @@
+{
+  "name": "交易監控 09:30 - 開市綜合分析",
+  "description": "開市時執行綜合分析：價格檢查、XGBoost預測更新、風險評估",
+  "schedule": {
+    "kind": "cron",
+    "expr": "30 9 * * 1-5",
+    "tz": "Asia/Hong_Kong"
+  },
+  "payload": {
+    "kind": "agentTurn",
+    "message": "執行開市綜合分析任務。時間: 09:30。運行交易定時任務系統的開市分析。執行: python3 /Users/gordonlui/.openclaw/workspace/trading_schedule_system.py --time 09:30。重點監控: 00992聯想集團、00700騰訊、09988阿里巴巴。",
+    "model": "deepseek/deepseek-coder",
+    "thinking": "normal"
+  },
+  "sessionTarget": "isolated",
+  "delivery": {
+    "mode": "announce",
+    "channel": "telegram",
+    "to": "7955740007"
+  },
+  "enabled": true
+}

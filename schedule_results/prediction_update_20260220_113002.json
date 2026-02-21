@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-02-20 11:30:02",
+  "results": [
+    {
+      "stock": "00992",
+      "prediction": {
+        "probability_up": 0.65,
+        "signal": "\ud83d\udfe2 \u6301\u6709/\u52a0\u5009",
+        "confidence": 0.30000000000000004,
+        "validated_price": 9.19,
+        "prediction_time": "2026-02-20 11:30:02"
+      },
+      "advice": {
+        "action": "BUY",
+        "strength": "\u4e2d",
+        "reason": "\u4e0a\u6f32\u6982\u7387\u8f03\u9ad8",
+        "suggested_price": 9.19,
+        "stop_loss": 9.0062,
+        "take_profit": 9.4657
+      }
+    }
+  ]
+}

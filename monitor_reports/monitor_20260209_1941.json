@@ -1,0 +1,51 @@
+{
+  "timestamp": "2026-02-09T19:41:13.978554",
+  "portfolio": [
+    {
+      "code": "HK.02800",
+      "qty": 2000.0,
+      "cost_price": 21.36,
+      "current_price": 27.22,
+      "market_val": 54440.0,
+      "unrealized_pnl": 11720.0,
+      "unrealized_pnl_pct": 27.43445692883895,
+      "sell_net_amount": 54370.56,
+      "chart_analysis": {
+        "current_price": 27.22,
+        "prev_close": 27.22,
+        "change": 0.0,
+        "change_pct": 0.0,
+        "volume": 104919500.0,
+        "avg_volume_5": 49278700.0,
+        "high_5": 27.34,
+        "low_5": 27.2,
+        "trend": "neutral"
+      }
+    },
+    {
+      "code": "HK.09618",
+      "qty": 550.0,
+      "cost_price": 91.46433999999999,
+      "current_price": 107.9,
+      "market_val": 59345.0,
+      "unrealized_pnl": 9039.613000000005,
+      "unrealized_pnl_pct": 17.969473130183864,
+      "sell_net_amount": 59270.655,
+      "chart_analysis": {
+        "current_price": 107.9,
+        "prev_close": 108.2,
+        "change": -0.29999999999999716,
+        "change_pct": -0.2772643253234724,
+        "volume": 2397600.0,
+        "avg_volume_5": 761390.0,
+        "high_5": 109.1,
+        "low_5": 107.9,
+        "trend": "neutral"
+      }
+    }
+  ],
+  "cost_settings": {
+    "platform_fee": 15.0,
+    "tax_rate": 0.001
+  }
+}
