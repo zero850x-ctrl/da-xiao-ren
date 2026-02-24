@@ -21,9 +21,9 @@ sys.path.insert(0, '/Users/gordonlui/.openclaw/workspace')
 
 # 監控股票列表 (久留美模擬倉 + Gordon持倉 + 擴展監控)
 STOCKS = {
-    # 久留美持倉
-    'HK.00992': {'name': '聯想集團', 'owner': '久留美'},
-    'HK.00700': {'name': '騰訊控股', 'owner': '久留美'},
+    # 久留美持倉 (已更新 2026-02-24)
+    # HK.00700: {'name': '騰訊控股', 'owner': '久留美'}, # 已止損
+    # HK.00992: {'name': '聯想集團', 'owner': '久留美'}, # 尋日賣出
     'HK.03750': {'name': '寧德時代', 'owner': 'Monitor'},
     'HK.02800': {'name': '盈富基金', 'owner': '久留美'},
     'HK.07500': {'name': '兩倍看空', 'owner': '久留美'},
