@@ -1,5 +1,42 @@
 # MEMORY.md - Long-Term Memory
 
+---
+
+# ⚠️ 核心提醒 (每次對話必須檢查)
+
+## 🚨 兩個倉口 - 必須分清楚！
+
+### 1. Gordon既實盤 (真錢 Self-managed)
+| 股票代碼 | 名稱 |
+|----------|------|
+| 00992 | 聯想集團 |
+| 00005 | 匯豐控股 |
+| 01398 | 工商銀行 |
+| 02638 | 港燈-SS |
+| 09618 | 京東集團 |
+
+### 2. 久留美模擬倉 (Kurumi Simulated)
+| 股票代碼 | 名稱 | 股數 | 成本 |
+|----------|------|------|------|
+| 07500 | 兩倍看空 | 30,000 | $1.63 |
+| 00700 | 騰訊控股 | 200 | $519.50 |
+| 02800 | 盈富基金 | 4,500 | $26.78 |
+| 01211 | 比亞迪 | 600 | $98.45 |
+
+**每次monitor同report必須確認係邊個倉！**
+
+## 📊 Cron數據優先
+- 模擬倉既最新價錢同持倉要去cron output度拎
+- 唔好假設，要check data
+- 路徑: `/Users/gordonlui/.openclaw/workspace/monitor_reports/quick_*.json`
+
+## 🔄 XGBoost Cron
+- 每5分鐘執行一次 (9:00-16:00)
+- 監控曬所有持倉股票
+- Script: `xgboost_multi_stock.py`
+
+---
+
 ## Language & Communication Settings
 
 ### 2026-02-21: 繁體中文溝通設定
@@ -216,26 +253,11 @@
 - ✅ 每日复盘，持续优化交易策略
 - ✅ 完整记录，便于回溯和学习
 
+---
+
 ## Important Context: Two Portfolios
 
-### User's Real Account (Self-managed)
-| Stock | Status |
-|-------|--------|
-| 00992 聯想集團 | +6.75% |
-| 00005 匯豐控股 | +125.93% |
-| 01398 工商銀行 | +43.5% |
-| 02638 港燈-SS | +43.71% |
-| 09618 京東集團 | -11.75% |
-
-### Simulated Account (Kurumi trades)
-| Stock | Shares | Cost |
-|-------|--------|------|
-| 07500 兩倍看空 | 30,000 | $1.63 |
-| 00700 騰訊 | 200 | $519.50 |
-| 02800 盈富 | 4,500 | $26.78 |
-| 01211 比亞迪 | 600 | $98.45 |
-
-**重要：每次monitor同report要確認係邊個倉！**
+(See above "核心提醒" for latest portfolio info)
 - Timezone: Asia/Hong_Kong (GMT+8)
 - Uses Futu OpenD for stock trading
 - Interested in technical analysis and automation
