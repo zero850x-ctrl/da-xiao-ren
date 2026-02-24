@@ -23,13 +23,11 @@ print("=" * 70)
 print(f"分析時間: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 print("=" * 70)
 
-# 監控的股票列表
+# 監控的股票列表 (2026-02-24 更新：實際持倉)
 MONITORED_STOCKS = [
-    {"code": "02800", "name": "盈富基金"},
+    {"code": "07500", "name": "兩倍看空恆指"},
     {"code": "00700", "name": "騰訊控股"},
-    {"code": "09988", "name": "阿里巴巴"},
-    {"code": "01299", "name": "友邦保險"},
-    {"code": "02318", "name": "中國平安"},
+    {"code": "02800", "name": "盈富基金"},
 ]
 
 def get_simulated_data(stock_code):

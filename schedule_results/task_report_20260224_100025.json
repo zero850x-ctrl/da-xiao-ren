@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-02-24 10:00:25",
+  "time_slot": "10:00",
+  "tasks_executed": [
+    "price_check",
+    "breakout_detect"
+  ],
+  "tasks_successful": 2,
+  "success_rate": 100.0,
+  "results_summary": {
+    "price_check": {
+      "status": "success",
+      "summary": "[{'stock': '00992', 'price': 9.48, 'source': 'get_price_from_futu', 'time': '10:00:25'}, {'stock': '"
+    },
+    "breakout_detect": {
+      "status": "success",
+      "summary": "False"
+    }
+  },
+  "system_status": {
+    "uptime_hours": 0.0,
+    "total_tasks_executed": 2,
+    "recent_success_rate": 100.0,
+    "recent_failures": 0,
+    "monitoring_stocks": 7,
+    "next_scheduled_time": "10:30"
+  }
+}

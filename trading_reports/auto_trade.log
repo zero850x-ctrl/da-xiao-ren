@@ -1,0 +1,2814 @@
+🤖 全自動交易系統啟動 - 13:09:16
+==================================================
+2026-02-23 13:09:16,952 | 53209 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431565793360529245(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105254ca0>
+2026-02-23 13:09:16,954 | 53209 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431565793368990276(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x105254c70>
+💰 總資產: HKD 985,398.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,707.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 1 個SELL信號:
+   HK.09618: $107.5 - 漲3.6%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 13:09:16,965 | 53209 | 6202568704 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 13:09:16,965 | 53209 | 6202568704 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 13:19:16
+==================================================
+2026-02-23 13:19:16,999 | 53390 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431568310137733601(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1048d4c70>
+2026-02-23 13:19:17,002 | 53390 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431568310151260896(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1048d4c40>
+💰 總資產: HKD 985,398.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,707.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 1 個SELL信號:
+   HK.09618: $107.8 - 漲3.9%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 13:19:17,012 | 53390 | 6137966592 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 13:19:17,012 | 53390 | 6137966592 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 13:20:14
+==================================================
+2026-02-23 13:20:14,247 | 53405 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431568550251038661(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1098dcc70>
+2026-02-23 13:20:14,250 | 53405 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431568550268734505(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1098dcc40>
+💰 總資產: HKD 985,398.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,707.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 1 個SELL信號:
+   HK.09618: $107.8 - 漲3.9%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 13:20:14,261 | 53405 | 6128807936 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 13:20:14,261 | 53405 | 6128807936 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 13:22:42
+==================================================
+2026-02-23 13:22:42,465 | 53510 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431569171920671489(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x100a3cc70>
+2026-02-23 13:22:42,468 | 53510 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431569171936926775(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x100a3cc40>
+💰 總資產: HKD 985,398.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,707.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 1 個SELL信號:
+   HK.09618: $107.8 - 漲3.9%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 13:22:42,478 | 53510 | 6203584512 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 13:22:42,478 | 53510 | 6203584512 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 13:25:09
+==================================================
+2026-02-23 13:25:09,795 | 53637 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431569789868110301(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x10360cc70>
+2026-02-23 13:25:09,798 | 53637 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431569789880949025(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10360cc40>
+💰 總資產: HKD 985,398.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,707.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 1 個SELL信號:
+   HK.09618: $107.8 - 漲3.9%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 13:25:09,808 | 53637 | 6157512704 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 13:25:09,808 | 53637 | 6157512704 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 13:30:10
+==================================================
+2026-02-23 13:30:10,602 | 53716 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431571051548354784(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105ee8c70>
+2026-02-23 13:30:10,606 | 53716 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431571051560233826(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x105ee8c40>
+💰 總資產: HKD 985,398.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,707.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 1 個SELL信號:
+   HK.09618: $107.8 - 漲3.9%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 13:30:10,615 | 53716 | 6189527040 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 13:30:10,616 | 53716 | 6189527040 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 13:35:13
+==================================================
+2026-02-23 13:35:13,235 | 53797 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431572320880571561(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x104890c70>
+2026-02-23 13:35:13,238 | 53797 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431572320891795900(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x104890c40>
+💰 總資產: HKD 985,398.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,707.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 1 個SELL信號:
+   HK.09618: $107.8 - 漲3.9%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 13:35:13,247 | 53797 | 6132985856 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 13:35:13,248 | 53797 | 6132985856 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 13:40:32
+==================================================
+2026-02-23 13:40:32,862 | 53856 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431573661494344304(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x109260c70>
+2026-02-23 13:40:32,865 | 53856 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431573661507852925(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x109260c40>
+💰 總資產: HKD 985,398.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,707.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 2 個SELL信號:
+   HK.09868: $69.25 - 漲2.1%+成交量賣出
+   HK.09618: $107.7 - 漲3.8%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 13:40:32,875 | 53856 | 6135558144 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 13:40:32,875 | 53856 | 6135558144 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 13:51:56
+==================================================
+2026-02-23 13:51:56,977 | 54014 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431576530884410328(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x10798cc70>
+2026-02-23 13:51:56,980 | 54014 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431576530892738121(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10798cc40>
+💰 總資產: HKD 985,458.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,709.17
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 2 個SELL信號:
+   HK.09868: $69.3 - 漲2.1%+成交量賣出
+   HK.09618: $107.8 - 漲3.9%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 13:51:56,991 | 54014 | 6161543168 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 13:51:56,991 | 54014 | 6161543168 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 13:55:10
+==================================================
+2026-02-23 13:55:10,947 | 54066 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431577344453261491(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x107158c70>
+2026-02-23 13:55:10,950 | 54066 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431577344464120062(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x107158c40>
+💰 總資產: HKD 985,458.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,709.17
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 2 個SELL信號:
+   HK.09868: $69.3 - 漲2.1%+成交量賣出
+   HK.09618: $108.0 - 漲4.0%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 13:55:10,960 | 54066 | 6169817088 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 13:55:10,960 | 54066 | 6169817088 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 14:00:45
+==================================================
+2026-02-23 14:00:45,830 | 54185 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431578749049085887(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x109cf3fd0>
+2026-02-23 14:00:45,834 | 54185 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431578749066505412(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x109cf3fa0>
+💰 總資產: HKD 985,458.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,709.17
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 2 個SELL信號:
+   HK.09868: $69.55 - 漲2.5%+成交量賣出
+   HK.09618: $108.0 - 漲4.0%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 14:00:45,843 | 54185 | 6124367872 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 14:00:45,845 | 54185 | 6124367872 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 14:05:10
+==================================================
+2026-02-23 14:05:10,320 | 54268 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431579858401884318(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x109a03fd0>
+2026-02-23 14:05:10,323 | 54268 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431579858412107937(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x109a03fa0>
+💰 總資產: HKD 985,458.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,709.17
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 2 個SELL信號:
+   HK.09868: $69.55 - 漲2.5%+成交量賣出
+   HK.09618: $108.1 - 漲4.1%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 14:05:10,334 | 54268 | 6127104000 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 14:05:10,335 | 54268 | 6127104000 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 14:10:18
+==================================================
+2026-02-23 14:10:18,021 | 54330 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431581148990550183(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x10586bfd0>
+2026-02-23 14:10:18,024 | 54330 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431581149007562724(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10586bfa0>
+💰 總資產: HKD 985,458.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,709.17
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 2 個SELL信號:
+   HK.09868: $69.65 - 漲2.7%+成交量賣出
+   HK.09618: $108.2 - 漲4.2%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 14:10:18,036 | 54330 | 6121877504 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 14:10:18,036 | 54330 | 6121877504 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 14:15:12
+==================================================
+2026-02-23 14:15:12,600 | 54403 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431582384543356516(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105ec3fd0>
+2026-02-23 14:15:12,603 | 54403 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431582384558723179(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x105ec3fa0>
+💰 總資產: HKD 985,458.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,709.17
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 2 個SELL信號:
+   HK.09618: $108.4 - 漲4.4%+成交量賣出
+   HK.01398: $6.54 - 漲2.0%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 14:15:12,614 | 54403 | 6188822528 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 14:15:12,614 | 54403 | 6188822528 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 14:20:16
+==================================================
+2026-02-23 14:20:16,322 | 54457 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431583658447646214(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x104ff3fd0>
+2026-02-23 14:20:16,325 | 54457 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431583658458764041(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x104ff3fa0>
+💰 總資產: HKD 985,458.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,709.17
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 2 個SELL信號:
+   HK.09618: $108.3 - 漲4.3%+成交量賣出
+   HK.01398: $6.54 - 漲2.0%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 14:20:16,335 | 54457 | 6130561024 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 14:20:16,336 | 54457 | 6130561024 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 14:25:11
+==================================================
+2026-02-23 14:25:11,794 | 54519 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431584897746326718(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x10517bfd0>
+2026-02-23 14:25:11,797 | 54519 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431584897763596260(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10517bfa0>
+💰 總資產: HKD 985,458.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,709.17
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 3 個SELL信號:
+   HK.00992: $9.42 - 漲2.2%+成交量賣出
+   HK.09618: $108.5 - 漲4.5%+成交量賣出
+   HK.01398: $6.55 - 漲2.2%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 14:25:11,809 | 54519 | 6203256832 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 14:25:11,809 | 54519 | 6203256832 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 14:30:48
+==================================================
+2026-02-23 14:30:48,512 | 54608 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431586310045195139(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x108fb7fd0>
+2026-02-23 14:30:48,515 | 54608 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431586310055470243(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x108fb7fa0>
+💰 總資產: HKD 985,458.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,709.17
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 2 個SELL信號:
+   HK.00992: $9.41 - 漲2.1%+成交量賣出
+   HK.09618: $108.4 - 漲4.4%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 14:30:48,525 | 54608 | 6138425344 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 14:30:48,525 | 54608 | 6138425344 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 14:35:20
+==================================================
+2026-02-23 14:35:20,842 | 54687 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431587452278168971(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x10922bfd0>
+2026-02-23 14:35:20,845 | 54687 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431587452290674033(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10922bfa0>
+💰 總資產: HKD 985,458.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,709.17
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 3 個SELL信號:
+   HK.00992: $9.42 - 漲2.2%+成交量賣出
+   HK.09618: $108.5 - 漲4.5%+成交量賣出
+   HK.01398: $6.54 - 漲2.0%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 14:35:20,855 | 54687 | 6135115776 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 14:35:20,857 | 54687 | 6135115776 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 14:40:13
+==================================================
+2026-02-23 14:40:13,238 | 54744 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431588678677790268(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x104f97fd0>
+2026-02-23 14:40:13,241 | 54744 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431588678689519050(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x104f97fa0>
+💰 總資產: HKD 985,458.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,709.17
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 2 個SELL信號:
+   HK.09618: $108.5 - 漲4.5%+成交量賣出
+   HK.01398: $6.54 - 漲2.0%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 14:40:13,251 | 54744 | 6130380800 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 14:40:13,253 | 54744 | 6130380800 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 14:45:13
+==================================================
+2026-02-23 14:45:13,361 | 54812 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431589937483466190(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x10509bfd0>
+2026-02-23 14:45:13,364 | 54812 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431589937499060093(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10509bfa0>
+💰 總資產: HKD 985,458.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,709.17
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 3 個SELL信號:
+   HK.00992: $9.41 - 漲2.1%+成交量賣出
+   HK.09618: $108.4 - 漲4.4%+成交量賣出
+   HK.01398: $6.54 - 漲2.0%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 14:45:13,374 | 54812 | 6129332224 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 14:45:13,375 | 54812 | 6129332224 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 14:50:09
+==================================================
+2026-02-23 14:50:09,995 | 54867 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431591181660516966(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105693fd0>
+2026-02-23 14:50:09,999 | 54867 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431591181676438246(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x105693fa0>
+💰 總資產: HKD 985,458.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,709.17
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 3 個SELL信號:
+   HK.00992: $9.41 - 漲2.1%+成交量賣出
+   HK.09618: $108.7 - 漲4.7%+成交量賣出
+   HK.01398: $6.54 - 漲2.0%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 14:50:10,008 | 54867 | 6197817344 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 14:50:10,010 | 54867 | 6197817344 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 14:55:09
+==================================================
+2026-02-23 14:55:09,796 | 54931 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431592439113584818(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x10749ffd0>
+2026-02-23 14:55:09,799 | 54931 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431592439125855152(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10749ffa0>
+💰 總資產: HKD 986,118.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,722.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 3 個SELL信號:
+   HK.00992: $9.41 - 漲2.1%+成交量賣出
+   HK.09618: $108.5 - 漲4.5%+成交量賣出
+   HK.01398: $6.54 - 漲2.0%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 14:55:09,811 | 54931 | 6166835200 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 14:55:09,811 | 54931 | 6166835200 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 15:00:58
+==================================================
+2026-02-23 15:00:58,215 | 55031 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431593900490783269(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x10599bfd0>
+2026-02-23 15:00:58,219 | 55031 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431593900504888029(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10599bfa0>
+💰 總資產: HKD 986,118.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,722.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 2 個SELL信號:
+   HK.00992: $9.41 - 漲2.1%+成交量賣出
+   HK.01398: $6.55 - 漲2.2%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 15:00:58,229 | 55031 | 6194753536 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 15:00:58,231 | 55031 | 6194753536 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 15:05:23
+==================================================
+2026-02-23 15:05:24,001 | 55123 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431595015274911903(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x107a2bfd0>
+2026-02-23 15:05:24,004 | 55123 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431595015289615293(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x107a2bfa0>
+💰 總資產: HKD 986,118.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,722.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 1 個SELL信號:
+   HK.01398: $6.55 - 漲2.2%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 15:05:24,014 | 55123 | 6160445440 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 15:05:24,014 | 55123 | 6160445440 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 15:10:21
+==================================================
+2026-02-23 15:10:21,039 | 55231 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431596261142543153(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1096f7fd0>
+2026-02-23 15:10:21,042 | 55231 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431596261155004825(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1096f7fa0>
+💰 總資產: HKD 986,118.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,722.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 1 個SELL信號:
+   HK.01398: $6.56 - 漲2.3%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 15:10:21,053 | 55231 | 6130249728 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 15:10:21,054 | 55231 | 6130249728 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 15:15:16
+==================================================
+2026-02-23 15:15:16,522 | 55306 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431597500496048702(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1078fffd0>
+2026-02-23 15:15:16,525 | 55306 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431597500507727557(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1078fffa0>
+💰 總資產: HKD 986,118.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,722.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 1 個SELL信號:
+   HK.01398: $6.54 - 漲2.0%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 15:15:16,537 | 55306 | 6161936384 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 15:15:16,537 | 55306 | 6161936384 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 15:20:12
+==================================================
+2026-02-23 15:20:12,596 | 55366 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431598742314931925(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1051e3fd0>
+2026-02-23 15:20:12,599 | 55366 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431598742326098651(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1051e3fa0>
+💰 總資產: HKD 986,118.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,722.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 1 個SELL信號:
+   HK.01398: $6.55 - 漲2.2%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 15:20:12,609 | 55366 | 6127857664 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 15:20:12,611 | 55366 | 6127857664 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 15:25:13
+==================================================
+2026-02-23 15:25:13,028 | 55429 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431600002418995573(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1036fffd0>
+2026-02-23 15:25:13,031 | 55429 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431600002429419094(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1036fffa0>
+💰 總資產: HKD 986,118.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,722.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 1 個SELL信號:
+   HK.01398: $6.55 - 漲2.2%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 15:25:13,043 | 55429 | 6156300288 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 15:25:13,043 | 55429 | 6156300288 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 15:30:52
+==================================================
+2026-02-23 15:30:52,882 | 55513 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431601427873783996(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x104f2ffd0>
+2026-02-23 15:30:52,885 | 55513 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431601427884905410(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x104f2ffa0>
+💰 總資產: HKD 986,118.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,722.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🔴 發現 1 個SELL信號:
+   HK.01398: $6.54 - 漲2.0%+成交量賣出
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 15:30:52,895 | 55513 | 6130905088 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 15:30:52,897 | 55513 | 6130905088 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 15:35:12
+==================================================
+2026-02-23 15:35:12,617 | 55588 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431602517276003753(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x109013fd0>
+2026-02-23 15:35:12,620 | 55588 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431602517288166728(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x109013fa0>
+💰 總資產: HKD 986,118.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,722.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 15:35:12,630 | 55588 | 6137360384 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 15:35:12,630 | 55588 | 6137360384 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 15:40:16
+==================================================
+2026-02-23 15:40:16,269 | 55641 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431603790886202874(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x100b7ffd0>
+2026-02-23 15:40:16,271 | 55641 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431603790896611219(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x100b7ffa0>
+💰 總資產: HKD 986,118.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,722.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 15:40:16,280 | 55641 | 6202322944 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 15:40:16,280 | 55641 | 6202322944 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 15:45:15
+==================================================
+2026-02-23 15:45:15,983 | 55707 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431605047980316785(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x109313fd0>
+2026-02-23 15:45:15,986 | 55707 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431605047991108414(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x109313fa0>
+💰 總資產: HKD 986,118.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,722.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 15:45:15,996 | 55707 | 6134493184 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 15:45:15,996 | 55707 | 6134493184 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 15:50:16
+==================================================
+2026-02-23 15:50:16,117 | 55762 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431606306828197144(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x101617fd0>
+2026-02-23 15:50:16,120 | 55762 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431606306843275267(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x101617fa0>
+💰 總資產: HKD 986,118.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,722.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 15:50:16,130 | 55762 | 6190657536 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 15:50:16,130 | 55762 | 6190657536 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 15:56:32
+==================================================
+2026-02-23 15:56:32,607 | 55837 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431607885944480871(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x109c07fd0>
+2026-02-23 15:56:32,610 | 55837 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431607885954400346(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x109c07fa0>
+💰 總資產: HKD 984,968.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,699.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 15:56:32,620 | 55837 | 6125252608 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 15:56:32,620 | 55837 | 6125252608 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 16:00:28
+==================================================
+2026-02-23 16:00:28,567 | 55962 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431608875631313402(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105427fd0>
+2026-02-23 16:00:28,570 | 55962 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431608875647083181(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x105427fa0>
+💰 總資產: HKD 984,968.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,699.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 16:00:28,580 | 55962 | 6200864768 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 16:00:28,580 | 55962 | 6200864768 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 16:06:52
+==================================================
+2026-02-23 16:06:52,179 | 56067 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431610484615665324(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x109a8ffd0>
+2026-02-23 16:06:52,182 | 56067 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431610484628451711(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x109a8ffa0>
+💰 總資產: HKD 984,968.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,699.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 16:06:52,193 | 56067 | 6126465024 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 16:06:52,193 | 56067 | 6126465024 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 16:10:15
+==================================================
+2026-02-23 16:10:15,625 | 56129 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431611337930999905(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1056dbfd0>
+2026-02-23 16:10:15,628 | 56129 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431611337942525535(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1056dbfa0>
+💰 總資產: HKD 984,968.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,699.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 16:10:15,637 | 56129 | 6122876928 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 16:10:15,638 | 56129 | 6122876928 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 16:15:12
+==================================================
+2026-02-23 16:15:12,781 | 56196 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431612584292039995(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x107417fd0>
+2026-02-23 16:15:12,784 | 56196 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431612584305556421(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x107417fa0>
+💰 總資產: HKD 984,968.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,699.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 16:15:12,794 | 56196 | 6167244800 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 16:15:12,794 | 56196 | 6167244800 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 16:20:14
+==================================================
+2026-02-23 16:20:14,879 | 56248 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431613851385669222(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x10735bfd0>
+2026-02-23 16:20:14,882 | 56248 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431613851396020178(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10735bfa0>
+💰 總資產: HKD 984,968.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,699.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 16:20:14,892 | 56248 | 6167588864 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 16:20:14,892 | 56248 | 6167588864 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 16:25:20
+==================================================
+2026-02-23 16:25:20,174 | 56306 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431615131883133212(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x108fabfd0>
+2026-02-23 16:25:20,177 | 56306 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431615131900640092(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x108fabfa0>
+💰 總資產: HKD 984,968.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,699.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 16:25:20,188 | 56306 | 6138277888 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 16:25:20,188 | 56306 | 6138277888 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 16:30:12
+==================================================
+2026-02-23 16:30:12,302 | 56383 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431616357156238990(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1090abfd0>
+2026-02-23 16:30:12,305 | 56383 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431616357169554837(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1090abfa0>
+💰 總資產: HKD 984,968.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,699.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 16:30:12,315 | 56383 | 6137524224 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 16:30:12,315 | 56383 | 6137524224 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 16:35:17
+==================================================
+2026-02-23 16:35:17,675 | 56461 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431617637984595668(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x107e48fd0>
+2026-02-23 16:35:17,678 | 56461 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431617637999046938(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x107e48fa0>
+💰 總資產: HKD 984,968.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,699.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 16:35:17,688 | 56461 | 6156382208 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 16:35:17,688 | 56461 | 6156382208 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 16:40:12
+==================================================
+2026-02-23 16:40:12,484 | 56504 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431618874504389961(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x104e17fd0>
+2026-02-23 16:40:12,487 | 56504 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431618874516935142(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x104e17fa0>
+💰 總資產: HKD 984,968.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,699.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 16:40:12,497 | 56504 | 6132019200 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 16:40:12,498 | 56504 | 6132019200 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 16:45:12
+==================================================
+2026-02-23 16:45:12,686 | 56570 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431620133640657130(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105a1ffd0>
+2026-02-23 16:45:12,689 | 56570 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431620133652592995(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x105a1ffa0>
+💰 總資產: HKD 984,968.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,699.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 16:45:12,699 | 56570 | 6194655232 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 16:45:12,699 | 56570 | 6194655232 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 16:50:13
+==================================================
+2026-02-23 16:50:13,745 | 56624 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431621396373804204(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105247fd0>
+2026-02-23 16:50:13,748 | 56624 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431621396386178426(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x105247fa0>
+💰 總資產: HKD 984,968.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,699.37
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 16:50:13,758 | 56624 | 6202208256 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 16:50:13,758 | 56624 | 6202208256 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 16:55:14
+==================================================
+2026-02-23 16:55:14,985 | 56686 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431622659866015020(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x10513bfd0>
+2026-02-23 16:55:14,988 | 56686 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431622659882279735(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10513bfa0>
+💰 總資產: HKD 985,248.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,704.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 16:55:14,998 | 56686 | 6129102848 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 16:55:14,998 | 56686 | 6129102848 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 18:17:50
+==================================================
+2026-02-23 18:17:50,498 | 57765 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431643444794306916(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x109a17fd0>
+2026-02-23 18:17:50,503 | 57765 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431643444815342527(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x109a17fa0>
+💰 總資產: HKD 985,248.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,704.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 18:17:50,513 | 57765 | 6127267840 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 18:17:50,513 | 57765 | 6127267840 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 18:17:55
+==================================================
+2026-02-23 18:17:55,031 | 57772 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431643463806015226(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1099c7fd0>
+2026-02-23 18:17:55,034 | 57772 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431643463819207409(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1099c7fa0>
+💰 總資產: HKD 985,248.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,704.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 18:17:55,044 | 57772 | 6127235072 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 18:17:55,044 | 57772 | 6127235072 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+🤖 全自動交易系統啟動 - 18:48:21
+==================================================
+2026-02-23 18:48:21,804 | 58157 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431651125850858548(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1075156a0>
+2026-02-23 18:48:21,807 | 58157 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431651125861190429(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x107515670>
+💰 總資產: HKD 985,248.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,704.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   ❌ 無法獲取HSI數據
+
+🔴 發現 1 個SELL信號:
+   HK.03750: $542.5 - 漲3.1%+RSI超買71
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-23 18:48:21,820 | 58157 | 6166228992 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-23 18:48:21,820 | 58157 | 6166228992 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 18:48:48
+==================================================
+2026-02-23 18:48:48,024 | 58171 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431651235829649001(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105ecd730>
+2026-02-23 18:48:48,027 | 58171 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431651235842512100(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x105ecd700>
+💰 總資產: HKD 985,248.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,704.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+Traceback (most recent call last):
+  File "/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas/_libs/index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7096, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'change_pct'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/gordonlui/.openclaw/workspace/auto_trade_executor.py", line 289, in <module>
+    execute_auto_trade()
+  File "/Users/gordonlui/.openclaw/workspace/auto_trade_executor.py", line 174, in execute_auto_trade
+    execute_hsi_hedge(trd_ctx, quote_ctx, positions, total_assets)
+  File "/Users/gordonlui/.openclaw/workspace/auto_trade_executor.py", line 74, in execute_hsi_hedge
+    hsi_change = data.iloc[0]['change_pct']
+  File "/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/pandas/core/series.py", line 1133, in __getitem__
+    return self._get_value(key)
+  File "/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/pandas/core/series.py", line 1249, in _get_value
+    loc = self.index.get_loc(label)
+  File "/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/pandas/core/indexes/base.py", line 3819, in get_loc
+    raise KeyError(key) from err
+KeyError: 'change_pct'
+🤖 全自動交易系統啟動 - 18:49:49
+==================================================
+2026-02-23 18:49:49,289 | 58189 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431651492786953310(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x104ed9730>
+2026-02-23 18:49:49,292 | 58189 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431651492805242088(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x104ed9700>
+💰 總資產: HKD 985,248.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,704.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+Traceback (most recent call last):
+  File "/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas/_libs/index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7096, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'change_pct'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/gordonlui/.openclaw/workspace/auto_trade_executor.py", line 289, in <module>
+    execute_auto_trade()
+  File "/Users/gordonlui/.openclaw/workspace/auto_trade_executor.py", line 174, in execute_auto_trade
+    execute_hsi_hedge(trd_ctx, quote_ctx, positions, total_assets)
+  File "/Users/gordonlui/.openclaw/workspace/auto_trade_executor.py", line 74, in execute_hsi_hedge
+    hsi_change = data.iloc[0]['change_pct']
+  File "/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/pandas/core/series.py", line 1133, in __getitem__
+    return self._get_value(key)
+  File "/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/pandas/core/series.py", line 1249, in _get_value
+    loc = self.index.get_loc(label)
+  File "/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/pandas/core/indexes/base.py", line 3819, in get_loc
+    raise KeyError(key) from err
+KeyError: 'change_pct'
+🤖 全自動交易系統啟動 - 09:05:05
+==================================================
+2026-02-24 09:05:05,045 | 77898 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431866726668636657(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105529610>
+2026-02-24 09:05:05,049 | 77898 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431866726686346325(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1055295e0>
+💰 總資產: HKD 985,248.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,704.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 27081.91 (+0.00%)
+   RSI: 45.7, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 2 個BUY信號:
+   HK.02318: $70.8 - 最多買入 278 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.1 - 最多買入 133 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 09:05:07,120 | 77898 | 6199996416 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 09:05:07,121 | 77898 | 6199996416 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 09:10:06
+==================================================
+2026-02-24 09:10:06,233 | 77959 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431867989943625258(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x107261610>
+2026-02-24 09:10:06,235 | 77959 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431867989956077723(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1072615e0>
+💰 總資產: HKD 985,248.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,704.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 27081.91 (+0.00%)
+   RSI: 45.7, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 2 個BUY信號:
+   HK.00700: $547.0 - 最多買入 36 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.3 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 09:10:08,300 | 77959 | 6169227264 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 09:10:08,307 | 77959 | 6169227264 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 09:15:07
+==================================================
+2026-02-24 09:15:07,050 | 78029 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431869251660899292(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x107f2d610>
+2026-02-24 09:15:07,053 | 78029 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431869251673047203(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x107f2d5e0>
+💰 總資產: HKD 985,248.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,704.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 27081.91 (+0.00%)
+   RSI: 45.7, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 1 個BUY信號:
+   HK.00700: $540.0 - 最多買入 36 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 09:15:08,436 | 78029 | 6155808768 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 09:15:08,437 | 78029 | 6155808768 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 09:20:05
+==================================================
+2026-02-24 09:20:05,716 | 78123 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431870504355716503(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1050cd610>
+2026-02-24 09:20:05,719 | 78123 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431870504371616347(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1050cd5e0>
+💰 總資產: HKD 985,248.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,704.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 27081.91 (+0.00%)
+   RSI: 45.7, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 1 個BUY信號:
+   HK.00700: $535.0 - 最多買入 36 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 09:20:07,105 | 78123 | 6204452864 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 09:20:07,105 | 78123 | 6204452864 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 09:25:35
+==================================================
+2026-02-24 09:25:35,051 | 78219 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431871885688298280(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x103631610>
+2026-02-24 09:25:35,054 | 78219 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431871885703155363(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1036315e0>
+💰 總資產: HKD 985,248.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,704.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26913.68 (+0.00%)
+   RSI: 43.6, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 2 個BUY信號:
+   HK.01024: $67.5 - 最多買入 291 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $149.9 - 最多買入 131 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 09:25:37,004 | 78219 | 6157168640 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 09:25:37,005 | 78219 | 6157168640 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 09:30:43
+==================================================
+2026-02-24 09:30:43,355 | 78335 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431873178813164349(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105341610>
+2026-02-24 09:30:43,359 | 78335 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431873178828010163(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1053415e0>
+💰 總資產: HKD 985,248.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,704.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26785.73 (+0.00%)
+   RSI: 42.2, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 4 個BUY信號:
+   HK.00700: $526.0 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.03750: $528.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $66.9 - 最多買入 294 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $149.7 - 最多買入 131 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 09:30:46,834 | 78335 | 6200946688 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 09:30:46,840 | 78335 | 6200946688 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 09:35:06
+==================================================
+2026-02-24 09:35:06,647 | 78390 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431874283135919789(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x109c8d610>
+2026-02-24 09:35:06,649 | 78390 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431874283145661946(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x109c8d5e0>
+💰 總資產: HKD 985,248.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,704.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26739.83 (+0.00%)
+   RSI: 41.7, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 5 個BUY信號:
+   HK.00700: $523.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.03750: $528.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $66.2 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.02318: $71.25 - 最多買入 276 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.8 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 09:35:10,813 | 78390 | 6124023808 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 09:35:10,821 | 78390 | 6124023808 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 09:40:05
+==================================================
+2026-02-24 09:40:05,433 | 78447 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431875536334250075(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1096fd610>
+2026-02-24 09:40:05,436 | 78447 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431875536347930290(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1096fd5e0>
+💰 總資產: HKD 985,248.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,704.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26660.79 (+0.00%)
+   RSI: 40.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 6 個BUY信號:
+   HK.00700: $521.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.03750: $526.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $66.2 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.02318: $70.85 - 最多買入 278 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01211: $97.95 - 最多買入 201 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.5 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 09:40:10,325 | 78447 | 6130216960 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 09:40:10,326 | 78447 | 6130216960 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 09:45:07
+==================================================
+2026-02-24 09:45:07,506 | 78504 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431876803318516608(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x106fb1610>
+2026-02-24 09:45:07,509 | 78504 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431876803331570128(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x106fb15e0>
+💰 總資產: HKD 985,248.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,704.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26703.87 (+0.00%)
+   RSI: 41.3, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 5 個BUY信號:
+   HK.00700: $523.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.03750: $524.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $66.4 - 最多買入 296 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.02318: $70.75 - 最多買入 278 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.8 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 09:45:11,671 | 78504 | 6171930624 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 09:45:11,672 | 78504 | 6171930624 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 09:50:06
+==================================================
+2026-02-24 09:50:06,144 | 78579 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431878055896930895(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1058b1610>
+2026-02-24 09:50:06,147 | 78579 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431878055913468970(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1058b15e0>
+💰 總資產: HKD 985,248.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,704.97
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26664.32 (+0.00%)
+   RSI: 40.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 6 個BUY信號:
+   HK.00700: $522.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.03750: $525.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $66.05 - 最多買入 298 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.02318: $70.65 - 最多買入 278 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01211: $97.85 - 最多買入 201 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.6 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 09:50:11,013 | 78579 | 6196080640 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 09:50:11,015 | 78579 | 6196080640 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 09:55:06
+==================================================
+2026-02-24 09:55:06,126 | 78654 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431879314114679498(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x109be1610>
+2026-02-24 09:55:06,129 | 78654 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431879314126311371(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x109be15e0>
+💰 總資產: HKD 981,638.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,632.77
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26608.44 (+0.00%)
+   RSI: 40.3, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 6 個BUY信號:
+   HK.00700: $521.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.03750: $523.0 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.8 - 最多買入 298 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.02318: $70.35 - 最多買入 279 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01211: $97.65 - 最多買入 201 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.5 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 09:55:10,991 | 78654 | 6125645824 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 09:55:10,998 | 78654 | 6125645824 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 10:01:11
+==================================================
+2026-02-24 10:01:11,467 | 78805 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431880846465849940(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1055f5610>
+2026-02-24 10:01:11,470 | 78805 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431880846476961722(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1055f55e0>
+💰 總資產: HKD 981,638.28
+💵 可用現金: HKD 655,898.28
+🎯 2%止損上限: HKD 19,632.77
+📦 當前持倉: ['HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26595.75 (+0.00%)
+   RSI: 40.2, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 7 個BUY信號:
+   HK.00700: $520.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.03750: $523.0 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.00005: $133.1 - 最多買入 147 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.95 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.02318: $70.05 - 最多買入 280 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01211: $97.8 - 最多買入 200 股
+   ✅ 買入成功!
+   HK.09988: $148.4 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 10:01:17,094 | 78805 | 6198996992 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 10:01:17,100 | 78805 | 6198996992 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 10:05:04
+==================================================
+2026-02-24 10:05:04,836 | 78862 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431881825286729014(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x10771d610>
+2026-02-24 10:05:04,838 | 78862 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431881825300707991(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10771d5e0>
+💰 總資產: HKD 981,193.84
+💵 可用現金: HKD 636,293.84
+🎯 2%止損上限: HKD 19,623.88
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26590.08 (+0.00%)
+   RSI: 40.1, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 6 個BUY信號:
+   HK.00700: $520.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.03750: $523.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.9 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.02318: $69.95 - 最多買入 280 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01211: $97.8 - 最多買入 200 股
+   ✅ 買入成功!
+   HK.09988: $148.3 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 200.0股 (成本 $97.80)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 10:05:09,610 | 78862 | 6164246528 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 10:05:09,611 | 78862 | 6164246528 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 10:10:05
+==================================================
+2026-02-24 10:10:05,254 | 78927 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431883085329616227(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1071ed610>
+2026-02-24 10:10:05,257 | 78927 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431883085344954135(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1071ed5e0>
+💰 總資產: HKD 981,179.41
+💵 可用現金: HKD 616,689.41
+🎯 2%止損上限: HKD 19,623.59
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26594.66 (+0.00%)
+   RSI: 40.2, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 6 個BUY信號:
+   HK.00700: $521.0 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.03750: $524.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.85 - 最多買入 298 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.02318: $70.1 - 最多買入 279 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01211: $97.95 - 最多買入 200 股
+   ✅ 買入成功!
+   HK.09988: $148.2 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 400.0股 (成本 $97.80)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 10:10:10,055 | 78927 | 6169210880 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 10:10:10,056 | 78927 | 6169210880 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 10:15:12
+==================================================
+2026-02-24 10:15:12,823 | 78994 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431884375367887967(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x107d45610>
+2026-02-24 10:15:12,826 | 78994 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431884375381268086(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x107d455e0>
+💰 總資產: HKD 981,224.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,624.50
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26621.18 (+0.00%)
+   RSI: 40.5, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 5 個BUY信號:
+   HK.00700: $521.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.03750: $526.0 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $66.1 - 最多買入 296 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.02318: $70.1 - 最多買入 279 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.6 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 10:15:16,901 | 78994 | 6156824576 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 10:15:16,908 | 78994 | 6156824576 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 10:20:19
+==================================================
+2026-02-24 10:20:19,378 | 79055 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431885661154056374(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x107255610>
+2026-02-24 10:20:19,381 | 79055 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431885661164717172(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1072555e0>
+💰 總資產: HKD 981,224.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,624.50
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26666.84 (+0.00%)
+   RSI: 40.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 4 個BUY信號:
+   HK.00700: $523.0 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.03750: $527.0 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $66.25 - 最多買入 296 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.8 - 最多買入 131 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 10:20:22,853 | 79055 | 6169145344 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 10:20:22,859 | 79055 | 6169145344 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 10:25:08
+==================================================
+2026-02-24 10:25:08,809 | 79115 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431886875116577760(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x107e5d610>
+2026-02-24 10:25:08,812 | 79115 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431886875126042276(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x107e5d5e0>
+💰 總資產: HKD 981,224.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,624.50
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26666.83 (+0.00%)
+   RSI: 40.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $522.0 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $66.2 - 最多買入 296 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.8 - 最多買入 131 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 10:25:11,577 | 79115 | 6156513280 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 10:25:11,579 | 79115 | 6156513280 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 10:30:37
+==================================================
+2026-02-24 10:30:37,590 | 79221 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431888254121042264(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x109e39610>
+2026-02-24 10:30:37,593 | 79221 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431888254136822238(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x109e395e0>
+💰 總資產: HKD 981,224.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,624.50
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26634.79 (+0.00%)
+   RSI: 40.6, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $522.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $66.2 - 最多買入 296 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.5 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 10:30:40,368 | 79221 | 6122450944 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 10:30:40,369 | 79221 | 6122450944 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 10:35:05
+==================================================
+2026-02-24 10:35:05,824 | 79258 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431889379177227376(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x109df1610>
+2026-02-24 10:35:05,826 | 79258 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431889379188425696(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x109df15e0>
+💰 總資產: HKD 981,224.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,624.50
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26621.26 (+0.00%)
+   RSI: 40.5, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $520.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $66.1 - 最多買入 296 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.3 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 10:35:08,593 | 79258 | 6122745856 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 10:35:08,595 | 79258 | 6122745856 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 10:40:10
+==================================================
+2026-02-24 10:40:10,363 | 79319 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431890656505163092(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105445610>
+2026-02-24 10:40:10,366 | 79319 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431890656517906991(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1054455e0>
+💰 總資產: HKD 981,224.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,624.50
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26595.81 (+0.00%)
+   RSI: 40.2, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $520.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $66.0 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.3 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 10:40:13,143 | 79319 | 6200274944 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 10:40:13,149 | 79319 | 6200274944 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 10:45:07
+==================================================
+2026-02-24 10:45:07,660 | 79375 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431891903459142005(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x109685610>
+2026-02-24 10:45:07,663 | 79375 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431891903474823089(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1096855e0>
+💰 總資產: HKD 981,224.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,624.50
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26589.38 (+0.00%)
+   RSI: 40.1, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $521.0 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $66.05 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.2 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 10:45:10,436 | 79375 | 6131101696 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 10:45:10,437 | 79375 | 6131101696 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 10:50:06
+==================================================
+2026-02-24 10:50:06,663 | 79450 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431893157570709638(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x104c7d610>
+2026-02-24 10:50:06,665 | 79450 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431893157581904251(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x104c7d5e0>
+💰 總資產: HKD 981,224.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,624.50
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26607.11 (+0.00%)
+   RSI: 40.3, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $521.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $66.15 - 最多買入 296 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.5 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 10:50:09,417 | 79450 | 6133690368 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 10:50:09,423 | 79450 | 6133690368 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 10:55:06
+==================================================
+2026-02-24 10:55:06,706 | 79520 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431894416040523586(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x100da1610>
+2026-02-24 10:55:06,709 | 79520 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431894416054435681(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x100da15e0>
+💰 總資產: HKD 981,344.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,626.90
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26593.83 (+0.00%)
+   RSI: 40.2, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $520.0 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $66.05 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.3 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 10:55:09,489 | 79520 | 6200094720 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 10:55:09,490 | 79520 | 6200094720 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 11:00:08
+==================================================
+2026-02-24 11:00:08,977 | 79609 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431895683860993249(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105661610>
+2026-02-24 11:00:08,980 | 79609 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431895683874717660(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1056615e0>
+💰 總資產: HKD 981,344.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,626.90
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26625.87 (+0.00%)
+   RSI: 40.5, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $521.0 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $66.2 - 最多買入 296 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.5 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 11:00:11,774 | 79609 | 6198161408 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 11:00:11,775 | 79609 | 6198161408 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 11:05:04
+==================================================
+2026-02-24 11:05:04,757 | 79692 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431896924450195704(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1094f9610>
+2026-02-24 11:05:04,760 | 79692 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431896924463889040(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1094f95e0>
+💰 總資產: HKD 981,344.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,626.90
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26591.81 (+0.00%)
+   RSI: 40.2, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $520.0 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.9 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.1 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 11:05:07,526 | 79692 | 6132346880 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 11:05:07,527 | 79692 | 6132346880 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 11:10:13
+==================================================
+2026-02-24 11:10:13,906 | 79753 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431898221113359231(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1057d1610>
+2026-02-24 11:10:13,909 | 79753 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431898221129243919(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1057d15e0>
+💰 總資產: HKD 981,344.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,626.90
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26587.14 (+0.00%)
+   RSI: 40.1, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $520.0 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.95 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.1 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 11:10:16,686 | 79753 | 6122303488 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 11:10:16,687 | 79753 | 6122303488 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 11:15:07
+==================================================
+2026-02-24 11:15:07,090 | 79817 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431899450816591604(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1079d1610>
+2026-02-24 11:15:07,093 | 79817 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431899450827955548(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1079d15e0>
+💰 總資產: HKD 981,344.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,626.90
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26570.24 (+0.00%)
+   RSI: 39.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.0 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.85 - 最多買入 298 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.2 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 11:15:09,721 | 79817 | 6161084416 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 11:15:09,722 | 79817 | 6161084416 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 11:20:17
+==================================================
+2026-02-24 11:20:17,067 | 79877 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431900750954737475(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1094ed610>
+2026-02-24 11:20:17,070 | 79877 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431900750969147726(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1094ed5e0>
+💰 總資產: HKD 981,344.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,626.90
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26560.8 (+0.00%)
+   RSI: 39.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.9 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.9 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 11:20:19,832 | 79877 | 6132690944 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 11:20:19,840 | 79877 | 6132690944 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 11:25:06
+==================================================
+2026-02-24 11:25:06,402 | 79944 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431901964512744999(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x109429610>
+2026-02-24 11:25:06,405 | 79944 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431901964527406772(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1094295e0>
+💰 總資產: HKD 981,344.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,626.90
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26559.43 (+0.00%)
+   RSI: 39.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $520.0 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.85 - 最多買入 298 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.7 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 11:25:09,185 | 79944 | 6134050816 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 11:25:09,186 | 79944 | 6134050816 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 11:30:25
+==================================================
+2026-02-24 11:30:25,203 | 80027 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431903301660424872(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1010bd610>
+2026-02-24 11:30:25,206 | 80027 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431903301678015307(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1010bd5e0>
+💰 總資產: HKD 981,344.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,626.90
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26551.71 (+0.00%)
+   RSI: 39.8, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.9 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.8 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 11:30:27,970 | 80027 | 6196408320 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 11:30:27,978 | 80027 | 6196408320 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 11:35:07
+==================================================
+2026-02-24 11:35:07,571 | 80101 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431904485998466796(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x10556d610>
+2026-02-24 11:35:07,574 | 80101 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431904486013022922(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10556d5e0>
+💰 總資產: HKD 981,344.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,626.90
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26526.92 (+0.00%)
+   RSI: 39.5, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 4 個BUY信號:
+   HK.00700: $519.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.02800: $26.74 - 最多買入 733 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.8 - 最多買入 298 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.8 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 11:35:11,022 | 80101 | 6199209984 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 11:35:11,023 | 80101 | 6199209984 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 11:40:06
+==================================================
+2026-02-24 11:40:06,227 | 80158 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431905738658769958(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105349610>
+2026-02-24 11:40:06,230 | 80158 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431905738671002835(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1053495e0>
+💰 總資產: HKD 981,344.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,626.90
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26540.81 (+0.00%)
+   RSI: 39.7, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.9 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.8 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 11:40:08,987 | 80158 | 6127562752 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 11:40:08,994 | 80158 | 6127562752 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 11:45:05
+==================================================
+2026-02-24 11:45:05,385 | 80217 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431906993411790326(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1077e9610>
+2026-02-24 11:45:05,388 | 80217 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431906993427053423(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1077e95e0>
+💰 總資產: HKD 981,344.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,626.90
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26555.76 (+0.00%)
+   RSI: 39.8, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $520.0 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $66.0 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $148.0 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 11:45:08,033 | 80217 | 6162608128 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 11:45:08,034 | 80217 | 6162608128 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 11:50:05
+==================================================
+2026-02-24 11:50:05,554 | 80282 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431908252416238234(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105df9610>
+2026-02-24 11:50:05,558 | 80282 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431908252428254209(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x105df95e0>
+💰 總資產: HKD 981,344.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,626.90
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26557.49 (+0.00%)
+   RSI: 39.8, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🔴 發現 1 個SELL信號:
+   HK.02638: $7.0 - RSI超買79+成交量賣出
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $520.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.95 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.9 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 11:50:08,344 | 80282 | 6190231552 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 11:50:08,353 | 80282 | 6190231552 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 11:55:05
+==================================================
+2026-02-24 11:55:05,436 | 80342 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431909510210357495(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x107cd5610>
+2026-02-24 11:55:05,439 | 80342 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431909510222073926(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x107cd55e0>
+💰 總資產: HKD 981,364.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,627.30
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26560.27 (+0.00%)
+   RSI: 39.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $66.05 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.8 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 11:55:08,224 | 80342 | 6157660160 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 11:55:08,224 | 80342 | 6157660160 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 12:00:52
+==================================================
+2026-02-24 12:00:52,134 | 80510 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431910964370925143(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1073a1610>
+2026-02-24 12:00:52,138 | 80510 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431910964387852522(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1073a15e0>
+💰 總資產: HKD 981,364.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,627.30
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26560.57 (+0.00%)
+   RSI: 39.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.95 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.7 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 12:00:54,920 | 80510 | 6167244800 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 12:00:54,922 | 80510 | 6167244800 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 12:05:04
+==================================================
+2026-02-24 12:05:04,890 | 80556 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431912024499994569(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x109a41610>
+2026-02-24 12:05:04,893 | 80556 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431912024515279565(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x109a415e0>
+💰 總資產: HKD 981,364.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,627.30
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26560.57 (+0.00%)
+   RSI: 39.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.95 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.7 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 12:05:07,578 | 80556 | 6126858240 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 12:05:07,580 | 80556 | 6126858240 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 12:10:06
+==================================================
+2026-02-24 12:10:06,514 | 80616 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431913289603506950(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x104ec5610>
+2026-02-24 12:10:06,517 | 80616 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431913289618815082(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x104ec55e0>
+💰 總資產: HKD 981,364.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,627.30
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26560.57 (+0.00%)
+   RSI: 39.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.95 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.7 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 12:10:09,280 | 80616 | 6131511296 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 12:10:09,287 | 80616 | 6131511296 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 12:15:07
+==================================================
+2026-02-24 12:15:07,590 | 80680 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431914552412329803(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105ff5610>
+2026-02-24 12:15:07,594 | 80680 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431914552427044223(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x105ff55e0>
+💰 總資產: HKD 981,364.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,627.30
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26560.57 (+0.00%)
+   RSI: 39.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.95 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.7 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 12:15:10,370 | 80680 | 6188806144 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 12:15:10,371 | 80680 | 6188806144 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 12:20:06
+==================================================
+2026-02-24 12:20:06,608 | 80736 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431915806580134586(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x10964d610>
+2026-02-24 12:20:06,611 | 80736 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431915806598852031(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10964d5e0>
+💰 總資產: HKD 981,364.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,627.30
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26560.57 (+0.00%)
+   RSI: 39.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.95 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.7 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 12:20:09,383 | 80736 | 6131789824 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 12:20:09,384 | 80736 | 6131789824 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 12:25:05
+==================================================
+2026-02-24 12:25:05,656 | 80820 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431917060877319180(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1050ad610>
+2026-02-24 12:25:05,658 | 80820 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431917060890295614(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1050ad5e0>
+💰 總資產: HKD 981,364.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,627.30
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26560.57 (+0.00%)
+   RSI: 39.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.95 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.7 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 12:25:08,430 | 80820 | 6129299456 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 12:25:08,432 | 80820 | 6129299456 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 12:30:43
+==================================================
+2026-02-24 12:30:43,537 | 80922 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431918478043461007(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105135610>
+2026-02-24 12:30:43,543 | 80922 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431918478086201869(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1051355e0>
+💰 總資產: HKD 981,364.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,627.30
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26560.57 (+0.00%)
+   RSI: 39.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.95 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.7 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 12:30:46,316 | 80922 | 6129053696 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 12:30:46,317 | 80922 | 6129053696 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 12:35:05
+==================================================
+2026-02-24 12:35:05,574 | 80978 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431919577116466352(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x1054d1610>
+2026-02-24 12:35:05,577 | 80978 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431919577134530608(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1054d15e0>
+💰 總資產: HKD 981,364.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,627.30
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26560.57 (+0.00%)
+   RSI: 39.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.95 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.7 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 12:35:08,364 | 80978 | 6125268992 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 12:35:08,365 | 80978 | 6125268992 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 12:40:05
+==================================================
+2026-02-24 12:40:05,861 | 81043 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431920836614562678(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105095610>
+2026-02-24 12:40:05,864 | 81043 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431920836623591329(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1050955e0>
+💰 總資產: HKD 981,364.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,627.30
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26560.57 (+0.00%)
+   RSI: 39.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.95 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.7 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 12:40:08,516 | 81043 | 6129463296 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 12:40:08,523 | 81043 | 6129463296 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 12:45:08
+==================================================
+2026-02-24 12:45:08,573 | 81126 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431922106277232789(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105651610>
+2026-02-24 12:45:08,575 | 81126 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431922106292167455(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1056515e0>
+💰 總資產: HKD 981,364.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,627.30
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26560.57 (+0.00%)
+   RSI: 39.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.95 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.7 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 12:45:11,339 | 81126 | 6198702080 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 12:45:11,345 | 81126 | 6198702080 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 12:50:05
+==================================================
+2026-02-24 12:50:05,858 | 81203 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431923353183378952(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x107109610>
+2026-02-24 12:50:05,861 | 81203 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431923353194517517(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1071095e0>
+💰 總資產: HKD 981,364.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,627.30
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26560.57 (+0.00%)
+   RSI: 39.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.95 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.7 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 12:50:08,633 | 81203 | 6169915392 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 12:50:08,635 | 81203 | 6169915392 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 12:55:04
+==================================================
+2026-02-24 12:55:04,841 | 81282 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431924607209304648(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x105145610>
+2026-02-24 12:55:04,844 | 81282 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431924607221835883(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1051455e0>
+💰 總資產: HKD 981,164.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,623.30
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26560.57 (+0.00%)
+   RSI: 39.9, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.95 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.7 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 12:55:07,595 | 81282 | 6203289600 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 12:55:07,597 | 81282 | 6203289600 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 13:00:21
+==================================================
+2026-02-24 13:00:21,650 | 81425 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431925936004729666(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x101759610>
+2026-02-24 13:00:21,654 | 81425 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431925936023631278(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x1017595e0>
+💰 總資產: HKD 981,164.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,623.30
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26550.52 (+0.00%)
+   RSI: 39.8, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.5 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $65.95 - 最多買入 297 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.8 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 13:00:24,426 | 81425 | 6190166016 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 13:00:24,428 | 81425 | 6190166016 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知
+🤖 全自動交易系統啟動 - 13:05:04
+==================================================
+2026-02-24 13:05:04,250 | 81537 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431927121313517996(1) context=<futu.trade.open_trade_context.OpenSecTradeContext object at 0x107f31610>
+2026-02-24 13:05:04,253 | 81537 | 8690674752 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7431927121323488646(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x107f315e0>
+💰 總資產: HKD 981,164.92
+💵 可用現金: HKD 597,044.92
+🎯 2%止損上限: HKD 19,623.30
+📦 當前持倉: ['HK.01211', 'HK.07500', 'HK.00700', 'HK.02800']
+
+🎯 執行HSI波段對沖...
+   HSI: 26530.27 (+0.00%)
+   RSI: 39.5, 信號: HOLD
+   🟡 RSI喺30-70之間，唔洗郁
+
+🟢 發現 3 個BUY信號:
+   HK.00700: $519.0 - 最多買入 37 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.01024: $66.1 - 最多買入 296 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+   HK.09988: $147.6 - 最多買入 132 股
+   ❌ 買入失敗: The order you placed contains odd lot (less than 1 lot)
+
+📊 更新後持倉:
+   HK.01211: 600.0股 (成本 $97.87)
+   HK.07500: 30000.0股 (成本 $1.63)
+   HK.00700: 200.0股 (成本 $533.50)
+   HK.02800: 4500.0股 (成本 $27.48)
+
+✅ 自動交易完成!
+==================================================
+2026-02-24 13:05:07,027 | 81537 | 6155956224 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-02-24 13:05:07,028 | 81537 | 6155956224 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+📨 已發送交易通知

@@ -216,7 +216,26 @@
 - ✅ 每日复盘，持续优化交易策略
 - ✅ 完整记录，便于回溯和学习
 
-## User Preferences & Context
+## Important Context: Two Portfolios
+
+### User's Real Account (Self-managed)
+| Stock | Status |
+|-------|--------|
+| 00992 聯想集團 | +6.75% |
+| 00005 匯豐控股 | +125.93% |
+| 01398 工商銀行 | +43.5% |
+| 02638 港燈-SS | +43.71% |
+| 09618 京東集團 | -11.75% |
+
+### Simulated Account (Kurumi trades)
+| Stock | Shares | Cost |
+|-------|--------|------|
+| 07500 兩倍看空 | 30,000 | $1.63 |
+| 00700 騰訊 | 200 | $519.50 |
+| 02800 盈富 | 4,500 | $26.78 |
+| 01211 比亞迪 | 600 | $98.45 |
+
+**重要：每次monitor同report要確認係邊個倉！**
 - Timezone: Asia/Hong_Kong (GMT+8)
 - Uses Futu OpenD for stock trading
 - Interested in technical analysis and automation

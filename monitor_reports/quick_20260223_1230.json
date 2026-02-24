@@ -1,0 +1,75 @@
+{
+  "timestamp": "2026-02-23T12:30:07.335077",
+  "summary": {
+    "timestamp": "12:30",
+    "total_positions": 6,
+    "total_value": 279730.0,
+    "total_pnl": 410.0,
+    "total_pnl_pct": 0.14678504940569956,
+    "holdings": [
+      {
+        "code": "HK.07500",
+        "qty": 30000.0,
+        "current_price": 1.638,
+        "market_val": 49140.0,
+        "pnl": 180.0,
+        "pnl_pct": 0.3676470588235294,
+        "sell_net": 49075.86,
+        "cost_pct": 0.13052503052503053
+      },
+      {
+        "code": "HK.00700",
+        "qty": 200.0,
+        "current_price": 540.5,
+        "market_val": 108100.0,
+        "pnl": 1400.0,
+        "pnl_pct": 1.3120899718837862,
+        "sell_net": 107976.9,
+        "cost_pct": 0.11387604070305272
+      },
+      {
+        "code": "HK.02800",
+        "qty": 4500.0,
+        "current_price": 27.22,
+        "market_val": 122490.0,
+        "pnl": -1170.0,
+        "pnl_pct": -0.9461426491994178,
+        "sell_net": 122352.51,
+        "cost_pct": 0.11224589762429586
+      },
+      {
+        "code": "HK.09868",
+        "qty": 0.0,
+        "current_price": 0,
+        "market_val": 0.0,
+        "pnl": 0.0,
+        "pnl_pct": 0,
+        "sell_net": -15.0,
+        "cost_pct": 0
+      },
+      {
+        "code": "HK.09618",
+        "qty": 0.0,
+        "current_price": 0,
+        "market_val": 0.0,
+        "pnl": 0.0,
+        "pnl_pct": 0,
+        "sell_net": -15.0,
+        "cost_pct": 0
+      },
+      {
+        "code": "HK.00992",
+        "qty": 0.0,
+        "current_price": 0,
+        "market_val": 0.0,
+        "pnl": 0.0,
+        "pnl_pct": 0,
+        "sell_net": -15.0,
+        "cost_pct": 0
+      }
+    ],
+    "alerts": []
+  },
+  "whatsapp_sent": true,
+  "message_preview": "\ud83d\udcca \u4ea4\u6613\u76e3\u63a7 (12:30)\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\n\ud83d\udce6 \u6301\u5009: 6\u500b\n\ud83d\udcb0 \u7e3d\u5e02\u503c: HKD 279,730\n\ud83d\udcc8 \u7e3d\u76c8\u8667: HKD +410 (+0.1%)\n\u2500\u2500..."
+}

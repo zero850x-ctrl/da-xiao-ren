@@ -348,22 +348,29 @@ class TradingScheduleSystem:
         
         try:
             # 這裡應該連接真實的持倉數據
-            # 暫時使用模擬數據
+            # 2026-02-24 更新：實際持倉
             
             simulated_portfolio = {
-                '00992': {
-                    'shares': 26000,
-                    'avg_price': 8.59,
-                    'current_price': 9.30,
-                    'profit_loss': (9.30 - 8.59) * 26000,
-                    'profit_percent': (9.30 / 8.59 - 1) * 100
+                '07500': {
+                    'shares': 30000,
+                    'avg_price': 1.63,
+                    'current_price': 1.63,
+                    'profit_loss': (1.63 - 1.63) * 30000,
+                    'profit_percent': (1.63 / 1.63 - 1) * 100
                 },
                 '00700': {
-                    'shares': 400,
-                    'avg_price': 533.00,
-                    'current_price': 535.50,
-                    'profit_loss': (535.50 - 533.00) * 400,
-                    'profit_percent': (535.50 / 533.00 - 1) * 100
+                    'shares': 200,
+                    'avg_price': 533.50,
+                    'current_price': 538.00,
+                    'profit_loss': (538.00 - 533.50) * 200,
+                    'profit_percent': (538.00 / 533.50 - 1) * 100
+                },
+                '02800': {
+                    'shares': 4500,
+                    'avg_price': 27.48,
+                    'current_price': 27.00,
+                    'profit_loss': (27.00 - 27.48) * 4500,
+                    'profit_percent': (27.00 / 27.48 - 1) * 100
                 }
             }
             

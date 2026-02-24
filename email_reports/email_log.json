@@ -1,173 +1,5 @@
 [
   {
-    "timestamp": "2026-02-10T12:30:03.862948",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-10T13:00:03.412901",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-10T13:30:04.603058",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-10T14:00:03.738408",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-10T14:30:04.389492",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-10T15:00:03.930025",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-10T15:30:04.115905",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-10T16:00:03.677942",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-10T16:30:03.882361",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-11T09:00:04.978255",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-11T09:30:04.113690",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-11T10:00:03.451735",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-11T10:30:05.662323",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-11T11:00:04.034747",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-11T11:30:03.129419",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-11T12:00:03.768049",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-11T12:30:03.509196",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-11T13:00:04.162696",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-11T13:30:03.716735",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-11T14:00:04.172485",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-11T14:30:03.935664",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-11T15:00:04.497178",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-11T15:30:03.819058",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-11T16:00:04.175389",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-11T16:30:03.780766",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-12T09:00:04.229134",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-12T09:30:03.030969",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
-    "timestamp": "2026-02-12T10:00:04.007847",
-    "type": "trade_monitor",
-    "success": true,
-    "to": "zero850x@gmail.com"
-  },
-  {
     "timestamp": "2026-02-12T10:30:03.830888",
     "type": "trade_monitor",
     "success": true,
@@ -595,6 +427,174 @@
   },
   {
     "timestamp": "2026-02-20T16:30:07.828636",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-23T09:00:08.155970",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-23T09:30:14.151700",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-23T10:00:08.378346",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-23T10:30:06.583195",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-23T11:00:07.930294",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-23T11:30:07.548556",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-23T12:00:08.828853",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-23T12:30:07.331513",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-23T13:00:07.444249",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-23T13:30:06.591751",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-23T14:00:08.810773",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-23T14:30:07.189426",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-23T15:00:07.529748",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-23T15:30:07.427354",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-23T16:00:08.434389",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-23T16:30:07.354297",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-24T07:35:47.888443",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-24T09:00:08.218400",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-24T09:19:59.541221",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-24T09:30:13.946612",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-24T10:00:08.644376",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-24T10:30:07.375664",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-24T11:00:07.738670",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-24T11:30:07.479964",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-24T12:00:08.889235",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-24T12:30:07.665624",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-24T12:37:54.232635",
+    "type": "trade_monitor",
+    "success": true,
+    "to": "zero850x@gmail.com"
+  },
+  {
+    "timestamp": "2026-02-24T13:00:07.752276",
     "type": "trade_monitor",
     "success": true,
     "to": "zero850x@gmail.com"

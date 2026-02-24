@@ -1,0 +1,415 @@
+{
+  "timestamp": "2026-02-24T13:05:03.995447",
+  "signals": [
+    {
+      "stock": "00700",
+      "signal": "BUY",
+      "price": 519.0,
+      "reason": "\u8dcc3.5%+RSI\u8d85\u8ce320"
+    },
+    {
+      "stock": "01024",
+      "signal": "BUY",
+      "price": 66.1,
+      "reason": "\u8dcc3.6%+RSI\u8d85\u8ce317"
+    },
+    {
+      "stock": "09988",
+      "signal": "BUY",
+      "price": 147.6,
+      "reason": "\u8dcc3.0%+RSI\u8d85\u8ce324"
+    }
+  ],
+  "results": [
+    {
+      "code": "HK.00992",
+      "name": {
+        "name": "\u806f\u60f3\u96c6\u5718",
+        "owner": "\u4e45\u7559\u7f8e"
+      },
+      "price": 9.49,
+      "change_pct": 1.2806830309498507,
+      "signal": "HOLD",
+      "confidence": 0.6,
+      "reason": "\u6210\u4ea4\u91cf\u8ce3\u51fa",
+      "kline": {
+        "ma5": 9.328,
+        "ma10": 9.286,
+        "ma20": NaN,
+        "rsi": 63.43612334801761,
+        "trend": "\u6a6b\u884c",
+        "close": 9.49
+      },
+      "volume": {
+        "signal": "SELL",
+        "reason": "\u50f9\u6f32\u91cf\u7e2e - \u8b66\u793a\u4fe1\u865f",
+        "volume_ratio": 0.65722811411176,
+        "price_change": 1.2806830309498507
+      }
+    },
+    {
+      "code": "HK.00700",
+      "name": {
+        "name": "\u9a30\u8a0a\u63a7\u80a1",
+        "owner": "\u4e45\u7559\u7f8e"
+      },
+      "price": 519.0,
+      "change_pct": -3.5315985130111525,
+      "signal": "BUY",
+      "confidence": 0.9,
+      "reason": "\u8dcc3.5%+RSI\u8d85\u8ce320",
+      "kline": {
+        "ma5": 528.8,
+        "ma10": 538.6,
+        "ma20": NaN,
+        "rsi": 20.408163265306115,
+        "trend": "\u6a6b\u884c",
+        "close": 519.0
+      },
+      "volume": {
+        "signal": "HOLD",
+        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
+        "volume_ratio": 0.9037741458757435,
+        "price_change": -3.5315985130111525
+      }
+    },
+    {
+      "code": "HK.03750",
+      "name": {
+        "name": "\u5be7\u5fb7\u6642\u4ee3",
+        "owner": "Monitor"
+      },
+      "price": 522.5,
+      "change_pct": -3.686635944700461,
+      "signal": "HOLD",
+      "confidence": 0.6,
+      "reason": "\u8dcc3.7%",
+      "kline": {
+        "ma5": 528.0,
+        "ma10": 520.1,
+        "ma20": NaN,
+        "rsi": 60.18099547511313,
+        "trend": "\u6a6b\u884c",
+        "close": 522.5
+      },
+      "volume": {
+        "signal": "HOLD",
+        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
+        "volume_ratio": 0.841568100641345,
+        "price_change": -3.686635944700461
+      }
+    },
+    {
+      "code": "HK.02800",
+      "name": {
+        "name": "\u76c8\u5bcc\u57fa\u91d1",
+        "owner": "\u4e45\u7559\u7f8e"
+      },
+      "price": 26.76,
+      "change_pct": -1.9780219780219748,
+      "signal": "HOLD",
+      "confidence": 0.6,
+      "reason": "\u6210\u4ea4\u91cf\u8cb7\u5165",
+      "kline": {
+        "ma5": 26.887999999999998,
+        "ma10": 27.052,
+        "ma20": NaN,
+        "rsi": 40.09216589861747,
+        "trend": "\u6a6b\u884c",
+        "close": 26.74
+      },
+      "volume": {
+        "signal": "BUY",
+        "reason": "\u50f9\u8dcc\u91cf\u7e2e - \u53ef\u80fd\u898b\u5e95",
+        "volume_ratio": 0.5271925181759237,
+        "price_change": -2.0512820512820595
+      }
+    },
+    {
+      "code": "HK.09618",
+      "name": {
+        "name": "\u4eac\u6771\u96c6\u5718",
+        "owner": "Gordon"
+      },
+      "price": 107.1,
+      "change_pct": -0.3720930232558192,
+      "signal": "HOLD",
+      "confidence": 0.6,
+      "reason": "\u89c0\u671b",
+      "kline": {
+        "ma5": 106.14000000000001,
+        "ma10": 107.37,
+        "ma20": NaN,
+        "rsi": 37.19806763285021,
+        "trend": "\u6a6b\u884c",
+        "close": 107.1
+      },
+      "volume": {
+        "signal": "HOLD",
+        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
+        "volume_ratio": 0.5701448643903567,
+        "price_change": -0.3720930232558192
+      }
+    },
+    {
+      "code": "HK.00005",
+      "name": {
+        "name": "\u532f\u8c50\u63a7\u80a1",
+        "owner": "Gordon"
+      },
+      "price": 133.7,
+      "change_pct": -1.6188373804267968,
+      "signal": "HOLD",
+      "confidence": 0.6,
+      "reason": "\u6210\u4ea4\u91cf\u8cb7\u5165",
+      "kline": {
+        "ma5": 134.76,
+        "ma10": 136.75,
+        "ma20": NaN,
+        "rsi": 44.401544401544406,
+        "trend": "\u6a6b\u884c",
+        "close": 133.7
+      },
+      "volume": {
+        "signal": "BUY",
+        "reason": "\u50f9\u8dcc\u91cf\u7e2e - \u53ef\u80fd\u898b\u5e95",
+        "volume_ratio": 0.5774114207634107,
+        "price_change": -1.6188373804267968
+      }
+    },
+    {
+      "code": "HK.01398",
+      "name": {
+        "name": "\u5de5\u5546\u9280\u884c",
+        "owner": "Gordon"
+      },
+      "price": 6.48,
+      "change_pct": -1.2195121951219388,
+      "signal": "HOLD",
+      "confidence": 0.6,
+      "reason": "\u6210\u4ea4\u91cf\u8cb7\u5165",
+      "kline": {
+        "ma5": 6.452,
+        "ma10": 6.49,
+        "ma20": NaN,
+        "rsi": 49.295774647887335,
+        "trend": "\u6a6b\u884c",
+        "close": 6.48
+      },
+      "volume": {
+        "signal": "BUY",
+        "reason": "\u50f9\u8dcc\u91cf\u7e2e - \u53ef\u80fd\u898b\u5e95",
+        "volume_ratio": 0.5655485063221939,
+        "price_change": -1.2195121951219388
+      }
+    },
+    {
+      "code": "HK.02638",
+      "name": {
+        "name": "\u6e2f\u71c8",
+        "owner": "Gordon"
+      },
+      "price": 7.02,
+      "change_pct": 0.429184549356214,
+      "signal": "HOLD",
+      "confidence": 0.6,
+      "reason": "RSI\u8d85\u8cb780",
+      "kline": {
+        "ma5": 6.9959999999999996,
+        "ma10": 6.962999999999999,
+        "ma20": NaN,
+        "rsi": 80.35714285714292,
+        "trend": "\u6a6b\u884c",
+        "close": 7.02
+      },
+      "volume": {
+        "signal": "HOLD",
+        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
+        "volume_ratio": 0.5867194450045478,
+        "price_change": 0.429184549356214
+      }
+    },
+    {
+      "code": "HK.800000",
+      "name": {
+        "name": "\u6046\u751f\u6307\u6578",
+        "owner": "-"
+      },
+      "price": 26528.72,
+      "change_pct": -2.0426550416864937,
+      "signal": "HOLD",
+      "confidence": 0.6,
+      "reason": "\u8dcc2.0%",
+      "kline": {
+        "ma5": 26659.408000000003,
+        "ma10": 26836.621999999996,
+        "ma20": NaN,
+        "rsi": 39.545471153494844,
+        "trend": "\u6a6b\u884c",
+        "close": 26528.72
+      },
+      "volume": {
+        "signal": "HOLD",
+        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
+        "volume_ratio": 1,
+        "price_change": -2.0426550416864937
+      }
+    },
+    {
+      "code": "HK.00857",
+      "name": {
+        "name": "\u4e2d\u570b\u77f3\u6cb9",
+        "owner": "Monitor"
+      },
+      "price": 9.59,
+      "change_pct": 0.20898641588296316,
+      "signal": "HOLD",
+      "confidence": 0.6,
+      "reason": "\u89c0\u671b",
+      "kline": {
+        "ma5": 9.382,
+        "ma10": 9.35,
+        "ma20": NaN,
+        "rsi": 57.209302325581405,
+        "trend": "\u6a6b\u884c",
+        "close": 9.59
+      },
+      "volume": {
+        "signal": "HOLD",
+        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
+        "volume_ratio": 1.0360244898584974,
+        "price_change": 0.20898641588296316
+      }
+    },
+    {
+      "code": "HK.01024",
+      "name": {
+        "name": "\u5feb\u624b",
+        "owner": "Monitor"
+      },
+      "price": 66.1,
+      "change_pct": -3.574033552151718,
+      "signal": "BUY",
+      "confidence": 0.9,
+      "reason": "\u8dcc3.6%+RSI\u8d85\u8ce317",
+      "kline": {
+        "ma5": 67.6,
+        "ma10": 68.94000000000001,
+        "ma20": NaN,
+        "rsi": 17.096018735363003,
+        "trend": "\u6a6b\u884c",
+        "close": 66.1
+      },
+      "volume": {
+        "signal": "HOLD",
+        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
+        "volume_ratio": 1.0476492667575406,
+        "price_change": -3.574033552151718
+      }
+    },
+    {
+      "code": "HK.02318",
+      "name": {
+        "name": "\u4e2d\u570b\u9280\u884c",
+        "owner": "Monitor"
+      },
+      "price": 69.7,
+      "change_pct": -4.258241758241751,
+      "signal": "HOLD",
+      "confidence": 0.6,
+      "reason": "\u8dcc4.3%",
+      "kline": {
+        "ma5": 70.81,
+        "ma10": 71.45,
+        "ma20": NaN,
+        "rsi": 41.8918918918919,
+        "trend": "\u6a6b\u884c",
+        "close": 69.7
+      },
+      "volume": {
+        "signal": "HOLD",
+        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
+        "volume_ratio": 1.237646101383009,
+        "price_change": -4.258241758241751
+      }
+    },
+    {
+      "code": "HK.01211",
+      "name": {
+        "name": "\u6bd4\u4e9e\u8fea",
+        "owner": "Monitor"
+      },
+      "price": 98.3,
+      "change_pct": -1.7982017982017955,
+      "signal": "HOLD",
+      "confidence": 0.6,
+      "reason": "\u6210\u4ea4\u91cf\u8cb7\u5165",
+      "kline": {
+        "ma5": 97.88,
+        "ma10": 96.875,
+        "ma20": NaN,
+        "rsi": 51.01289134438304,
+        "trend": "\u6a6b\u884c",
+        "close": 98.3
+      },
+      "volume": {
+        "signal": "BUY",
+        "reason": "\u50f9\u8dcc\u91cf\u7e2e - \u53ef\u80fd\u898b\u5e95",
+        "volume_ratio": 0.48005851614008266,
+        "price_change": -1.7982017982017955
+      }
+    },
+    {
+      "code": "HK.01810",
+      "name": {
+        "name": "\u5c0f\u7c73\u96c6\u5718",
+        "owner": "Monitor"
+      },
+      "price": 35.8,
+      "change_pct": -2.0787746170678476,
+      "signal": "HOLD",
+      "confidence": 0.6,
+      "reason": "\u8dcc2.1%",
+      "kline": {
+        "ma5": 36.244,
+        "ma10": 36.08,
+        "ma20": NaN,
+        "rsi": 51.66297117516628,
+        "trend": "\u6a6b\u884c",
+        "close": 35.8
+      },
+      "volume": {
+        "signal": "HOLD",
+        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
+        "volume_ratio": 0.7186432253017639,
+        "price_change": -2.0787746170678476
+      }
+    },
+    {
+      "code": "HK.09988",
+      "name": {
+        "name": "\u963f\u91cc\u5df4\u5df4",
+        "owner": "Monitor"
+      },
+      "price": 147.6,
+      "change_pct": -3.0223390275952657,
+      "signal": "BUY",
+      "confidence": 0.9,
+      "reason": "\u8dcc3.0%+RSI\u8d85\u8ce324",
+      "kline": {
+        "ma5": 151.4,
+        "ma10": 154.91,
+        "ma20": NaN,
+        "rsi": 24.883720930232542,
+        "trend": "\u6a6b\u884c",
+        "close": 147.6
+      },
+      "volume": {
+        "signal": "HOLD",
+        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
+        "volume_ratio": 0.8198362021807221,
+        "price_change": -3.0223390275952657
+      }
+    }
+  ]
+}
