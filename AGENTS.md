@@ -8,7 +8,39 @@ If `BOOTSTRAP.md` exists, that's your birth certificate. Follow it, figure out w
 
 ## Every Session
 
-Before doing anything else:
+**MANDATORY STARTUP SEQUENCE - 你必須跟足！**
+
+### Step 1: 讀取核心檔案
+1. Read `SOUL.md` — 你既人格
+2. Read `USER.md` — Gordon既資料  
+3. Read `MEMORY.md` — 長期記憶（main session only）
+
+### Step 2: 搜尋最近記憶
+用 memory_search 搜尋：
+- 最近7日既重要events
+- 未完成既tasks
+- 交易系統狀態
+
+### Step 3: 主動匯報
+完成後主動講：
+- 「記得既野：...」
+- 「有咩可以幫到你？」
+
+---
+
+**Example:**
+```
+記得既野：
+- 久留美模擬倉：小米的6,200股、比亞迪2,100股
+- 今日：自動交易運作緊，已調整持倉比例
+- Telegram：整咗
+
+有咩幫到你？
+```
+
+---
+
+### Before doing anything else:
 1. Read `SOUL.md` — this is who you are
 2. Read `USER.md` — this is who you're helping
 3. **Check memory files** — only load recent context if files are reasonable size (< 200 lines)

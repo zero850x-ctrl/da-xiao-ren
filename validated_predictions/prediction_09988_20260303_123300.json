@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-03-03 12:33:00",
+  "stock": "09988",
+  "price_info": [
+    137.0,
+    "get_price_from_futu",
+    {
+      "timestamp": "2026-03-03 12:32:59",
+      "stock_code": "09988",
+      "price": 137.0,
+      "previous_price": null,
+      "validations": {
+        "stock_code": {
+          "valid": true,
+          "reason": "股票代碼格式正確",
+          "severity": "normal",
+          "normalized_code": "09988"
+        },
+        "price_format": {
+          "valid": true,
+          "reason": "價格格式正確",
+          "severity": "normal"
+        },
+        "price_range": {
+          "valid": true,
+          "reason": "價格在合理範圍內: $137.00 (範圍: $70.00-$200.00)",
+          "severity": "normal"
+        }
+      },
+      "overall_valid": true,
+      "issues": [],
+      "warnings": []
+    }
+  ],
+  "prediction": {
+    "probability_up": 0.5,
+    "signal": "⚪ 持有",
+    "confidence": 0.0,
+    "validated_price": 137.0,
+    "prediction_time": "2026-03-03 12:33:00"
+  },
+  "advice": {
+    "stock": "09988",
+    "timestamp": "2026-03-03 12:33:00",
+    "validated_price": 137.0,
+    "prediction": {
+      "probability_up": 0.5,
+      "signal": "⚪ 持有",
+      "confidence": 0.0,
+      "validated_price": 137.0,
+      "prediction_time": "2026-03-03 12:33:00"
+    },
+    "technical_levels": {
+      "support": 132.89,
+      "resistance": 141.11
+    },
+    "risk_assessment": {
+      "risk_score": 2,
+      "risk_level": "中高",
+      "risk_factors": [
+        "方向不明確",
+        "預測信心不足"
+      ],
+      "suggested_position_size": "20%"
+    },
+    "trading_advice": [
+      {
+        "action": "HOLD",
+        "reason": "方向不明，建議觀望",
+        "suggested_price": "N/A",
+        "stop_loss": 134.26,
+        "take_profit": 139.74
+      }
+    ],
+    "execution_plan": {
+      "immediate_action": "監控價格",
+      "key_levels": {
+        "critical_support": 132.89,
+        "critical_resistance": 141.11,
+        "alert_levels": [
+          {
+            "price": 135.63,
+            "action": "關注"
+          },
+          {
+            "price": 132.89,
+            "action": "考慮減倉"
+          },
+          {
+            "price": 141.11,
+            "action": "考慮加倉"
+          }
+        ]
+      },
+      "monitoring_schedule": "每15分鐘檢查一次",
+      "alert_thresholds": {
+        "urgent_sell": 132.89,
+        "urgent_buy": 141.11,
+        "normal_alert": 135.63
+      }
+    }
+  },
+  "system_info": {
+    "validator": "PriceValidator v1.0",
+    "predictor": "ValidatedXGBoostPredictor v1.0",
+    "data_source": "get_price_from_futu"
+  }
+}

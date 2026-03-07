@@ -1,0 +1,33 @@
+{
+  "timestamp": "2026-02-25 15:55:14",
+  "total_value": 278000.0,
+  "total_pl": -1260.0000000000018,
+  "total_pl_percent": -0.4511924371553398,
+  "holdings": {
+    "07500": {
+      "shares": 30000,
+      "avg_price": 1.63,
+      "current_price": 1.63,
+      "profit_loss": 0.0,
+      "profit_percent": 0.0
+    },
+    "00700": {
+      "shares": 200,
+      "avg_price": 533.5,
+      "current_price": 538.0,
+      "profit_loss": 900.0,
+      "profit_percent": 0.8434864104967188
+    },
+    "02800": {
+      "shares": 4500,
+      "avg_price": 27.48,
+      "current_price": 27.0,
+      "profit_loss": -2160.000000000002,
+      "profit_percent": -1.7467248908296984
+    }
+  },
+  "concentration": {
+    "top_holding": "02800",
+    "top_percentage": 43.70503597122302
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "timestamp": "2026-02-26 14:30:11",
+  "stock": "00992",
+  "price_info": [
+    9.61,
+    "get_price_from_futu",
+    {
+      "timestamp": "2026-02-26 14:30:11",
+      "stock_code": "00992",
+      "price": 9.61,
+      "previous_price": null,
+      "validations": {
+        "stock_code": {
+          "valid": true,
+          "reason": "股票代碼格式正確",
+          "severity": "normal",
+          "normalized_code": "00992"
+        },
+        "price_format": {
+          "valid": true,
+          "reason": "價格格式正確",
+          "severity": "normal"
+        },
+        "price_range": {
+          "valid": true,
+          "reason": "價格在合理範圍內: $9.61 (範圍: $5.00-$15.00)",
+          "severity": "normal"
+        }
+      },
+      "overall_valid": true,
+      "issues": [],
+      "warnings": []
+    }
+  ],
+  "prediction": {
+    "probability_up": 0.65,
+    "signal": "🟢 持有/加倉",
+    "confidence": 0.30000000000000004,
+    "validated_price": 9.61,
+    "prediction_time": "2026-02-26 14:30:11"
+  },
+  "advice": {
+    "stock": "00992",
+    "timestamp": "2026-02-26 14:30:11",
+    "validated_price": 9.61,
+    "prediction": {
+      "probability_up": 0.65,
+      "signal": "🟢 持有/加倉",
+      "confidence": 0.30000000000000004,
+      "validated_price": 9.61,
+      "prediction_time": "2026-02-26 14:30:11"
+    },
+    "technical_levels": {
+      "golden_382": 9.129499999999998,
+      "golden_500": 9.4178,
+      "golden_618": 9.8022,
+      "support": 9.3217,
+      "resistance": 9.898299999999999
+    },
+    "risk_assessment": {
+      "risk_score": 1,
+      "risk_level": "中",
+      "risk_factors": [
+        "預測信心不足"
+      ],
+      "suggested_position_size": "25%"
+    },
+    "trading_advice": [
+      {
+        "action": "BUY",
+        "strength": "中",
+        "reason": "上漲概率較高",
+        "suggested_price": 9.61,
+        "stop_loss": 9.4178,
+        "take_profit": 9.898299999999999
+      }
+    ],
+    "execution_plan": {
+      "immediate_action": "監控價格",
+      "key_levels": {
+        "critical_support": 9.3217,
+        "critical_resistance": 9.898299999999999,
+        "alert_levels": [
+          {
+            "price": 9.5139,
+            "action": "關注"
+          },
+          {
+            "price": 9.3217,
+            "action": "考慮減倉"
+          },
+          {
+            "price": 9.898299999999999,
+            "action": "考慮加倉"
+          }
+        ]
+      },
+      "monitoring_schedule": "每15分鐘檢查一次",
+      "alert_thresholds": {
+        "urgent_sell": 9.3217,
+        "urgent_buy": 9.898299999999999,
+        "normal_alert": 9.5139
+      }
+    }
+  },
+  "system_info": {
+    "validator": "PriceValidator v1.0",
+    "predictor": "ValidatedXGBoostPredictor v1.0",
+    "data_source": "get_price_from_futu"
+  }
+}

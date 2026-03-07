@@ -1,277 +1,175 @@
 #!/usr/bin/env python3
 """
-完整投資組合監控系統
-監控所有持倉股票
+完整投資組合監控分析
+監控: 聯想、匯豐、工行、港燈、京東、騰訊、阿里
 """
 
-import sys
 import json
 from datetime import datetime
 
-def analyze_full_portfolio():
-    """分析完整投資組合"""
-    print(f"\n{'='*70}")
-    print(f"📊 你的完整投資組合監控報告")
-    print(f"{'='*70}")
-    print(f"時間: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-    print(f"{'='*70}")
-    
-    # 投資組合數據
-    portfolio = [
-        {
-            'code': '00992',
-            'name': '聯想集團',
-            'category': '科技股',
-            'position': 26000,
-            'buy_price': 8.59,
-            'current_price': 9.17,
-            'notes': '重點持倉，正在測試關鍵支撐位'
-        },
-        {
-            'code': '00005',
-            'name': '匯豐控股',
-            'category': '銀行股',
-            'position': '持有',
-            'buy_price': 59.40,
-            'current_price': 134.20,
-            'notes': '收息股，長期表現優秀'
-        },
-        {
-            'code': '01398',
-            'name': '工商銀行',
-            'category': '銀行股',
-            'position': '持有',
-            'buy_price': 4.46,
-            'current_price': 6.40,
-            'notes': '收息股，穩定增長'
-        },
-        {
-            'code': '02638',
-            'name': '港燈-SS',
-            'category': '公用事業',
-            'position': '持有',
-            'buy_price': 4.85,
-            'current_price': 6.97,
-            'notes': '防守型收息股'
-        },
-        {
-            'code': '09618',
-            'name': '京東集團',
-            'category': '科技股',
-            'position': '持有',
-            'buy_price': 120.00,
-            'current_price': 105.90,
-            'notes': '當前虧損，可考慮成本平均'
-        },
-        {
-            'code': '00700',
-            'name': '騰訊控股',
-            'category': '科技股',
-            'position': '監控',
-            'current_price': 522.00,
-            'notes': '市場風向標，密切監控'
-        },
-        {
-            'code': '09988',
-            'name': '阿里巴巴',
-            'category': '科技股',
-            'position': '監控',
-            'current_price': 148.70,
-            'notes': '科技股代表，跟隨大市'
-        }
-    ]
-    
-    # 分析每隻股票
-    print(f"\n📈 股票詳細分析:")
-    print(f"{'-'*70}")
-    
-    total_profit = 0
-    total_investment = 0
-    stocks_with_profit = 0
-    stocks_with_loss = 0
-    
-    for stock in portfolio:
-        print(f"\n{stock['code']} - {stock['name']} ({stock['category']})")
-        print(f"  狀態: {stock['position']}")
-        
-        if 'buy_price' in stock and 'current_price' in stock:
-            buy_price = stock['buy_price']
-            current_price = stock['current_price']
-            profit_pct = ((current_price - buy_price) / buy_price) * 100
-            
-            print(f"  買入價: HKD {buy_price:.2f}")
-            print(f"  當前價: HKD {current_price:.2f}")
-            print(f"  盈虧: {profit_pct:+.2f}%")
-            
-            # 計算盈利金額（如果知道股數）
-            if isinstance(stock['position'], int):
-                profit_amount = (current_price - buy_price) * stock['position']
-                print(f"  盈利金額: HKD {profit_amount:+,.2f}")
-                total_profit += profit_amount
-                total_investment += buy_price * stock['position']
-            
-            # 記錄盈虧狀態
-            if profit_pct > 0:
-                stocks_with_profit += 1
-            elif profit_pct < 0:
-                stocks_with_loss += 1
-            
-            # 特別分析
-            if stock['code'] == '00992':  # 聯想集團
-                if current_price <= 9.17:
-                    print(f"  ⚠️  警告: 正在測試關鍵支撐位 $9.17")
-                if profit_pct >= 8:
-                    print(f"  ✅ 建議: 已達8%止盈目標，可部分獲利了結")
-            
-            elif stock['code'] == '00005':  # 匯豐控股
-                print(f"  💰 表現: 優秀 (+{profit_pct:.1f}%)")
-                print(f"      建議: 長期持有，享受股息")
-            
-            elif stock['code'] == '09618':  # 京東集團
-                print(f"  📉 狀態: 虧損 ({profit_pct:.1f}%)")
-                print(f"      建議: 可考慮分批買入降低成本")
-        
+# 持股數據 (從上次報告讀取)
+portfolio = [
+    {"code": "00992", "name": "聯想集團", "category": "科技股", "position": 26000, "buy_price": 8.59},
+    {"code": "00005", "name": "匯豐控股", "category": "銀行股", "position": "持有", "buy_price": 59.4},
+    {"code": "01398", "name": "工商銀行", "category": "銀行股", "position": "持有", "buy_price": 4.46},
+    {"code": "02638", "name": "港燈-SS", "category": "公用事業", "position": "持有", "buy_price": 4.85},
+    {"code": "09618", "name": "京東集團", "category": "科技股", "position": "持有", "buy_price": 120.0},
+    {"code": "00700", "name": "騰訊控股", "category": "科技股", "position": "監控", "buy_price": None},
+    {"code": "09988", "name": "阿里巴巴", "category": "科技股", "position": "監控", "buy_price": None}
+]
+
+# 嘗試從Yahoo Finance獲取價格
+def get_stock_price(code):
+    """從Yahoo Finance獲取港股價格"""
+    try:
+        import requests
+        # 港股代碼轉換
+        if code.startswith("0"):
+            yahoo_code = f"{code}.HK"
         else:
-            print(f"  當前價: HKD {stock.get('current_price', 'N/A')}")
+            yahoo_code = f"{code}.HK"
         
-        print(f"  備註: {stock['notes']}")
-    
-    # 總體表現
-    print(f"\n{'='*70}")
-    print(f"💰 投資組合總體表現")
-    print(f"{'='*70}")
-    
-    total_stocks = len(portfolio)
-    if total_investment > 0:
-        total_return_pct = (total_profit / total_investment) * 100
+        url = f"https://query1.finance.yahoo.com/v8/finance/chart/{yahoo_code}"
+        headers = {'User-Agent': 'Mozilla/5.0'}
+        resp = requests.get(url, headers=headers, timeout=10)
+        data = resp.json()
+        
+        if 'chart' in data and 'result' in data['chart'] and data['chart']['result']:
+            result = data['chart']['result'][0]
+            if 'meta' in result and 'regularMarketPrice' in result['meta']:
+                return result['meta']['regularMarketPrice']
+    except Exception as e:
+        print(f"Error fetching {code}: {e}")
+    return None
+
+# 嘗試獲取價格
+print("正在獲取實時報價...")
+prices = {}
+for stock in portfolio:
+    code = stock["code"]
+    price = get_stock_price(code)
+    if price:
+        prices[code] = price
+        print(f"{stock['name']}: ${price}")
     else:
-        total_return_pct = 0
+        # 使用上次報告的價格作為fallback
+        print(f"{stock['name']}: 無法獲取實時報價")
+
+# 如果無法獲取實時價格，使用上次報告的價格
+fallback_prices = {
+    "00992": 9.17,
+    "00005": 134.2,
+    "01398": 6.4,
+    "02638": 6.97,
+    "09618": 105.9,
+    "00700": 522.0,
+    "09988": 148.7
+}
+
+for code in fallback_prices:
+    if code not in prices:
+        prices[code] = fallback_prices[code]
+
+# 計算持倉價值和損益
+total_investment = 0
+total_value = 0
+stocks_with_profit = 0
+stocks_with_loss = 0
+
+report = {
+    "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+    "portfolio": [],
+    "summary": {}
+}
+
+for stock in portfolio:
+    code = stock["code"]
+    current_price = prices.get(code)
     
-    print(f"監控股票數: {total_stocks} 隻")
-    print(f"盈利股票: {stocks_with_profit} 隻")
-    print(f"虧損股票: {stocks_with_loss} 隻")
-    print(f"總投資金額: HKD {total_investment:,.2f}")
-    print(f"總盈利金額: HKD {total_profit:+,.2f}")
-    print(f"總回報率: {total_return_pct:+.2f}%")
-    
-    # 分類表現
-    print(f"\n📊 按類別分析:")
-    categories = {}
-    for stock in portfolio:
-        category = stock['category']
-        if category not in categories:
-            categories[category] = {'count': 0, 'stocks': []}
-        categories[category]['count'] += 1
-        categories[category]['stocks'].append(stock['code'])
-    
-    for category, data in categories.items():
-        print(f"  {category}: {data['count']}隻 - {', '.join(data['stocks'])}")
-    
-    # 投資建議
-    print(f"\n{'='*70}")
-    print(f"🎯 投資組合建議")
-    print(f"{'='*70}")
-    
-    if total_return_pct >= 20:
-        print(f"✅ 組合表現優秀 (+{total_return_pct:.1f}%)")
-        print(f"   建議行動:")
-        print(f"   1. 部分獲利了結，鎖定盈利")
-        print(f"   2. 將盈利轉入防守型股票")
-        print(f"   3. 保持核心持倉，長期持有")
-    
-    elif total_return_pct >= 10:
-        print(f"👍 組合表現良好 (+{total_return_pct:.1f}%)")
-        print(f"   建議行動:")
-        print(f"   1. 繼續持有表現良好的股票")
-        print(f"   2. 優化虧損股票配置")
-        print(f"   3. 考慮增加現金比例")
-    
-    elif total_return_pct >= 0:
-        print(f"⚠️  組合表現一般 (+{total_return_pct:.1f}%)")
-        print(f"   建議行動:")
-        print(f"   1. 檢討投資策略")
-        print(f"   2. 增加表現較好股票的權重")
-        print(f"   3. 考慮止損虧損較大的股票")
-    
+    if stock["buy_price"] and current_price:
+        profit_pct = ((current_price - stock["buy_price"]) / stock["buy_price"]) * 100
+        profit = (current_price - stock["buy_price"]) * (stock["position"] if isinstance(stock["position"], int) else 0)
+        
+        if profit_pct > 0:
+            stocks_with_profit += 1
+            status = "✅ 盈利"
+        elif profit_pct < 0:
+            stocks_with_loss += 1
+            status = "❌ 虧損"
+        else:
+            status = "➖ 持平"
+        
+        if isinstance(stock["position"], int):
+            value = current_price * stock["position"]
+            total_investment += stock["buy_price"] * stock["position"]
+            total_value += value
     else:
-        print(f"🚨 組合虧損中 ({total_return_pct:.1f}%)")
-        print(f"   建議行動:")
-        print(f"   1. 嚴格執行止損紀律")
-        print(f"   2. 重新評估投資組合")
-        print(f"   3. 考慮專業投資建議")
+        profit_pct = None
+        profit = None
+        status = "👁️ 監控中"
+        value = None
     
-    # 監控系統狀態
-    print(f"\n{'='*70}")
-    print(f"🔧 當前監控系統狀態")
-    print(f"{'='*70}")
-    
-    print(f"已設置的監控任務:")
-    print(f"├── 聯想集團XGBoost融合交易 (每30分鐘)")
-    print(f"├── 價格驗證檢查 (每小時整點 09-16)")
-    print(f"├── 交易監控 (11:30, 13:00, 15:30, 15:55)")
-    print(f"├── 收市前綜合檢查 (15:55)")
-    print(f"└── 收市後總結 (16:05)")
-    
-    print(f"\n建議新增監控:")
-    print(f"├── 投資組合每日總結 (16:10)")
-    print(f"├── 收息股表現月度報告 (每月首個交易日)")
-    print(f"├── 風險評估每周報告 (每周一)")
-    print(f"└── 市場情緒監控 (每日開市前)")
-    
-    # 保存報告
-    report = {
-        'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
-        'portfolio': portfolio,
-        'summary': {
-            'total_stocks': total_stocks,
-            'stocks_with_profit': stocks_with_profit,
-            'stocks_with_loss': stocks_with_loss,
-            'total_investment': total_investment,
-            'total_profit': total_profit,
-            'total_return_pct': total_return_pct
-        }
+    stock_report = {
+        "code": code,
+        "name": stock["name"],
+        "category": stock["category"],
+        "position": stock["position"],
+        "buy_price": stock["buy_price"],
+        "current_price": current_price,
+        "profit_pct": profit_pct,
+        "profit": profit,
+        "status": status,
+        "notes": stock.get("notes", "")
     }
-    
-    report_file = f"/Users/gordonlui/.openclaw/workspace/full_portfolio_report_{datetime.now().strftime('%Y%m%d_%H%M')}.json"
-    try:
-        with open(report_file, 'w') as f:
-            json.dump(report, f, indent=2, ensure_ascii=False)
-        print(f"\n💾 完整投資組合報告已保存: {report_file}")
-    except Exception as e:
-        print(f"❌ 保存報告失敗: {e}")
-    
-    print(f"\n{'='*70}")
-    print(f"✅ 完整投資組合監控完成")
-    print(f"{'='*70}")
-    
-    return report
+    report["portfolio"].append(stock_report)
 
-def main():
-    """主函數"""
-    print("🚀 啟動完整投資組合監控系統...")
-    
-    try:
-        report = analyze_full_portfolio()
-        
-        # 簡要總結
-        print(f"\n📋 監控總結:")
-        print(f"  監控股票: {report['summary']['total_stocks']} 隻")
-        print(f"  盈利股票: {report['summary']['stocks_with_profit']} 隻")
-        print(f"  虧損股票: {report['summary']['stocks_with_loss']} 隻")
-        print(f"  總回報率: {report['summary']['total_return_pct']:+.2f}%")
-        
-        # 重點關注
-        print(f"\n🎯 重點關注:")
-        for stock in report['portfolio']:
-            if stock['code'] in ['00992', '00005', '09618']:
-                if 'buy_price' in stock and 'current_price' in stock:
-                    profit_pct = ((stock['current_price'] - stock['buy_price']) / stock['buy_price']) * 100
-                    print(f"  {stock['code']} {stock['name']}: {profit_pct:+.2f}% - {stock['notes']}")
-        
-    except Exception as e:
-        print(f"❌ 監控過程出錯: {e}")
-        import traceback
-        traceback.print_exc()
+total_profit = total_value - total_investment
+total_return_pct = (total_profit / total_investment * 100) if total_investment > 0 else 0
 
-if __name__ == "__main__":
-    main()
+report["summary"] = {
+    "total_stocks": len(portfolio),
+    "stocks_with_profit": stocks_with_profit,
+    "stocks_with_loss": stocks_with_loss,
+    "total_investment": round(total_investment, 2),
+    "total_value": round(total_value, 2),
+    "total_profit": round(total_profit, 2),
+    "total_return_pct": round(total_return_pct, 2)
+}
+
+# 輸出報告
+print("\n" + "="*60)
+print("📊 完整投資組合監控報告")
+print("="*60)
+print(f"時間: {report['timestamp']}")
+print()
+
+for stock in report["portfolio"]:
+    print(f"📌 {stock['name']} ({stock['code']})")
+    print(f"   類別: {stock['category']}")
+    print(f"   持股: {stock['position']}")
+    if stock["buy_price"]:
+        print(f"   買入價: ${stock['buy_price']}")
+    print(f"   現價: ${stock['current_price']}")
+    if stock["profit_pct"] is not None:
+        print(f"   損益: {stock['profit_pct']:.2f}% ({stock['status']})")
+    else:
+        print(f"   狀態: {stock['status']}")
+    print()
+
+print("="*60)
+print("📈 總結")
+print("="*60)
+print(f"總持股數: {report['summary']['total_stocks']}")
+print(f"盈利股票: {report['summary']['stocks_with_profit']}")
+print(f"虧損股票: {report['summary']['stocks_with_loss']}")
+print(f"總投資成本: ${report['summary']['total_investment']:,.2f}")
+print(f"總市值: ${report['summary']['total_value']:,.2f}")
+print(f"總損益: ${report['summary']['total_profit']:,.2f}")
+print(f"總回報率: {report['summary']['total_return_pct']:.2f}%")
+
+# 保存報告
+filename = f"/Users/gordonlui/.openclaw/workspace/full_portfolio_report_{datetime.now().strftime('%Y%m%d_%H%M')}.json"
+with open(filename, 'w', encoding='utf-8') as f:
+    json.dump(report, f, ensure_ascii=False, indent=2)
+
+print(f"\n✅ 報告已保存至: {filename}")

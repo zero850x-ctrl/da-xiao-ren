@@ -1,0 +1,11 @@
+[
+  {
+    "type": "達到目標1",
+    "level": "target_1",
+    "level_price": 9.58,
+    "current_price": 9.64,
+    "distance_percent": 0.6263048016701411,
+    "action": "考慮獲利了結",
+    "urgency": "高"
+  }
+]

@@ -1,0 +1,227 @@
+🚀 XGBoost多股票交易系統啟動 - 2026-03-06 10:37:40.511065
+============================================================
+功能: 1)富途API獲取真實股價 2)K線數據分析 3)成交量八大法則 4)自動交易信號
+============================================================
+
+📡 1. 獲取實時股價...
+2026-03-06 10:37:40,757 | 62630 | 8564273280 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7435513907672299717(1) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x105d05dc0>
+   獲取到 17 隻股票數據
+
+📊 分析 HK.03750 {'name': '寧德時代', 'owner': 'Monitor'}...
+2026-03-06 10:37:40,920 | 62630 | 6193147904 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(1) reason=CallClose
+2026-03-06 10:37:40,921 | 62630 | 8564273280 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7435513908355642084(2) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10c230af0>
+2026-03-06 10:37:40,938 | 62630 | 6193147904 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(2) reason=CallClose
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+✅ ML模型已載入: /Users/gordonlui/.openclaw/workspace/models/xgboost_model_real.pkl
+✅ yfinance增強模型已載入
+   價格: $501.50 (+0.34%)
+   信號: 🔴 SELL (置信度: 95%)
+   原因: Ensemble:SELL(95%)(Futu/yFinance)+R/R=2.0✅+下降趨勢
+   技術: MA5=$490.38, EMA8/13=498.91/501.59, RSI=48, MACD=-0.981, BB位置=40%, 趨勢=下降
+   量價: 量縮價漲 - 趨勢反轉風險
+
+📊 分析 HK.02800 {'name': '盈富基金', 'owner': '久留美'}...
+2026-03-06 10:37:41,556 | 62630 | 8564273280 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7435513911019116482(3) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x127bc7790>
+2026-03-06 10:37:41,571 | 62630 | 6193147904 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(3) reason=CallClose
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+   價格: $25.80 (+1.18%)
+   信號: 🔴 SELL (置信度: 95%)
+   原因: Ensemble:SELL(95%)(Futu/yFinance)+R/R=3.0✅+下降趨勢+布林底
+   技術: MA5=$25.80, EMA8/13=26.07/26.32, RSI=33, MACD=-0.326, BB位置=12%, 趨勢=下降
+   量價: 價漲量縮 - 警示信號
+
+📊 分析 HK.07500 {'name': '兩倍看空', 'owner': '久留美'}...
+2026-03-06 10:37:41,575 | 62630 | 8564273280 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7435513911100237672(4) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10c21dd90>
+2026-03-06 10:37:41,591 | 62630 | 6193147904 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(4) reason=CallClose
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+   價格: $1.81 (-1.73%)
+   信號: 🟢 BUY (置信度: 65%)
+   原因: Ensemble:BUY(65%)(Futu/yFinance)+R/R=2.0✅+上升趨勢+多頭
+   技術: MA5=$1.81, EMA8/13=1.78/1.75, RSI=66, MACD=0.038, BB位置=87%, 趨勢=上升
+   量價: 價跌量縮 - 可能見底
+
+📊 分析 HK.01211 {'name': '比亞迪', 'owner': '久留美'}...
+2026-03-06 10:37:41,594 | 62630 | 8564273280 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7435513911183759157(5) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10c21ddc0>
+2026-03-06 10:37:41,610 | 62630 | 6193147904 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(5) reason=CallClose
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+   價格: $91.90 (-0.76%)
+   信號: 🔴 SELL (置信度: 80%)
+   原因: 技術指標+下降趨勢+空頭排列+布林底+R/R=2.8✅
+   技術: MA5=$94.97, EMA8/13=94.86/95.49, RSI=35, MACD=-0.622, BB位置=19%, 趨勢=下降
+   量價: 正常成交量
+
+📊 分析 HK.09618 {'name': '京東集團', 'owner': 'Gordon'}...
+2026-03-06 10:37:41,613 | 62630 | 8564273280 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7435513911262504617(6) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10c275cd0>
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+2026-03-06 10:37:41,630 | 62630 | 6193147904 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(6) reason=CallClose
+   價格: $104.10 (+7.37%)
+   信號: 🔴 SELL (置信度: 90%)
+   原因: 技術指標+下降趨勢+空頭排列+R/R=2.0✅
+   技術: MA5=$100.15, EMA8/13=101.94/103.30, RSI=40, MACD=-2.993, BB位置=42%, 趨勢=下降
+   量價: 價漲量縮 - 警示信號
+
+📊 分析 HK.00005 {'name': '匯豐控股', 'owner': 'Gordon'}...
+2026-03-06 10:37:41,632 | 62630 | 8564273280 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7435513911339315464(7) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10c21dd90>
+2026-03-06 10:37:41,647 | 62630 | 6193147904 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(7) reason=CallClose
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+   價格: $134.10 (+0.15%)
+   信號: 🔴 SELL (置信度: 82%)
+   原因: Ensemble:SELL(82%)(Futu/yFinance)+R/R=2.1✅+下降趨勢
+   技術: MA5=$134.88, EMA8/13=136.24/136.79, RSI=43, MACD=0.764, BB位置=28%, 趨勢=下降
+   量價: 量縮價漲 - 趨勢反轉風險
+
+📊 分析 HK.01398 {'name': '工商銀行', 'owner': 'Gordon'}...
+2026-03-06 10:37:41,651 | 62630 | 8564273280 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7435513911420655196(8) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10c230e80>
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+2026-03-06 10:37:41,668 | 62630 | 6193147904 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(8) reason=CallClose
+   價格: $6.40 (+0.63%)
+   信號: 🔴 SELL (置信度: 82%)
+   原因: Ensemble:SELL(82%)(Futu/yFinance)+R/R=2.0✅+下降趨勢
+   技術: MA5=$6.38, EMA8/13=6.40/6.41, RSI=41, MACD=0.005, BB位置=32%, 趨勢=下降
+   量價: 量縮價漲 - 趨勢反轉風險
+
+📊 分析 HK.02638 {'name': '港燈', 'owner': 'Gordon'}...
+2026-03-06 10:37:41,670 | 62630 | 8564273280 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7435513911502321317(9) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10c275100>
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+2026-03-06 10:37:41,689 | 62630 | 6193147904 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(9) reason=CallClose
+   價格: $6.98 (-0.71%)
+   信號: 🟢 BUY (置信度: 90%)
+   原因: 技術指標+上升趨勢+多頭排列+R/R=2.0✅
+   技術: MA5=$6.99, EMA8/13=6.99/6.97, RSI=52, MACD=0.091, BB位置=56%, 趨勢=上升
+   量價: 正常成交量
+
+📊 分析 HK.800000 {'name': '恆生指數', 'owner': '-'}...
+2026-03-06 10:37:41,691 | 62630 | 8564273280 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7435513911588854578(10) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10c2498e0>
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+2026-03-06 10:37:41,708 | 62630 | 6193147904 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(10) reason=CallClose
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+   價格: $25578.40 (+1.02%)
+   信號: 🔴 SELL (置信度: 80%)
+   原因: Ensemble:SELL(80%)(Futu/yFinance)+R/R=3.1✅+下降趨勢+布林底
+   技術: MA5=$25595.43, EMA8/13=25862.58/26105.45, RSI=32, MACD=-328.281, BB位置=12%, 趨勢=下降
+   量價: 正常成交量
+
+📊 分析 HK.00857 {'name': '中國石油', 'owner': 'Monitor'}...
+2026-03-06 10:37:41,711 | 62630 | 8564273280 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7435513911672442666(11) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10c249be0>
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+2026-03-06 10:37:41,729 | 62630 | 6193147904 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(11) reason=CallClose
+   價格: $10.29 (+0.29%)
+   信號: 🟢 BUY (置信度: 60%)
+   原因: 技術指標+上升趨勢+多頭排列+布林頂
+   技術: MA5=$10.21, EMA8/13=10.01/9.83, RSI=67, MACD=0.377, BB位置=93%, 趨勢=上升
+   量價: 量縮價漲 - 趨勢反轉風險
+
+📊 分析 HK.01024 {'name': '快手', 'owner': 'Monitor'}...
+2026-03-06 10:37:41,731 | 62630 | 8564273280 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7435513911755806875(12) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x127bd3c10>
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+2026-03-06 10:37:41,749 | 62630 | 6193147904 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(12) reason=CallClose
+   價格: $60.70 (+1.85%)
+   信號: 🟢 BUY (置信度: 82%)
+   原因: Ensemble:BUY(82%)(Futu/yFinance)+R/R=4.5✅+下降趨勢+RSI超賣19+布林底
+   技術: MA5=$60.17, EMA8/13=61.89/63.77, RSI=19, MACD=-3.973, BB位置=18%, 趨勢=下降
+   量價: 價漲量縮 - 警示信號
+
+📊 分析 HK.02331 {'name': '李寧', 'owner': 'Monitor'}...
+2026-03-06 10:37:41,750 | 62630 | 8564273280 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7435513911838702667(13) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10c2309a0>
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+2026-03-06 10:37:41,769 | 62630 | 6193147904 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(13) reason=CallClose
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+   價格: $20.32 (+1.70%)
+   信號: 🔴 SELL (置信度: 78%)
+   原因: Ensemble:SELL(78%)(Futu/yFinance)+R/R=3.4✅+下降趨勢+布林底
+   技術: MA5=$20.71, EMA8/13=20.99/21.21, RSI=35, MACD=0.030, BB位置=9%, 趨勢=下降
+   量價: 價漲量縮 - 警示信號
+
+📊 分析 HK.02343 {'name': '太平洋航運', 'owner': 'Monitor'}...
+2026-03-06 10:37:41,772 | 62630 | 8564273280 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7435513911927984734(14) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10c249c10>
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+2026-03-06 10:37:41,792 | 62630 | 6193147904 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(14) reason=CallClose
+   價格: $2.97 (-2.62%)
+   信號: 🟢 BUY (置信度: 60%)
+   原因: 技術指標+下降趨勢+布林底+RSI超賣26
+   技術: MA5=$3.26, EMA8/13=3.25/3.29, RSI=26, MACD=0.074, BB位置=-3%, 趨勢=下降
+   量價: 價跌量縮 - 可能見底
+
+📊 分析 HK.00358 {'name': '江西銅業', 'owner': 'Monitor'}...
+2026-03-06 10:37:41,793 | 62630 | 8564273280 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7435513912017062566(15) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x127d32d90>
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+2026-03-06 10:37:41,814 | 62630 | 6193147904 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(15) reason=CallClose
+   價格: $40.94 (-2.38%)
+   信號: 🔴 SELL (置信度: 60%)
+   原因: 技術指標+下降趨勢+空頭排列+布林底
+   技術: MA5=$42.66, EMA8/13=43.03/43.61, RSI=38, MACD=-0.679, BB位置=0%, 趨勢=下降
+   量價: 價跌量縮 - 可能見底
+
+📊 分析 HK.02318 {'name': '中國銀行', 'owner': 'Monitor'}...
+2026-03-06 10:37:41,816 | 62630 | 8564273280 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7435513912109554337(16) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x10c275040>
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+2026-03-06 10:37:41,835 | 62630 | 6193147904 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(16) reason=CallClose
+   價格: $63.95 (-0.16%)
+   信號: 🔴 SELL (置信度: 60%)
+   原因: 技術指標+下降趨勢+空頭排列+布林底+RSI超賣24
+   技術: MA5=$64.99, EMA8/13=66.15/67.33, RSI=24, MACD=-1.468, BB位置=5%, 趨勢=下降
+   量價: 底部成交量遞減 - 即將上漲
+
+📊 分析 HK.01810 {'name': '小米集團', 'owner': 'Monitor'}...
+2026-03-06 10:37:41,837 | 62630 | 8564273280 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7435513912199030690(17) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x127bd3850>
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+2026-03-06 10:37:41,856 | 62630 | 6193147904 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(17) reason=CallClose
+   價格: $33.04 (+2.61%)
+   信號: 🔴 SELL (置信度: 90%)
+   原因: 技術指標+下降趨勢+空頭排列+RSI超賣29+R/R=3.4✅
+   技術: MA5=$32.39, EMA8/13=33.33/33.94, RSI=30, MACD=-1.054, BB位置=23%, 趨勢=下降
+   量價: 價漲量縮 - 警示信號
+
+📊 分析 HK.09988 {'name': '阿里巴巴', 'owner': 'Monitor'}...
+2026-03-06 10:37:41,858 | 62630 | 8564273280 | [open_context_base.py:409] _init_connect_sync: New connect ready: conn=7435513912286794136(18) context=<futu.quote.open_quote_context.OpenQuoteContext object at 0x127d44130>
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+/Users/gordonlui/Library/Python/3.9/lib/python/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+2026-03-06 10:37:41,879 | 62630 | 6193147904 | [open_context_base.py:516] on_disconnect: Disconnected: conn=0(18) reason=CallClose

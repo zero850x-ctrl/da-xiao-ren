@@ -9,7 +9,7 @@
   "payload": {
     "kind": "agentTurn",
     "message": "執行早盤檢查任務。時間: 10:30。運行價格監控和突破檢測。執行: python3 /Users/gordonlui/.openclaw/workspace/trading_schedule_system.py --time 10:30。檢查聯想集團是否突破關鍵價位，監控市場走勢。",
-    "model": "deepseek/deepseek-coder",
+    "model": "minimax/M2.5",
     "thinking": "normal"
   },
   "sessionTarget": "isolated",

@@ -1,0 +1,203 @@
+{
+  "timestamp": "2026-03-04 09:04:04",
+  "summary": {
+    "total_stocks": 7,
+    "valid": 7,
+    "invalid": 0,
+    "valid_percentage": 100.0
+  },
+  "issues": [],
+  "warnings": [],
+  "critical_issues": [],
+  "detailed_results": [
+    {
+      "timestamp": "2026-03-04 09:04:04",
+      "stock_code": "00992",
+      "price": 9.3,
+      "previous_price": null,
+      "validations": {
+        "stock_code": {
+          "valid": true,
+          "reason": "股票代碼格式正確",
+          "severity": "normal",
+          "normalized_code": "00992"
+        },
+        "price_format": {
+          "valid": true,
+          "reason": "價格格式正確",
+          "severity": "normal"
+        },
+        "price_range": {
+          "valid": true,
+          "reason": "價格在合理範圍內: $9.30 (範圍: $5.00-$15.00)",
+          "severity": "normal"
+        }
+      },
+      "overall_valid": true,
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "timestamp": "2026-03-04 09:04:04",
+      "stock_code": "00700",
+      "price": 535.5,
+      "previous_price": null,
+      "validations": {
+        "stock_code": {
+          "valid": true,
+          "reason": "股票代碼格式正確",
+          "severity": "normal",
+          "normalized_code": "00700"
+        },
+        "price_format": {
+          "valid": true,
+          "reason": "價格格式正確",
+          "severity": "normal"
+        },
+        "price_range": {
+          "valid": true,
+          "reason": "價格在合理範圍內: $535.50 (範圍: $300.00-$800.00)",
+          "severity": "normal"
+        }
+      },
+      "overall_valid": true,
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "timestamp": "2026-03-04 09:04:04",
+      "stock_code": "09988",
+      "price": 158.6,
+      "previous_price": null,
+      "validations": {
+        "stock_code": {
+          "valid": true,
+          "reason": "股票代碼格式正確",
+          "severity": "normal",
+          "normalized_code": "09988"
+        },
+        "price_format": {
+          "valid": true,
+          "reason": "價格格式正確",
+          "severity": "normal"
+        },
+        "price_range": {
+          "valid": true,
+          "reason": "價格在合理範圍內: $158.60 (範圍: $70.00-$200.00)",
+          "severity": "normal"
+        }
+      },
+      "overall_valid": true,
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "timestamp": "2026-03-04 09:04:04",
+      "stock_code": "00005",
+      "price": 134.2,
+      "previous_price": null,
+      "validations": {
+        "stock_code": {
+          "valid": true,
+          "reason": "股票代碼格式正確",
+          "severity": "normal",
+          "normalized_code": "00005"
+        },
+        "price_format": {
+          "valid": true,
+          "reason": "價格格式正確",
+          "severity": "normal"
+        },
+        "price_range": {
+          "valid": true,
+          "reason": "價格在合理範圍內: $134.20 (範圍: $40.00-$200.00)",
+          "severity": "normal"
+        }
+      },
+      "overall_valid": true,
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "timestamp": "2026-03-04 09:04:04",
+      "stock_code": "01398",
+      "price": 6.4,
+      "previous_price": null,
+      "validations": {
+        "stock_code": {
+          "valid": true,
+          "reason": "股票代碼格式正確",
+          "severity": "normal",
+          "normalized_code": "01398"
+        },
+        "price_format": {
+          "valid": true,
+          "reason": "價格格式正確",
+          "severity": "normal"
+        },
+        "price_range": {
+          "valid": true,
+          "reason": "價格在合理範圍內: $6.40 (範圍: $3.00-$8.00)",
+          "severity": "normal"
+        }
+      },
+      "overall_valid": true,
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "timestamp": "2026-03-04 09:04:04",
+      "stock_code": "02638",
+      "price": 6.97,
+      "previous_price": null,
+      "validations": {
+        "stock_code": {
+          "valid": true,
+          "reason": "股票代碼格式正確",
+          "severity": "normal",
+          "normalized_code": "02638"
+        },
+        "price_format": {
+          "valid": true,
+          "reason": "價格格式正確",
+          "severity": "normal"
+        },
+        "price_range": {
+          "valid": true,
+          "reason": "價格在合理範圍內: $6.97 (範圍: $4.00-$8.00)",
+          "severity": "normal"
+        }
+      },
+      "overall_valid": true,
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "timestamp": "2026-03-04 09:04:04",
+      "stock_code": "09618",
+      "price": 105.9,
+      "previous_price": null,
+      "validations": {
+        "stock_code": {
+          "valid": true,
+          "reason": "股票代碼格式正確",
+          "severity": "normal",
+          "normalized_code": "09618"
+        },
+        "price_format": {
+          "valid": true,
+          "reason": "價格格式正確",
+          "severity": "normal"
+        },
+        "price_range": {
+          "valid": true,
+          "reason": "價格在合理範圍內: $105.90 (範圍: $80.00-$150.00)",
+          "severity": "normal"
+        }
+      },
+      "overall_valid": true,
+      "issues": [],
+      "warnings": []
+    }
+  ]
+}

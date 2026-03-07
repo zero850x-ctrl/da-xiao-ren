@@ -1,0 +1,98 @@
+{
+  "timestamp": "2026-03-05 16:11:35",
+  "portfolio": [
+    {
+      "code": "00992",
+      "name": "聯想集團",
+      "category": "科技股",
+      "position": 26000,
+      "buy_price": 8.59,
+      "current_price": 9.17,
+      "profit_pct": 6.752037252619325,
+      "profit": 15080.000000000002,
+      "status": "✅ 盈利",
+      "notes": ""
+    },
+    {
+      "code": "00005",
+      "name": "匯豐控股",
+      "category": "銀行股",
+      "position": "持有",
+      "buy_price": 59.4,
+      "current_price": 134.2,
+      "profit_pct": 125.92592592592591,
+      "profit": 0.0,
+      "status": "✅ 盈利",
+      "notes": ""
+    },
+    {
+      "code": "01398",
+      "name": "工商銀行",
+      "category": "銀行股",
+      "position": "持有",
+      "buy_price": 4.46,
+      "current_price": 6.4,
+      "profit_pct": 43.49775784753364,
+      "profit": 0.0,
+      "status": "✅ 盈利",
+      "notes": ""
+    },
+    {
+      "code": "02638",
+      "name": "港燈-SS",
+      "category": "公用事業",
+      "position": "持有",
+      "buy_price": 4.85,
+      "current_price": 6.97,
+      "profit_pct": 43.711340206185575,
+      "profit": 0.0,
+      "status": "✅ 盈利",
+      "notes": ""
+    },
+    {
+      "code": "09618",
+      "name": "京東集團",
+      "category": "科技股",
+      "position": "持有",
+      "buy_price": 120.0,
+      "current_price": 105.9,
+      "profit_pct": -11.749999999999995,
+      "profit": -0.0,
+      "status": "❌ 虧損",
+      "notes": ""
+    },
+    {
+      "code": "00700",
+      "name": "騰訊控股",
+      "category": "科技股",
+      "position": "監控",
+      "buy_price": null,
+      "current_price": 522.0,
+      "profit_pct": null,
+      "profit": null,
+      "status": "👁️ 監控中",
+      "notes": ""
+    },
+    {
+      "code": "09988",
+      "name": "阿里巴巴",
+      "category": "科技股",
+      "position": "監控",
+      "buy_price": null,
+      "current_price": 148.7,
+      "profit_pct": null,
+      "profit": null,
+      "status": "👁️ 監控中",
+      "notes": ""
+    }
+  ],
+  "summary": {
+    "total_stocks": 7,
+    "stocks_with_profit": 4,
+    "stocks_with_loss": 1,
+    "total_investment": 223340.0,
+    "total_value": 238420.0,
+    "total_profit": 15080.0,
+    "total_return_pct": 6.75
+  }
+}

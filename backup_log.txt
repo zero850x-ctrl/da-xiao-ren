@@ -1,0 +1,1758 @@
+=== OpenClaw Backup to Google Drive ===
+Date: 20260302
+📦 Syncing: skills
+Transferred:   	          0 B / 251.009 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 71
+Transferred:            0 / 49, 0%
+Elapsed time:         0.4s
+Transferring:
+ *                 self-improving-agent/SKILL.md:  0% /4.694Ki, 0/s, -
+ *                  continuous-learning/SKILL.md:  0% /11.250Ki, 0/s, -
+ *                continuous-learning/_meta.json:  0% /138, 0/s, -
+ *                        pptx-creatord/SKILL.md:  0% /4.859Ki, 0/s, -Transferred:   	          0 B / 251.009 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 71
+Transferred:            0 / 49, 0%
+Elapsed time:         1.0s
+Transferring:
+ *                 self-improving-agent/SKILL.md:  0% /4.694Ki, 0/s, -
+ *                  continuous-learning/SKILL.md:  0% /11.250Ki, 0/s, -
+ *                continuous-learning/_meta.json:  0% /138, 0/s, -
+ *                        pptx-creatord/SKILL.md:  0% /4.859Ki, 0/s, -Transferred:   	          0 B / 251.009 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 71
+Transferred:            0 / 49, 0%
+Elapsed time:         1.5s
+Transferring:
+ *                 self-improving-agent/SKILL.md:  0% /4.694Ki, 0/s, -
+ *                  continuous-learning/SKILL.md:  0% /11.250Ki, 0/s, -
+ *                continuous-learning/_meta.json:  0% /138, 0/s, -
+ *                        pptx-creatord/SKILL.md:  0% /4.859Ki, 0/s, -Transferred:   	          0 B / 251.009 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 71
+Transferred:            0 / 49, 0%
+Elapsed time:         2.0s
+Transferring:
+ *                 self-improving-agent/SKILL.md:  0% /4.694Ki, 0/s, -
+ *                  continuous-learning/SKILL.md:  0% /11.250Ki, 0/s, -
+ *                continuous-learning/_meta.json:  0% /138, 0/s, -
+ *                        pptx-creatord/SKILL.md:  0% /4.859Ki, 0/s, -Transferred:   	          0 B / 251.009 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 71
+Transferred:            0 / 49, 0%
+Elapsed time:         2.5s
+Transferring:
+ *                 self-improving-agent/SKILL.md:  0% /4.694Ki, 0/s, -
+ *                  continuous-learning/SKILL.md:  0% /11.250Ki, 0/s, -
+ *                continuous-learning/_meta.json:  0% /138, 0/s, -
+ *                        pptx-creatord/SKILL.md:  0% /4.859Ki, 0/s, -Transferred:   	          0 B / 251.009 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 71
+Transferred:            0 / 49, 0%
+Elapsed time:         3.0s
+Transferring:
+ *                 self-improving-agent/SKILL.md:  0% /4.694Ki, 0/s, -
+ *                  continuous-learning/SKILL.md:  0% /11.250Ki, 0/s, -
+ *                continuous-learning/_meta.json:  0% /138, 0/s, -
+ *                        pptx-creatord/SKILL.md:  0% /4.859Ki, 0/s, -Transferred:   	    4.694 KiB / 251.009 KiB, 2%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 71
+Transferred:            0 / 49, 0%
+Elapsed time:         3.4s
+Transferring:
+ *                 self-improving-agent/SKILL.md:100% /4.694Ki, 0/s, -
+ *                  continuous-learning/SKILL.md:  0% /11.250Ki, 0/s, -
+ *                continuous-learning/_meta.json:  0% /138, 0/s, -
+ *                        pptx-creatord/SKILL.md:  0% /4.859Ki, 0/s, -Transferred:   	    4.694 KiB / 251.009 KiB, 2%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 71
+Transferred:            0 / 49, 0%
+Elapsed time:         4.0s
+Transferring:
+ *                 self-improving-agent/SKILL.md:100% /4.694Ki, 0/s, -
+ *                  continuous-learning/SKILL.md:  0% /11.250Ki, 0/s, -
+ *                continuous-learning/_meta.json:  0% /138, 0/s, -
+ *                        pptx-creatord/SKILL.md:  0% /4.859Ki, 0/s, -Transferred:   	    4.694 KiB / 251.009 KiB, 2%, 1.173 KiB/s, ETA 3m29s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            0 / 49, 0%
+Elapsed time:         4.5s
+Transferring:
+ *                 self-improving-agent/SKILL.md:100% /4.694Ki, 1.173Ki/s, 0s
+ *                  continuous-learning/SKILL.md:  0% /11.250Ki, 0/s, -
+ *                continuous-learning/_meta.json:  0% /138, 0/s, -
+ *                        pptx-creatord/SKILL.md:  0% /4.859Ki, 0/s, -Transferred:   	    4.694 KiB / 251.009 KiB, 2%, 961 B/s, ETA 4m22s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            1 / 49, 2%
+Elapsed time:         5.0s
+Transferring:
+ *                  continuous-learning/SKILL.md:  0% /11.250Ki, 0/s, -
+ *                continuous-learning/_meta.json:  0% /138, 0/s, -
+ *                        pptx-creatord/SKILL.md:  0% /4.859Ki, 0/s, -
+ *                      pptx-creatord/_meta.json:  0% /132, 0/s, -Transferred:   	    4.694 KiB / 251.009 KiB, 2%, 961 B/s, ETA 4m22s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            1 / 49, 2%
+Elapsed time:         5.5s
+Transferring:
+ *                  continuous-learning/SKILL.md:  0% /11.250Ki, 0/s, -
+ *                continuous-learning/_meta.json:  0% /138, 0/s, -
+ *                        pptx-creatord/SKILL.md:  0% /4.859Ki, 0/s, -
+ *                      pptx-creatord/_meta.json:  0% /132, 0/s, -Transferred:   	    4.694 KiB / 251.009 KiB, 2%, 961 B/s, ETA 4m22s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            1 / 49, 2%
+Elapsed time:         5.9s
+Transferring:
+ *                  continuous-learning/SKILL.md:  0% /11.250Ki, 0/s, -
+ *                continuous-learning/_meta.json:  0% /138, 0/s, -
+ *                        pptx-creatord/SKILL.md:  0% /4.859Ki, 0/s, -
+ *                      pptx-creatord/_meta.json:  0% /132, 0/s, -Transferred:   	    4.694 KiB / 251.009 KiB, 2%, 801 B/s, ETA 5m14s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            1 / 49, 2%
+Elapsed time:         6.5s
+Transferring:
+ *                  continuous-learning/SKILL.md:  0% /11.250Ki, 0/s, -
+ *                continuous-learning/_meta.json:  0% /138, 0/s, -
+ *                        pptx-creatord/SKILL.md:  0% /4.859Ki, 0/s, -
+ *                      pptx-creatord/_meta.json:  0% /132, 0/s, -Transferred:   	    4.694 KiB / 251.009 KiB, 2%, 686 B/s, ETA 6m7s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            1 / 49, 2%
+Elapsed time:         7.0s
+Transferring:
+ *                  continuous-learning/SKILL.md:  0% /11.250Ki, 0/s, -
+ *                continuous-learning/_meta.json:  0% /138, 0/s, -
+ *                        pptx-creatord/SKILL.md:  0% /4.859Ki, 0/s, -
+ *                      pptx-creatord/_meta.json:  0% /132, 0/s, -Transferred:   	    4.694 KiB / 251.009 KiB, 2%, 686 B/s, ETA 6m7s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            1 / 49, 2%
+Elapsed time:         7.5s
+Transferring:
+ *                  continuous-learning/SKILL.md:  0% /11.250Ki, 0/s, -
+ *                continuous-learning/_meta.json:  0% /138, 0/s, -
+ *                        pptx-creatord/SKILL.md:  0% /4.859Ki, 0/s, -
+ *                      pptx-creatord/_meta.json:  0% /132, 0/s, -Transferred:   	   16.079 KiB / 251.009 KiB, 6%, 2.010 KiB/s, ETA 1m56s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            1 / 49, 2%
+Elapsed time:         8.0s
+Transferring:
+ *                  continuous-learning/SKILL.md:100% /11.250Ki, 0/s, -
+ *                continuous-learning/_meta.json:100% /138, 0/s, -
+ *                        pptx-creatord/SKILL.md:  0% /4.859Ki, 0/s, -
+ *                      pptx-creatord/_meta.json:  0% /132, 0/s, -Transferred:   	   16.079 KiB / 251.009 KiB, 6%, 2.010 KiB/s, ETA 1m56s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            1 / 49, 2%
+Elapsed time:         8.5s
+Transferring:
+ *                  continuous-learning/SKILL.md:100% /11.250Ki, 1.406Ki/s, 0s
+ *                continuous-learning/_meta.json:100% /138, 17/s, 0s
+ *                        pptx-creatord/SKILL.md:  0% /4.859Ki, 0/s, -
+ *                      pptx-creatord/_meta.json:  0% /132, 0/s, -Transferred:   	   20.938 KiB / 251.009 KiB, 8%, 2.010 KiB/s, ETA 1m54s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            1 / 49, 2%
+Elapsed time:         9.0s
+Transferring:
+ *                  continuous-learning/SKILL.md:100% /11.250Ki, 1.406Ki/s, 0s
+ *                continuous-learning/_meta.json:100% /138, 17/s, 0s
+ *                        pptx-creatord/SKILL.md:100% /4.859Ki, 0/s, -
+ *                      pptx-creatord/_meta.json:  0% /132, 0/s, -Transferred:   	   21.067 KiB / 251.009 KiB, 8%, 2.326 KiB/s, ETA 1m38s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            1 / 49, 2%
+Elapsed time:         9.5s
+Transferring:
+ *                  continuous-learning/SKILL.md:100% /11.250Ki, 1.250Ki/s, 0s
+ *                continuous-learning/_meta.json:100% /138, 15/s, 0s
+ *                        pptx-creatord/SKILL.md:100% /4.859Ki, 552/s, 0s
+ *                      pptx-creatord/_meta.json:100% /132, 0/s, -Transferred:   	   21.067 KiB / 251.009 KiB, 8%, 2.326 KiB/s, ETA 1m38s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            3 / 49, 6%
+Elapsed time:         9.9s
+Transferring:
+ *                        pptx-creatord/SKILL.md:100% /4.859Ki, 552/s, 0s
+ *                      pptx-creatord/_meta.json:100% /132, 26/s, 0s
+ *                        ai-humanizer/README.md:  0% /15.816Ki, 0/s, -
+ *                         ai-humanizer/SKILL.md:  0% /7.768Ki, 0/s, -Transferred:   	   21.067 KiB / 251.009 KiB, 8%, 2.106 KiB/s, ETA 1m49s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            3 / 49, 6%
+Elapsed time:        10.5s
+Transferring:
+ *                        pptx-creatord/SKILL.md:100% /4.859Ki, 497/s, 0s
+ *                      pptx-creatord/_meta.json:100% /132, 26/s, 0s
+ *                        ai-humanizer/README.md:  0% /15.816Ki, 0/s, -
+ *                         ai-humanizer/SKILL.md:  0% /7.768Ki, 0/s, -Transferred:   	   21.067 KiB / 251.009 KiB, 8%, 1.915 KiB/s, ETA 2m
+Checks:                 0 / 0, -, Listed 71
+Transferred:            5 / 49, 10%
+Elapsed time:        11.0s
+Transferring:
+ *                        ai-humanizer/README.md:  0% /15.816Ki, 0/s, -
+ *                         ai-humanizer/SKILL.md:  0% /7.768Ki, 0/s, -
+ *                       ai-humanizer/_meta.json:  0% /131, 0/s, -
+ *      continuous-learning/.clawhub/origin.json:  0% /151, 0/s, -Transferred:   	   36.884 KiB / 251.009 KiB, 15%, 1.915 KiB/s, ETA 1m51s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            5 / 49, 10%
+Elapsed time:        11.4s
+Transferring:
+ *                        ai-humanizer/README.md:100% /15.816Ki, 0/s, -
+ *                         ai-humanizer/SKILL.md:  0% /7.768Ki, 0/s, -
+ *                       ai-humanizer/_meta.json:  0% /131, 0/s, -
+ *      continuous-learning/.clawhub/origin.json:  0% /151, 0/s, -Transferred:   	   36.884 KiB / 251.009 KiB, 15%, 1.915 KiB/s, ETA 1m51s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            5 / 49, 10%
+Elapsed time:        12.0s
+Transferring:
+ *                        ai-humanizer/README.md:100% /15.816Ki, 7.908Ki/s, 0s
+ *                         ai-humanizer/SKILL.md:  0% /7.768Ki, 0/s, -
+ *                       ai-humanizer/_meta.json:  0% /131, 0/s, -
+ *      continuous-learning/.clawhub/origin.json:  0% /151, 0/s, -Transferred:   	   44.927 KiB / 251.009 KiB, 18%, 3.073 KiB/s, ETA 1m7s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            5 / 49, 10%
+Elapsed time:        12.5s
+Transferring:
+ *                        ai-humanizer/README.md:100% /15.816Ki, 7.908Ki/s, 0s
+ *                         ai-humanizer/SKILL.md:100% /7.768Ki, 0/s, -
+ *                       ai-humanizer/_meta.json:100% /131, 0/s, -
+ *      continuous-learning/.clawhub/origin.json:100% /151, 0/s, -Transferred:   	   44.927 KiB / 251.009 KiB, 18%, 3.455 KiB/s, ETA 59s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            5 / 49, 10%
+Elapsed time:        13.0s
+Transferring:
+ *                        ai-humanizer/README.md:100% /15.816Ki, 5.271Ki/s, 0s
+ *                         ai-humanizer/SKILL.md:100% /7.768Ki, 2.589Ki/s, 0s
+ *                       ai-humanizer/_meta.json:100% /131, 65/s, 0s
+ *      continuous-learning/.clawhub/origin.json:100% /151, 75/s, 0sTransferred:   	   45.473 KiB / 251.009 KiB, 18%, 3.455 KiB/s, ETA 59s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            6 / 49, 12%
+Elapsed time:        13.5s
+Transferring:
+ *                         ai-humanizer/SKILL.md:100% /7.768Ki, 2.589Ki/s, 0s
+ *                       ai-humanizer/_meta.json:100% /131, 65/s, 0s
+ *      continuous-learning/.clawhub/origin.json:100% /151, 75/s, 0s
+ *                 ai-humanizer/eslint.config.js:100% /559, 0/s, -Transferred:   	   45.473 KiB / 251.009 KiB, 18%, 3.455 KiB/s, ETA 59s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            9 / 49, 18%
+Elapsed time:        14.0s
+Transferring:
+ *                 ai-humanizer/eslint.config.js:100% /559, 0/s, -
+ *                     ai-humanizer/package.json:  0% /1.341Ki, 0/s, -
+ *                 ai-humanizer/vitest.config.js:  0% /152, 0/s, -
+ *                thought-to-excalidraw/SKILL.md:  0% /2.747Ki, 0/s, -Transferred:   	   45.473 KiB / 251.009 KiB, 18%, 3.247 KiB/s, ETA 1m3s
+Checks:                 0 / 0, -, Listed 71
+Transferred:            9 / 49, 18%
+Elapsed time:        14.4s
+Transferring:
+ *                 ai-humanizer/eslint.config.js:100% /559, 558/s, 0s
+ *                     ai-humanizer/package.json:  0% /1.341Ki, 0/s, -
+ *                 ai-humanizer/vitest.config.js:  0% /152, 0/s, -
+ *                thought-to-excalidraw/SKILL.md:  0% /2.747Ki, 0/s, -Transferred:   	   45.473 KiB / 251.009 KiB, 18%, 3.247 KiB/s, ETA 1m3s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           10 / 49, 20%
+Elapsed time:        15.0s
+Transferring:
+ *                     ai-humanizer/package.json:  0% /1.341Ki, 0/s, -
+ *                 ai-humanizer/vitest.config.js:  0% /152, 0/s, -
+ *                thought-to-excalidraw/SKILL.md:  0% /2.747Ki, 0/s, -
+ *              thought-to-excalidraw/_meta.json:  0% /140, 0/s, -Transferred:   	   49.846 KiB / 251.009 KiB, 20%, 3.031 KiB/s, ETA 1m6s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           10 / 49, 20%
+Elapsed time:        15.5s
+Transferring:
+ *                     ai-humanizer/package.json:100% /1.341Ki, 0/s, -
+ *                 ai-humanizer/vitest.config.js:100% /152, 0/s, -
+ *                thought-to-excalidraw/SKILL.md:100% /2.747Ki, 0/s, -
+ *              thought-to-excalidraw/_meta.json:100% /140, 0/s, -Transferred:   	   49.846 KiB / 251.009 KiB, 20%, 3.031 KiB/s, ETA 1m6s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           10 / 49, 20%
+Elapsed time:        16.0s
+Transferring:
+ *                     ai-humanizer/package.json:100% /1.341Ki, 686/s, 0s
+ *                 ai-humanizer/vitest.config.js:100% /152, 75/s, 0s
+ *                thought-to-excalidraw/SKILL.md:100% /2.747Ki, 1.373Ki/s, 0s
+ *              thought-to-excalidraw/_meta.json:100% /140, 139/s, 0sTransferred:   	   49.846 KiB / 251.009 KiB, 20%, 3.115 KiB/s, ETA 1m4s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           11 / 49, 22%
+Elapsed time:        16.5s
+Transferring:
+ *                     ai-humanizer/package.json:100% /1.341Ki, 686/s, 0s
+ *                 ai-humanizer/vitest.config.js:100% /152, 75/s, 0s
+ *              thought-to-excalidraw/_meta.json:100% /140, 139/s, 0s
+ *            pptx-creatord/.clawhub/origin.json:  0% /145, 0/s, -Transferred:   	   49.846 KiB / 251.009 KiB, 20%, 3.115 KiB/s, ETA 1m4s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           12 / 49, 24%
+Elapsed time:        17.0s
+Transferring:
+ *                     ai-humanizer/package.json:100% /1.341Ki, 457/s, 0s
+ *              thought-to-excalidraw/_meta.json:100% /140, 69/s, 0s
+ *            pptx-creatord/.clawhub/origin.json:  0% /145, 0/s, -
+ *               ai-humanizer/scripts/analyze.sh:  0% /301, 0/s, -Transferred:   	   49.846 KiB / 251.009 KiB, 20%, 2.920 KiB/s, ETA 1m8s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           13 / 49, 27%
+Elapsed time:        17.5s
+Transferring:
+ *                     ai-humanizer/package.json:100% /1.341Ki, 457/s, 0s
+ *            pptx-creatord/.clawhub/origin.json:  0% /145, 0/s, -
+ *               ai-humanizer/scripts/analyze.sh:  0% /301, 0/s, -
+ *              ai-humanizer/scripts/humanize.sh:  0% /315, 0/s, -Transferred:   	   49.846 KiB / 251.009 KiB, 20%, 2.737 KiB/s, ETA 1m13s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           13 / 49, 27%
+Elapsed time:        18.0s
+Transferring:
+ *                     ai-humanizer/package.json:100% /1.341Ki, 343/s, 0s
+ *            pptx-creatord/.clawhub/origin.json:  0% /145, 0/s, -
+ *               ai-humanizer/scripts/analyze.sh:  0% /301, 0/s, -
+ *              ai-humanizer/scripts/humanize.sh:  0% /315, 0/s, -Transferred:   	   49.987 KiB / 251.009 KiB, 20%, 2.737 KiB/s, ETA 1m13s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           13 / 49, 27%
+Elapsed time:        18.5s
+Transferring:
+ *                     ai-humanizer/package.json:100% /1.341Ki, 343/s, 0s
+ *            pptx-creatord/.clawhub/origin.json:100% /145, 72/s, 0s
+ *               ai-humanizer/scripts/analyze.sh:  0% /301, 0/s, -
+ *              ai-humanizer/scripts/humanize.sh:  0% /315, 0/s, -Transferred:   	   49.987 KiB / 251.009 KiB, 20%, 2.737 KiB/s, ETA 1m13s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           14 / 49, 29%
+Elapsed time:        19.0s
+Transferring:
+ *            pptx-creatord/.clawhub/origin.json:100% /145, 72/s, 0s
+ *               ai-humanizer/scripts/analyze.sh:  0% /301, 0/s, -
+ *              ai-humanizer/scripts/humanize.sh:  0% /315, 0/s, -
+ *      ai-humanizer/references/ai-vocabulary.md:  0% /5.462Ki, 0/s, -Transferred:   	   50.281 KiB / 251.009 KiB, 20%, 2.575 KiB/s, ETA 1m17s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           14 / 49, 29%
+Elapsed time:        19.5s
+Transferring:
+ *            pptx-creatord/.clawhub/origin.json:100% /145, 48/s, 0s
+ *               ai-humanizer/scripts/analyze.sh:100% /301, 0/s, -
+ *              ai-humanizer/scripts/humanize.sh:  0% /315, 0/s, -
+ *      ai-humanizer/references/ai-vocabulary.md:  0% /5.462Ki, 0/s, -Transferred:   	   50.281 KiB / 251.009 KiB, 20%, 2.433 KiB/s, ETA 1m22s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           15 / 49, 31%
+Elapsed time:        20.0s
+Transferring:
+ *               ai-humanizer/scripts/analyze.sh:100% /301, 100/s, 0s
+ *              ai-humanizer/scripts/humanize.sh:  0% /315, 0/s, -
+ *      ai-humanizer/references/ai-vocabulary.md:  0% /5.462Ki, 0/s, -
+ *           ai-humanizer/references/patterns.md:  0% /10.027Ki, 0/s, -Transferred:   	   50.281 KiB / 251.009 KiB, 20%, 2.433 KiB/s, ETA 1m22s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           15 / 49, 31%
+Elapsed time:        20.5s
+Transferring:
+ *               ai-humanizer/scripts/analyze.sh:100% /301, 100/s, 0s
+ *              ai-humanizer/scripts/humanize.sh:  0% /315, 0/s, -
+ *      ai-humanizer/references/ai-vocabulary.md:  0% /5.462Ki, 0/s, -
+ *           ai-humanizer/references/patterns.md:  0% /10.027Ki, 0/s, -Transferred:   	   56.051 KiB / 251.009 KiB, 22%, 2.642 KiB/s, ETA 1m13s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           16 / 49, 33%
+Elapsed time:        21.0s
+Transferring:
+ *              ai-humanizer/scripts/humanize.sh:100% /315, 0/s, -
+ *      ai-humanizer/references/ai-vocabulary.md:100% /5.462Ki, 0/s, -
+ *           ai-humanizer/references/patterns.md:  0% /10.027Ki, 0/s, -
+ *        ai-humanizer/references/style-guide.md:  0% /3.919Ki, 0/s, -Transferred:   	   69.997 KiB / 251.009 KiB, 28%, 2.642 KiB/s, ETA 1m8s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           16 / 49, 33%
+Elapsed time:        21.5s
+Transferring:
+ *              ai-humanizer/scripts/humanize.sh:100% /315, 78/s, 0s
+ *      ai-humanizer/references/ai-vocabulary.md:100% /5.462Ki, 0/s, -
+ *           ai-humanizer/references/patterns.md:100% /10.027Ki, 0/s, -
+ *        ai-humanizer/references/style-guide.md:100% /3.919Ki, 0/s, -Transferred:   	   69.997 KiB / 251.009 KiB, 28%, 3.348 KiB/s, ETA 54s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           16 / 49, 33%
+Elapsed time:        22.0s
+Transferring:
+ *              ai-humanizer/scripts/humanize.sh:100% /315, 78/s, 0s
+ *      ai-humanizer/references/ai-vocabulary.md:100% /5.462Ki, 1.820Ki/s, 0s
+ *           ai-humanizer/references/patterns.md:100% /10.027Ki, 5.014Ki/s, 0s
+ *        ai-humanizer/references/style-guide.md:100% /3.919Ki, 3.918Ki/s, 0sTransferred:   	   69.997 KiB / 251.009 KiB, 28%, 3.348 KiB/s, ETA 54s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           19 / 49, 39%
+Elapsed time:        22.5s
+Transferring:
+ *           ai-humanizer/references/patterns.md:100% /10.027Ki, 5.014Ki/s, 0s
+ *                  ai-humanizer/src/analyzer.js:  0% /14.801Ki, 0/s, -
+ *                       ai-humanizer/src/cli.js:  0% /19.610Ki, 0/s, -
+ *                 ai-humanizer/src/humanizer.js:  0% /14.248Ki, 0/s, -Transferred:   	   69.997 KiB / 251.009 KiB, 28%, 3.139 KiB/s, ETA 57s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           19 / 49, 39%
+Elapsed time:        23.0s
+Transferring:
+ *           ai-humanizer/references/patterns.md:100% /10.027Ki, 3.342Ki/s, 0s
+ *                  ai-humanizer/src/analyzer.js:  0% /14.801Ki, 0/s, -
+ *                       ai-humanizer/src/cli.js:  0% /19.610Ki, 0/s, -
+ *                 ai-humanizer/src/humanizer.js:  0% /14.248Ki, 0/s, -Transferred:   	  146.763 KiB / 251.009 KiB, 58%, 3.139 KiB/s, ETA 33s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           20 / 49, 41%
+Elapsed time:        23.5s
+Transferring:
+ *                  ai-humanizer/src/analyzer.js:100% /14.801Ki, 0/s, -
+ *                       ai-humanizer/src/cli.js:100% /19.610Ki, 0/s, -
+ *                 ai-humanizer/src/humanizer.js:100% /14.248Ki, 14.247Ki/s, 0s
+ *                  ai-humanizer/src/patterns.js:100% /28.106Ki, 0/s, -Transferred:   	  146.763 KiB / 251.009 KiB, 58%, 7.740 KiB/s, ETA 13s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           20 / 49, 41%
+Elapsed time:        24.0s
+Transferring:
+ *                  ai-humanizer/src/analyzer.js:100% /14.801Ki, 0/s, -
+ *                       ai-humanizer/src/cli.js:100% /19.610Ki, 0/s, -
+ *                 ai-humanizer/src/humanizer.js:100% /14.248Ki, 14.247Ki/s, 0s
+ *                  ai-humanizer/src/patterns.js:100% /28.106Ki, 0/s, -Transferred:   	  146.763 KiB / 251.009 KiB, 58%, 7.740 KiB/s, ETA 13s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           20 / 49, 41%
+Elapsed time:        24.5s
+Transferring:
+ *                  ai-humanizer/src/analyzer.js:100% /14.801Ki, 7.400Ki/s, 0s
+ *                       ai-humanizer/src/cli.js:100% /19.610Ki, 9.805Ki/s, 0s
+ *                 ai-humanizer/src/humanizer.js:100% /14.248Ki, 7.123Ki/s, 0s
+ *                  ai-humanizer/src/patterns.js:100% /28.106Ki, 28.104Ki/s, 0sTransferred:   	  156.234 KiB / 251.009 KiB, 62%, 7.849 KiB/s, ETA 12s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           22 / 49, 45%
+Elapsed time:        25.0s
+Transferring:
+ *                 ai-humanizer/src/humanizer.js:100% /14.248Ki, 7.123Ki/s, 0s
+ *                  ai-humanizer/src/patterns.js:100% /28.106Ki, 28.104Ki/s, 0s
+ *                     ai-humanizer/src/stats.js:100% /9.472Ki, 0/s, -
+ *                ai-humanizer/src/vocabulary.js:  0% /15.055Ki, 0/s, -Transferred:   	  156.234 KiB / 251.009 KiB, 62%, 7.849 KiB/s, ETA 12s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           23 / 49, 47%
+Elapsed time:        25.5s
+Transferring:
+ *                 ai-humanizer/src/humanizer.js:100% /14.248Ki, 4.749Ki/s, 0s
+ *                     ai-humanizer/src/stats.js:100% /9.472Ki, 0/s, -
+ *                ai-humanizer/src/vocabulary.js:  0% /15.055Ki, 0/s, -
+ *    thought-to-excalidraw/.clawhub/origin.json:  0% /153, 0/s, -Transferred:   	  156.234 KiB / 251.009 KiB, 62%, 7.358 KiB/s, ETA 12s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           23 / 49, 47%
+Elapsed time:        26.0s
+Transferring:
+ *                 ai-humanizer/src/humanizer.js:100% /14.248Ki, 4.749Ki/s, 0s
+ *                     ai-humanizer/src/stats.js:100% /9.472Ki, 9.471Ki/s, 0s
+ *                ai-humanizer/src/vocabulary.js:  0% /15.055Ki, 0/s, -
+ *    thought-to-excalidraw/.clawhub/origin.json:  0% /153, 0/s, -Transferred:   	  171.438 KiB / 251.009 KiB, 68%, 7.358 KiB/s, ETA 10s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           25 / 49, 51%
+Elapsed time:        26.5s
+Transferring:
+ *                ai-humanizer/src/vocabulary.js:100% /15.055Ki, 0/s, -
+ *    thought-to-excalidraw/.clawhub/origin.json:100% /153, 0/s, -
+ * thought-to-excalidraw/…s/excalidraw-schema.md:  0% /2.518Ki, 0/s, -
+ *           ai-humanizer/tests/analyzer.test.js:  0% /13.227Ki, 0/s, -Transferred:   	  171.438 KiB / 251.009 KiB, 68%, 7.358 KiB/s, ETA 10s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           25 / 49, 51%
+Elapsed time:        26.9s
+Transferring:
+ *                ai-humanizer/src/vocabulary.js:100% /15.055Ki, 7.527Ki/s, 0s
+ *    thought-to-excalidraw/.clawhub/origin.json:100% /153, 0/s, -
+ * thought-to-excalidraw/…s/excalidraw-schema.md:  0% /2.518Ki, 0/s, -
+ *           ai-humanizer/tests/analyzer.test.js:  0% /13.227Ki, 0/s, -Transferred:   	  171.438 KiB / 251.009 KiB, 68%, 7.849 KiB/s, ETA 10s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           27 / 49, 55%
+Elapsed time:        27.5s
+Transferring:
+ * thought-to-excalidraw/…s/excalidraw-schema.md:  0% /2.518Ki, 0/s, -
+ *           ai-humanizer/tests/analyzer.test.js:  0% /13.227Ki, 0/s, -
+ *        ai-humanizer/tests/calibration.test.js:  0% /7.240Ki, 0/s, -
+ *         ai-humanizer/tests/edge-cases.test.js:  0% /7.140Ki, 0/s, -Transferred:   	  171.438 KiB / 251.009 KiB, 68%, 7.357 KiB/s, ETA 10s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           27 / 49, 55%
+Elapsed time:        28.0s
+Transferring:
+ * thought-to-excalidraw/…s/excalidraw-schema.md:  0% /2.518Ki, 0/s, -
+ *           ai-humanizer/tests/analyzer.test.js:  0% /13.227Ki, 0/s, -
+ *        ai-humanizer/tests/calibration.test.js:  0% /7.240Ki, 0/s, -
+ *         ai-humanizer/tests/edge-cases.test.js:  0% /7.140Ki, 0/s, -Transferred:   	  173.956 KiB / 251.009 KiB, 69%, 7.357 KiB/s, ETA 10s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           27 / 49, 55%
+Elapsed time:        28.5s
+Transferring:
+ * thought-to-excalidraw/…s/excalidraw-schema.md:100% /2.518Ki, 1.258Ki/s, 0s
+ *           ai-humanizer/tests/analyzer.test.js:  0% /13.227Ki, 0/s, -
+ *        ai-humanizer/tests/calibration.test.js:  0% /7.240Ki, 0/s, -
+ *         ai-humanizer/tests/edge-cases.test.js:  0% /7.140Ki, 0/s, -Transferred:   	  173.956 KiB / 251.009 KiB, 69%, 7.056 KiB/s, ETA 10s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           27 / 49, 55%
+Elapsed time:        29.0s
+Transferring:
+ * thought-to-excalidraw/…s/excalidraw-schema.md:100% /2.518Ki, 1.258Ki/s, 0s
+ *           ai-humanizer/tests/analyzer.test.js:  0% /13.227Ki, 0/s, -
+ *        ai-humanizer/tests/calibration.test.js:  0% /7.240Ki, 0/s, -
+ *         ai-humanizer/tests/edge-cases.test.js:  0% /7.140Ki, 0/s, -Transferred:   	  173.956 KiB / 251.009 KiB, 69%, 7.056 KiB/s, ETA 10s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           27 / 49, 55%
+Elapsed time:        29.5s
+Transferring:
+ * thought-to-excalidraw/…s/excalidraw-schema.md:100% /2.518Ki, 859/s, 0s
+ *           ai-humanizer/tests/analyzer.test.js:  0% /13.227Ki, 0/s, -
+ *        ai-humanizer/tests/calibration.test.js:  0% /7.240Ki, 0/s, -
+ *         ai-humanizer/tests/edge-cases.test.js:  0% /7.140Ki, 0/s, -Transferred:   	  201.562 KiB / 251.009 KiB, 80%, 8.340 KiB/s, ETA 5s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           27 / 49, 55%
+Elapsed time:        30.0s
+Transferring:
+ * thought-to-excalidraw/…s/excalidraw-schema.md:100% /2.518Ki, 859/s, 0s
+ *           ai-humanizer/tests/analyzer.test.js:100% /13.227Ki, 0/s, -
+ *        ai-humanizer/tests/calibration.test.js:100% /7.240Ki, 0/s, -
+ *         ai-humanizer/tests/edge-cases.test.js:100% /7.140Ki, 0/s, -Transferred:   	  201.562 KiB / 251.009 KiB, 80%, 8.340 KiB/s, ETA 5s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           28 / 49, 57%
+Elapsed time:        30.5s
+Transferring:
+ *           ai-humanizer/tests/analyzer.test.js:100% /13.227Ki, 3.306Ki/s, 0s
+ *        ai-humanizer/tests/calibration.test.js:100% /7.240Ki, 2.413Ki/s, 0s
+ *         ai-humanizer/tests/edge-cases.test.js:100% /7.140Ki, 2.380Ki/s, 0s
+ *             ai-humanizer/.clawhub/origin.json:  0% /144, 0/s, -Transferred:   	  201.562 KiB / 251.009 KiB, 80%, 7.818 KiB/s, ETA 6s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           29 / 49, 59%
+Elapsed time:        31.0s
+Transferring:
+ *           ai-humanizer/tests/analyzer.test.js:100% /13.227Ki, 3.306Ki/s, 0s
+ *        ai-humanizer/tests/calibration.test.js:100% /7.240Ki, 2.413Ki/s, 0s
+ *             ai-humanizer/.clawhub/origin.json:  0% /144, 0/s, -
+ *                         virtually-us/SKILL.md:  0% /1018, 0/s, -Transferred:   	  201.703 KiB / 251.009 KiB, 80%, 7.818 KiB/s, ETA 6s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           31 / 49, 63%
+Elapsed time:        31.5s
+Transferring:
+ *             ai-humanizer/.clawhub/origin.json:100% /144, 0/s, -
+ *                         virtually-us/SKILL.md:  0% /1018, 0/s, -
+ *          ai-humanizer/tests/humanizer.test.js:  0% /6.378Ki, 0/s, -
+ *        ai-humanizer/tests/performance.test.js:  0% /3.173Ki, 0/s, -Transferred:   	  201.703 KiB / 251.009 KiB, 80%, 7.818 KiB/s, ETA 6s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           31 / 49, 63%
+Elapsed time:        32.0s
+Transferring:
+ *             ai-humanizer/.clawhub/origin.json:100% /144, 0/s, -
+ *                         virtually-us/SKILL.md:  0% /1018, 0/s, -
+ *          ai-humanizer/tests/humanizer.test.js:  0% /6.378Ki, 0/s, -
+ *        ai-humanizer/tests/performance.test.js:  0% /3.173Ki, 0/s, -Transferred:   	  202.697 KiB / 251.009 KiB, 81%, 7.339 KiB/s, ETA 6s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           31 / 49, 63%
+Elapsed time:        32.5s
+Transferring:
+ *             ai-humanizer/.clawhub/origin.json:100% /144, 72/s, 0s
+ *                         virtually-us/SKILL.md:100% /1018, 0/s, -
+ *          ai-humanizer/tests/humanizer.test.js:  0% /6.378Ki, 0/s, -
+ *        ai-humanizer/tests/performance.test.js:  0% /3.173Ki, 0/s, -Transferred:   	  212.248 KiB / 251.009 KiB, 85%, 7.339 KiB/s, ETA 5s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           31 / 49, 63%
+Elapsed time:        32.9s
+Transferring:
+ *             ai-humanizer/.clawhub/origin.json:100% /144, 72/s, 0s
+ *                         virtually-us/SKILL.md:100% /1018, 508/s, 0s
+ *          ai-humanizer/tests/humanizer.test.js:100% /6.378Ki, 0/s, -
+ *        ai-humanizer/tests/performance.test.js:100% /3.173Ki, 0/s, -Transferred:   	  212.248 KiB / 251.009 KiB, 85%, 7.539 KiB/s, ETA 5s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           32 / 49, 65%
+Elapsed time:        33.5s
+Transferring:
+ *                         virtually-us/SKILL.md:100% /1018, 508/s, 0s
+ *          ai-humanizer/tests/humanizer.test.js:100% /6.378Ki, 3.188Ki/s, 0s
+ *        ai-humanizer/tests/performance.test.js:100% /3.173Ki, 1.586Ki/s, 0s
+ *                       virtually-us/_meta.json:  0% /131, 0/s, -Transferred:   	  212.376 KiB / 251.009 KiB, 85%, 7.075 KiB/s, ETA 5s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           33 / 49, 67%
+Elapsed time:        34.0s
+Transferring:
+ *          ai-humanizer/tests/humanizer.test.js:100% /6.378Ki, 3.188Ki/s, 0s
+ *        ai-humanizer/tests/performance.test.js:100% /3.173Ki, 1.586Ki/s, 0s
+ *                       virtually-us/_meta.json:100% /131, 0/s, -
+ *         ai-humanizer/tests/statistics.test.js:  0% /7.903Ki, 0/s, -Transferred:   	  220.279 KiB / 251.009 KiB, 88%, 7.075 KiB/s, ETA 4s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           35 / 49, 71%
+Elapsed time:        34.4s
+Transferring:
+ *                       virtually-us/_meta.json:100% /131, 130/s, 0s
+ *         ai-humanizer/tests/statistics.test.js:100% /7.903Ki, 0/s, -
+ *                 ai-humanizer/assets/banner.md:  0% /331, 0/s, -
+ *             virtually-us/.clawhub/origin.json:  0% /144, 0/s, -Transferred:   	  220.279 KiB / 251.009 KiB, 88%, 7.127 KiB/s, ETA 4s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           35 / 49, 71%
+Elapsed time:        35.0s
+Transferring:
+ *                       virtually-us/_meta.json:100% /131, 130/s, 0s
+ *         ai-humanizer/tests/statistics.test.js:100% /7.903Ki, 7.902Ki/s, 0s
+ *                 ai-humanizer/assets/banner.md:  0% /331, 0/s, -
+ *             virtually-us/.clawhub/origin.json:  0% /144, 0/s, -Transferred:   	  220.603 KiB / 251.009 KiB, 88%, 7.127 KiB/s, ETA 4s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           35 / 49, 71%
+Elapsed time:        35.5s
+Transferring:
+ *                       virtually-us/_meta.json:100% /131, 65/s, 0s
+ *         ai-humanizer/tests/statistics.test.js:100% /7.903Ki, 7.902Ki/s, 0s
+ *                 ai-humanizer/assets/banner.md:100% /331, 0/s, -
+ *             virtually-us/.clawhub/origin.json:  0% /144, 0/s, -Transferred:   	  220.603 KiB / 251.009 KiB, 88%, 6.702 KiB/s, ETA 4s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           36 / 49, 73%
+Elapsed time:        36.0s
+Transferring:
+ *                       virtually-us/_meta.json:100% /131, 65/s, 0s
+ *                 ai-humanizer/assets/banner.md:100% /331, 0/s, -
+ *             virtually-us/.clawhub/origin.json:  0% /144, 0/s, -
+ * thought-to-excalidraw/…ipts/layout_diagram.py:  0% /10.427Ki, 0/s, -Transferred:   	  220.603 KiB / 251.009 KiB, 88%, 6.702 KiB/s, ETA 4s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           37 / 49, 76%
+Elapsed time:        36.5s
+Transferring:
+ *                 ai-humanizer/assets/banner.md:100% /331, 165/s, 0s
+ *             virtually-us/.clawhub/origin.json:  0% /144, 0/s, -
+ * thought-to-excalidraw/…ipts/layout_diagram.py:  0% /10.427Ki, 0/s, -
+ *   ai-humanizer/tests/fixtures/ai-sample-1.txt:  0% /2.171Ki, 0/s, -Transferred:   	  220.743 KiB / 251.009 KiB, 88%, 6.292 KiB/s, ETA 4s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           38 / 49, 78%
+Elapsed time:        37.0s
+Transferring:
+ *             virtually-us/.clawhub/origin.json:100% /144, 0/s, -
+ * thought-to-excalidraw/…ipts/layout_diagram.py:  0% /10.427Ki, 0/s, -
+ *   ai-humanizer/tests/fixtures/ai-sample-1.txt:  0% /2.171Ki, 0/s, -
+ *   ai-humanizer/tests/fixtures/ai-sample-2.txt:  0% /1.134Ki, 0/s, -Transferred:   	  220.743 KiB / 251.009 KiB, 88%, 6.292 KiB/s, ETA 4s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           38 / 49, 78%
+Elapsed time:        37.5s
+Transferring:
+ *             virtually-us/.clawhub/origin.json:100% /144, 48/s, 0s
+ * thought-to-excalidraw/…ipts/layout_diagram.py:  0% /10.427Ki, 0/s, -
+ *   ai-humanizer/tests/fixtures/ai-sample-1.txt:  0% /2.171Ki, 0/s, -
+ *   ai-humanizer/tests/fixtures/ai-sample-2.txt:  0% /1.134Ki, 0/s, -Transferred:   	  220.743 KiB / 251.009 KiB, 88%, 5.898 KiB/s, ETA 5s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           38 / 49, 78%
+Elapsed time:        38.0s
+Transferring:
+ *             virtually-us/.clawhub/origin.json:100% /144, 48/s, 0s
+ * thought-to-excalidraw/…ipts/layout_diagram.py:  0% /10.427Ki, 0/s, -
+ *   ai-humanizer/tests/fixtures/ai-sample-1.txt:  0% /2.171Ki, 0/s, -
+ *   ai-humanizer/tests/fixtures/ai-sample-2.txt:  0% /1.134Ki, 0/s, -Transferred:   	  220.743 KiB / 251.009 KiB, 88%, 5.898 KiB/s, ETA 5s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           38 / 49, 78%
+Elapsed time:        38.5s
+Transferring:
+ *             virtually-us/.clawhub/origin.json:100% /144, 36/s, 0s
+ * thought-to-excalidraw/…ipts/layout_diagram.py:  0% /10.427Ki, 0/s, -
+ *   ai-humanizer/tests/fixtures/ai-sample-1.txt:  0% /2.171Ki, 0/s, -
+ *   ai-humanizer/tests/fixtures/ai-sample-2.txt:  0% /1.134Ki, 0/s, -Transferred:   	  231.170 KiB / 251.009 KiB, 92%, 6.182 KiB/s, ETA 3s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           39 / 49, 80%
+Elapsed time:        39.0s
+Transferring:
+ * thought-to-excalidraw/…ipts/layout_diagram.py:100% /10.427Ki, 3.476Ki/s, 0s
+ *   ai-humanizer/tests/fixtures/ai-sample-1.txt:  0% /2.171Ki, 0/s, -
+ *   ai-humanizer/tests/fixtures/ai-sample-2.txt:  0% /1.134Ki, 0/s, -
+ * ai-humanizer/tests/fix…res/human-sample-1.txt:  0% /1.066Ki, 0/s, -Transferred:   	  234.475 KiB / 251.009 KiB, 93%, 6.182 KiB/s, ETA 2s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           39 / 49, 80%
+Elapsed time:        39.5s
+Transferring:
+ * thought-to-excalidraw/…ipts/layout_diagram.py:100% /10.427Ki, 3.476Ki/s, 0s
+ *   ai-humanizer/tests/fixtures/ai-sample-1.txt:100% /2.171Ki, 0/s, -
+ *   ai-humanizer/tests/fixtures/ai-sample-2.txt:100% /1.134Ki, 0/s, -
+ * ai-humanizer/tests/fix…res/human-sample-1.txt:  0% /1.066Ki, 0/s, -Transferred:   	  235.541 KiB / 251.009 KiB, 94%, 6.068 KiB/s, ETA 2s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           39 / 49, 80%
+Elapsed time:        40.0s
+Transferring:
+ * thought-to-excalidraw/…ipts/layout_diagram.py:100% /10.427Ki, 2.606Ki/s, 0s
+ *   ai-humanizer/tests/fixtures/ai-sample-1.txt:100% /2.171Ki, 0/s, -
+ *   ai-humanizer/tests/fixtures/ai-sample-2.txt:100% /1.134Ki, 387/s, 0s
+ * ai-humanizer/tests/fix…res/human-sample-1.txt:100% /1.066Ki, 1.065Ki/s, 0sTransferred:   	  235.541 KiB / 251.009 KiB, 94%, 6.068 KiB/s, ETA 2s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           40 / 49, 82%
+Elapsed time:        40.5s
+Transferring:
+ *   ai-humanizer/tests/fixtures/ai-sample-1.txt:100% /2.171Ki, 555/s, 0s
+ *   ai-humanizer/tests/fixtures/ai-sample-2.txt:100% /1.134Ki, 387/s, 0s
+ * ai-humanizer/tests/fix…res/human-sample-1.txt:100% /1.066Ki, 1.065Ki/s, 0s
+ *             ai-humanizer/docs/CONTRIBUTING.md:  0% /2.023Ki, 0/s, -Transferred:   	  235.541 KiB / 251.009 KiB, 94%, 5.689 KiB/s, ETA 2s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           41 / 49, 84%
+Elapsed time:        41.0s
+Transferring:
+ *   ai-humanizer/tests/fixtures/ai-sample-1.txt:100% /2.171Ki, 555/s, 0s
+ * ai-humanizer/tests/fix…res/human-sample-1.txt:100% /1.066Ki, 545/s, 0s
+ *             ai-humanizer/docs/CONTRIBUTING.md:  0% /2.023Ki, 0/s, -
+ *                 ai-humanizer/docs/EXAMPLES.md:  0% /5.321Ki, 0/s, -Transferred:   	  239.981 KiB / 251.009 KiB, 96%, 5.689 KiB/s, ETA 1s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           42 / 49, 86%
+Elapsed time:        41.5s
+Transferring:
+ *   ai-humanizer/tests/fixtures/ai-sample-1.txt:100% /2.171Ki, 444/s, 0s
+ *             ai-humanizer/docs/CONTRIBUTING.md:100% /2.023Ki, 0/s, -
+ *                 ai-humanizer/docs/EXAMPLES.md:  0% /5.321Ki, 0/s, -
+ *                 ai-humanizer/docs/PATTERNS.md:100% /2.417Ki, 0/s, -Transferred:   	  245.303 KiB / 251.009 KiB, 98%, 5.943 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           43 / 49, 88%
+Elapsed time:        42.0s
+Transferring:
+ *             ai-humanizer/docs/CONTRIBUTING.md:100% /2.023Ki, 0/s, -
+ *                 ai-humanizer/docs/EXAMPLES.md:100% /5.321Ki, 5.320Ki/s, 0s
+ *                 ai-humanizer/docs/PATTERNS.md:100% /2.417Ki, 0/s, -
+ *               agent-browser-clawdbot/SKILL.md:  0% /5.418Ki, 0/s, -Transferred:   	  245.303 KiB / 251.009 KiB, 98%, 5.943 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           44 / 49, 90%
+Elapsed time:        42.5s
+Transferring:
+ *                 ai-humanizer/docs/EXAMPLES.md:100% /5.321Ki, 5.320Ki/s, 0s
+ *                 ai-humanizer/docs/PATTERNS.md:100% /2.417Ki, 2.416Ki/s, 0s
+ *               agent-browser-clawdbot/SKILL.md:  0% /5.418Ki, 0/s, -
+ *             agent-browser-clawdbot/_meta.json:  0% /141, 0/s, -Transferred:   	  245.303 KiB / 251.009 KiB, 98%, 5.572 KiB/s, ETA 1s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           44 / 49, 90%
+Elapsed time:        43.0s
+Transferring:
+ *                 ai-humanizer/docs/EXAMPLES.md:100% /5.321Ki, 2.660Ki/s, 0s
+ *                 ai-humanizer/docs/PATTERNS.md:100% /2.417Ki, 2.416Ki/s, 0s
+ *               agent-browser-clawdbot/SKILL.md:  0% /5.418Ki, 0/s, -
+ *             agent-browser-clawdbot/_meta.json:  0% /141, 0/s, -Transferred:   	  250.721 KiB / 251.009 KiB, 100%, 5.572 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           46 / 49, 94%
+Elapsed time:        43.5s
+Transferring:
+ *               agent-browser-clawdbot/SKILL.md:100% /5.418Ki, 0/s, -
+ *             agent-browser-clawdbot/_meta.json:  0% /141, 0/s, -
+ *   agent-browser-clawdbot/.clawhub/origin.json:  0% /154, 0/s, -Transferred:   	  250.721 KiB / 251.009 KiB, 100%, 5.562 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           46 / 49, 94%
+Elapsed time:        44.0s
+Transferring:
+ *               agent-browser-clawdbot/SKILL.md:100% /5.418Ki, 2.708Ki/s, 0s
+ *             agent-browser-clawdbot/_meta.json:  0% /141, 0/s, -
+ *   agent-browser-clawdbot/.clawhub/origin.json:  0% /154, 0/s, -Transferred:   	  250.721 KiB / 251.009 KiB, 100%, 5.562 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           47 / 49, 96%
+Elapsed time:        44.5s
+Transferring:
+ *             agent-browser-clawdbot/_meta.json:  0% /141, 0/s, -
+ *   agent-browser-clawdbot/.clawhub/origin.json:  0% /154, 0/s, -Transferred:   	  250.721 KiB / 251.009 KiB, 100%, 5.562 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           47 / 49, 96%
+Elapsed time:        45.0s
+Transferring:
+ *             agent-browser-clawdbot/_meta.json:  0% /141, 0/s, -
+ *   agent-browser-clawdbot/.clawhub/origin.json:  0% /154, 0/s, -Transferred:   	  251.009 KiB / 251.009 KiB, 100%, 5.215 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           47 / 49, 96%
+Elapsed time:        45.5s
+Transferring:
+ *             agent-browser-clawdbot/_meta.json:100% /141, 46/s, 0s
+ *   agent-browser-clawdbot/.clawhub/origin.json:100% /154, 77/s, 0sTransferred:   	  251.009 KiB / 251.009 KiB, 100%, 4.907 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           47 / 49, 96%
+Elapsed time:        46.0s
+Transferring:
+ *             agent-browser-clawdbot/_meta.json:100% /141, 46/s, 0s
+ *   agent-browser-clawdbot/.clawhub/origin.json:100% /154, 77/s, 0sTransferred:   	  251.009 KiB / 251.009 KiB, 100%, 4.907 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           47 / 49, 96%
+Elapsed time:        46.5s
+Transferring:
+ *             agent-browser-clawdbot/_meta.json:100% /141, 35/s, 0s
+ *   agent-browser-clawdbot/.clawhub/origin.json:100% /154, 51/s, 0sTransferred:   	  251.009 KiB / 251.009 KiB, 100%, 4.907 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           49 / 49, 100%
+Elapsed time:        47.0sTransferred:   	  251.009 KiB / 251.009 KiB, 100%, 4.907 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           49 / 49, 100%
+Elapsed time:        47.5sTransferred:   	  251.009 KiB / 251.009 KiB, 100%, 4.907 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           49 / 49, 100%
+Elapsed time:        48.0sTransferred:   	  251.009 KiB / 251.009 KiB, 100%, 4.907 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           49 / 49, 100%
+Elapsed time:        48.5sTransferred:   	  251.009 KiB / 251.009 KiB, 100%, 4.907 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           49 / 49, 100%
+Elapsed time:        49.0sTransferred:   	  251.009 KiB / 251.009 KiB, 100%, 4.907 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           49 / 49, 100%
+Elapsed time:        49.4sTransferred:   	  251.009 KiB / 251.009 KiB, 100%, 4.907 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           49 / 49, 100%
+Elapsed time:        50.0sTransferred:   	  251.009 KiB / 251.009 KiB, 100%, 4.907 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           49 / 49, 100%
+Elapsed time:        50.5sTransferred:   	  251.009 KiB / 251.009 KiB, 100%, 4.907 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           49 / 49, 100%
+Elapsed time:        51.0sTransferred:   	  251.009 KiB / 251.009 KiB, 100%, 4.907 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 71
+Transferred:           49 / 49, 100%
+Elapsed time:        51.1s
+📦 Syncing: workspace/memory
+Transferred:   	          0 B / 116.188 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 37
+Transferred:            0 / 31, 0%
+Elapsed time:         0.5s
+Transferring:
+ *                            2026-02-08-0444.md:  0% /3.652Ki, 0/s, -
+ *                            2026-02-08-test.md:  0% /572, 0/s, -
+ *                                 2026-02-10.md:  0% /2.529Ki, 0/s, -
+ *                                 2026-02-11.md:  0% /2.164Ki, 0/s, -Transferred:   	          0 B / 116.188 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 37
+Transferred:            0 / 31, 0%
+Elapsed time:         1.0s
+Transferring:
+ *                            2026-02-08-0444.md:  0% /3.652Ki, 0/s, -
+ *                            2026-02-08-test.md:  0% /572, 0/s, -
+ *                                 2026-02-10.md:  0% /2.529Ki, 0/s, -
+ *                                 2026-02-11.md:  0% /2.164Ki, 0/s, -Transferred:   	          0 B / 116.188 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 37
+Transferred:            0 / 31, 0%
+Elapsed time:         1.4s
+Transferring:
+ *                            2026-02-08-0444.md:  0% /3.652Ki, 0/s, -
+ *                            2026-02-08-test.md:  0% /572, 0/s, -
+ *                                 2026-02-10.md:  0% /2.529Ki, 0/s, -
+ *                                 2026-02-11.md:  0% /2.164Ki, 0/s, -Transferred:   	          0 B / 116.188 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 37
+Transferred:            0 / 31, 0%
+Elapsed time:         2.0s
+Transferring:
+ *                            2026-02-08-0444.md:  0% /3.652Ki, 0/s, -
+ *                            2026-02-08-test.md:  0% /572, 0/s, -
+ *                                 2026-02-10.md:  0% /2.529Ki, 0/s, -
+ *                                 2026-02-11.md:  0% /2.164Ki, 0/s, -Transferred:   	          0 B / 116.188 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 37
+Transferred:            0 / 31, 0%
+Elapsed time:         2.4s
+Transferring:
+ *                            2026-02-08-0444.md:  0% /3.652Ki, 0/s, -
+ *                            2026-02-08-test.md:  0% /572, 0/s, -
+ *                                 2026-02-10.md:  0% /2.529Ki, 0/s, -
+ *                                 2026-02-11.md:  0% /2.164Ki, 0/s, -Transferred:   	          0 B / 116.188 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 37
+Transferred:            0 / 31, 0%
+Elapsed time:         3.0s
+Transferring:
+ *                            2026-02-08-0444.md:  0% /3.652Ki, 0/s, -
+ *                            2026-02-08-test.md:  0% /572, 0/s, -
+ *                                 2026-02-10.md:  0% /2.529Ki, 0/s, -
+ *                                 2026-02-11.md:  0% /2.164Ki, 0/s, -Transferred:   	          0 B / 116.188 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 37
+Transferred:            0 / 31, 0%
+Elapsed time:         3.5s
+Transferring:
+ *                            2026-02-08-0444.md:  0% /3.652Ki, 0/s, -
+ *                            2026-02-08-test.md:  0% /572, 0/s, -
+ *                                 2026-02-10.md:  0% /2.529Ki, 0/s, -
+ *                                 2026-02-11.md:  0% /2.164Ki, 0/s, -Transferred:   	          0 B / 116.188 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 37
+Transferred:            0 / 31, 0%
+Elapsed time:         4.0s
+Transferring:
+ *                            2026-02-08-0444.md:  0% /3.652Ki, 0/s, -
+ *                            2026-02-08-test.md:  0% /572, 0/s, -
+ *                                 2026-02-10.md:  0% /2.529Ki, 0/s, -
+ *                                 2026-02-11.md:  0% /2.164Ki, 0/s, -Transferred:   	          0 B / 116.188 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 37
+Transferred:            0 / 31, 0%
+Elapsed time:         4.5s
+Transferring:
+ *                            2026-02-08-0444.md:  0% /3.652Ki, 0/s, -
+ *                            2026-02-08-test.md:  0% /572, 0/s, -
+ *                                 2026-02-10.md:  0% /2.529Ki, 0/s, -
+ *                                 2026-02-11.md:  0% /2.164Ki, 0/s, -Transferred:   	          0 B / 116.188 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 37
+Transferred:            0 / 31, 0%
+Elapsed time:         5.0s
+Transferring:
+ *                            2026-02-08-0444.md:  0% /3.652Ki, 0/s, -
+ *                            2026-02-08-test.md:  0% /572, 0/s, -
+ *                                 2026-02-10.md:  0% /2.529Ki, 0/s, -
+ *                                 2026-02-11.md:  0% /2.164Ki, 0/s, -Transferred:   	          0 B / 116.188 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 37
+Transferred:            0 / 31, 0%
+Elapsed time:         5.5s
+Transferring:
+ *                            2026-02-08-0444.md:  0% /3.652Ki, 0/s, -
+ *                            2026-02-08-test.md:  0% /572, 0/s, -
+ *                                 2026-02-10.md:  0% /2.529Ki, 0/s, -
+ *                                 2026-02-11.md:  0% /2.164Ki, 0/s, -Transferred:   	          0 B / 116.188 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 37
+Transferred:            0 / 31, 0%
+Elapsed time:         6.0s
+Transferring:
+ *                            2026-02-08-0444.md:  0% /3.652Ki, 0/s, -
+ *                            2026-02-08-test.md:  0% /572, 0/s, -
+ *                                 2026-02-10.md:  0% /2.529Ki, 0/s, -
+ *                                 2026-02-11.md:  0% /2.164Ki, 0/s, -Transferred:   	          0 B / 116.188 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 37
+Transferred:            0 / 31, 0%
+Elapsed time:         6.5s
+Transferring:
+ *                            2026-02-08-0444.md:  0% /3.652Ki, 0/s, -
+ *                            2026-02-08-test.md:  0% /572, 0/s, -
+ *                                 2026-02-10.md:  0% /2.529Ki, 0/s, -
+ *                                 2026-02-11.md:  0% /2.164Ki, 0/s, -Transferred:   	    3.652 KiB / 116.188 KiB, 3%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 37
+Transferred:            0 / 31, 0%
+Elapsed time:         7.0s
+Transferring:
+ *                            2026-02-08-0444.md:100% /3.652Ki, 0/s, -
+ *                            2026-02-08-test.md:  0% /572, 0/s, -
+ *                                 2026-02-10.md:  0% /2.529Ki, 0/s, -
+ *                                 2026-02-11.md:  0% /2.164Ki, 0/s, -Transferred:   	    8.904 KiB / 116.188 KiB, 8%, 534 B/s, ETA 3m25s
+Checks:                 0 / 0, -, Listed 37
+Transferred:            0 / 31, 0%
+Elapsed time:         7.5s
+Transferring:
+ *                            2026-02-08-0444.md:100% /3.652Ki, 534/s, 0s
+ *                            2026-02-08-test.md:100% /572, 81/s, 0s
+ *                                 2026-02-10.md:100% /2.529Ki, 370/s, 0s
+ *                                 2026-02-11.md:100% /2.164Ki, 316/s, 0sTransferred:   	    8.904 KiB / 116.188 KiB, 8%, 1.112 KiB/s, ETA 1m36s
+Checks:                 0 / 0, -, Listed 37
+Transferred:            0 / 31, 0%
+Elapsed time:         8.0s
+Transferring:
+ *                            2026-02-08-0444.md:100% /3.652Ki, 534/s, 0s
+ *                            2026-02-08-test.md:100% /572, 81/s, 0s
+ *                                 2026-02-10.md:100% /2.529Ki, 370/s, 0s
+ *                                 2026-02-11.md:100% /2.164Ki, 316/s, 0sTransferred:   	    8.904 KiB / 116.188 KiB, 8%, 1.112 KiB/s, ETA 1m36s
+Checks:                 0 / 0, -, Listed 37
+Transferred:            0 / 31, 0%
+Elapsed time:         8.5s
+Transferring:
+ *                            2026-02-08-0444.md:100% /3.652Ki, 467/s, 0s
+ *                            2026-02-08-test.md:100% /572, 71/s, 0s
+ *                                 2026-02-10.md:100% /2.529Ki, 323/s, 0s
+ *                                 2026-02-11.md:100% /2.164Ki, 276/s, 0sTransferred:   	    8.904 KiB / 116.188 KiB, 8%, 1.112 KiB/s, ETA 1m36s
+Checks:                 0 / 0, -, Listed 37
+Transferred:            1 / 31, 3%
+Elapsed time:         9.0s
+Transferring:
+ *                            2026-02-08-0444.md:100% /3.652Ki, 467/s, 0s
+ *                            2026-02-08-test.md:100% /572, 71/s, 0s
+ *                                 2026-02-10.md:100% /2.529Ki, 323/s, 0s
+ *                            2026-02-16-0227.md:  0% /149, 0/s, -Transferred:   	    9.050 KiB / 116.188 KiB, 8%, 1013 B/s, ETA 1m48s
+Checks:                 0 / 0, -, Listed 37
+Transferred:            2 / 31, 6%
+Elapsed time:         9.5s
+Transferring:
+ *                            2026-02-08-0444.md:100% /3.652Ki, 415/s, 0s
+ *                            2026-02-08-test.md:100% /572, 63/s, 0s
+ *                            2026-02-16-0227.md:100% /149, 0/s, -
+ *                                 2026-02-17.md:  0% /2.855Ki, 0/s, -Transferred:   	   11.905 KiB / 116.188 KiB, 10%, 1.190 KiB/s, ETA 1m27s
+Checks:                 0 / 0, -, Listed 37
+Transferred:            3 / 31, 10%
+Elapsed time:        10.0s
+Transferring:
+ *                            2026-02-08-0444.md:100% /3.652Ki, 415/s, 0s
+ *                            2026-02-16-0227.md:100% /149, 148/s, 0s
+ *                                 2026-02-17.md:100% /2.855Ki, 0/s, -
+ *                                 2026-02-24.md:  0% /761, 0/s, -Transferred:   	   13.767 KiB / 116.188 KiB, 12%, 1.190 KiB/s, ETA 1m26s
+Checks:                 0 / 0, -, Listed 37
+Transferred:            4 / 31, 13%
+Elapsed time:        10.5s
+Transferring:
+ *                            2026-02-16-0227.md:100% /149, 148/s, 0s
+ *                                 2026-02-17.md:100% /2.855Ki, 2.854Ki/s, 0s
+ *                                 2026-02-24.md:100% /761, 0/s, -
+ *                                 2026-02-25.md:100% /1.118Ki, 0/s, -Transferred:   	   13.767 KiB / 116.188 KiB, 12%, 1.251 KiB/s, ETA 1m21s
+Checks:                 0 / 0, -, Listed 37
+Transferred:            5 / 31, 16%
+Elapsed time:        11.0s
+Transferring:
+ *                                 2026-02-17.md:100% /2.855Ki, 2.854Ki/s, 0s
+ *                                 2026-02-24.md:100% /761, 760/s, 0s
+ *                                 2026-02-25.md:100% /1.118Ki, 0/s, -
+ *                                 2026-02-26.md:  0% /549, 0/s, -Transferred:   	   14.303 KiB / 116.188 KiB, 12%, 1.251 KiB/s, ETA 1m21s
+Checks:                 0 / 0, -, Listed 37
+Transferred:            6 / 31, 19%
+Elapsed time:        11.5s
+Transferring:
+ *                                 2026-02-24.md:100% /761, 760/s, 0s
+ *                                 2026-02-25.md:100% /1.118Ki, 1.117Ki/s, 0s
+ *                                 2026-02-26.md:100% /549, 0/s, -
+ *                                 2026-02-27.md:  0% /529, 0/s, -Transferred:   	   14.819 KiB / 116.188 KiB, 13%, 1.234 KiB/s, ETA 1m22s
+Checks:                 0 / 0, -, Listed 37
+Transferred:            8 / 31, 26%
+Elapsed time:        12.0s
+Transferring:
+ *                                 2026-02-26.md:100% /549, 548/s, 0s
+ *                                 2026-02-27.md:100% /529, 0/s, -
+ *                                 2026-03-01.md:  0% /625, 0/s, -
+ *                                 2026-03-02.md:  0% /1.729Ki, 0/s, -Transferred:   	   17.159 KiB / 116.188 KiB, 15%, 1.234 KiB/s, ETA 1m20s
+Checks:                 0 / 0, -, Listed 37
+Transferred:            8 / 31, 26%
+Elapsed time:        12.5s
+Transferring:
+ *                                 2026-02-26.md:100% /549, 548/s, 0s
+ *                                 2026-02-27.md:100% /529, 528/s, 0s
+ *                                 2026-03-01.md:100% /625, 0/s, -
+ *                                 2026-03-02.md:100% /1.729Ki, 0/s, -Transferred:   	   18.286 KiB / 116.188 KiB, 16%, 1.234 KiB/s, ETA 1m19s
+Checks:                 0 / 0, -, Listed 37
+Transferred:            9 / 31, 29%
+Elapsed time:        13.0s
+Transferring:
+ *                                 2026-02-27.md:100% /529, 528/s, 0s
+ *                                 2026-03-01.md:100% /625, 624/s, 0s
+ *                                 2026-03-02.md:100% /1.729Ki, 1.729Ki/s, 0s
+ *                      FILE_MANAGEMENT_GUIDE.md:100% /1.127Ki, 0/s, -Transferred:   	   20.010 KiB / 116.188 KiB, 17%, 1.406 KiB/s, ETA 1m8s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           10 / 31, 32%
+Elapsed time:        13.5s
+Transferring:
+ *                                 2026-03-01.md:100% /625, 624/s, 0s
+ *                                 2026-03-02.md:100% /1.729Ki, 1.729Ki/s, 0s
+ *                      FILE_MANAGEMENT_GUIDE.md:100% /1.127Ki, 0/s, -
+ *                    MEMORY_MANAGEMENT_GUIDE.md:100% /1.724Ki, 0/s, -Transferred:   	   20.157 KiB / 116.188 KiB, 17%, 1.439 KiB/s, ETA 1m6s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           11 / 31, 35%
+Elapsed time:        14.0s
+Transferring:
+ *                                 2026-03-01.md:100% /625, 312/s, 0s
+ *                      FILE_MANAGEMENT_GUIDE.md:100% /1.127Ki, 1.126Ki/s, 0s
+ *                    MEMORY_MANAGEMENT_GUIDE.md:100% /1.724Ki, 0/s, -
+ *                           cleanup_status.json:100% /151, 0/s, -Transferred:   	   20.157 KiB / 116.188 KiB, 17%, 1.439 KiB/s, ETA 1m6s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           12 / 31, 39%
+Elapsed time:        14.5s
+Transferring:
+ *                                 2026-03-01.md:100% /625, 312/s, 0s
+ *                    MEMORY_MANAGEMENT_GUIDE.md:100% /1.724Ki, 1.723Ki/s, 0s
+ *                           cleanup_status.json:100% /151, 0/s, -
+ *                              health-check.log:  0% /164, 0/s, -Transferred:   	   20.317 KiB / 116.188 KiB, 17%, 1.354 KiB/s, ETA 1m10s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           12 / 31, 39%
+Elapsed time:        15.0s
+Transferring:
+ *                                 2026-03-01.md:100% /625, 208/s, 0s
+ *                    MEMORY_MANAGEMENT_GUIDE.md:100% /1.724Ki, 1.723Ki/s, 0s
+ *                           cleanup_status.json:100% /151, 150/s, 0s
+ *                              health-check.log:100% /164, 0/s, -Transferred:   	   20.317 KiB / 116.188 KiB, 17%, 1.354 KiB/s, ETA 1m10s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           13 / 31, 42%
+Elapsed time:        15.5s
+Transferring:
+ *                                 2026-03-01.md:100% /625, 208/s, 0s
+ *                    MEMORY_MANAGEMENT_GUIDE.md:100% /1.724Ki, 882/s, 0s
+ *                              health-check.log:100% /164, 163/s, 0s
+ *                         archive/2026-02-07.md:  0% /3.602Ki, 0/s, -Transferred:   	   20.317 KiB / 116.188 KiB, 17%, 1.354 KiB/s, ETA 1m10s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           14 / 31, 45%
+Elapsed time:        16.0s
+Transferring:
+ *                                 2026-03-01.md:100% /625, 156/s, 0s
+ *                    MEMORY_MANAGEMENT_GUIDE.md:100% /1.724Ki, 882/s, 0s
+ *                         archive/2026-02-07.md:  0% /3.602Ki, 0/s, -
+ *                    archive/2026-02-08-0440.md:  0% /4.914Ki, 0/s, -Transferred:   	   23.919 KiB / 116.188 KiB, 21%, 1.270 KiB/s, ETA 1m12s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           14 / 31, 45%
+Elapsed time:        16.5s
+Transferring:
+ *                                 2026-03-01.md:100% /625, 156/s, 0s
+ *                    MEMORY_MANAGEMENT_GUIDE.md:100% /1.724Ki, 588/s, 0s
+ *                         archive/2026-02-07.md:100% /3.602Ki, 0/s, -
+ *                    archive/2026-02-08-0440.md:  0% /4.914Ki, 0/s, -Transferred:   	   28.833 KiB / 116.188 KiB, 25%, 1.723 KiB/s, ETA 50s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           14 / 31, 45%
+Elapsed time:        17.0s
+Transferring:
+ *                                 2026-03-01.md:100% /625, 124/s, 0s
+ *                    MEMORY_MANAGEMENT_GUIDE.md:100% /1.724Ki, 588/s, 0s
+ *                         archive/2026-02-07.md:100% /3.602Ki, 0/s, -
+ *                    archive/2026-02-08-0440.md:100% /4.914Ki, 4.913Ki/s, 0sTransferred:   	   28.833 KiB / 116.188 KiB, 25%, 1.723 KiB/s, ETA 50s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           16 / 31, 52%
+Elapsed time:        17.5s
+Transferring:
+ *                         archive/2026-02-07.md:100% /3.602Ki, 1.800Ki/s, 0s
+ *                    archive/2026-02-08-0440.md:100% /4.914Ki, 4.913Ki/s, 0s
+ *                         archive/2026-02-08.md:  0% /4.662Ki, 0/s, -
+ *                         archive/2026-02-09.md:  0% /4.873Ki, 0/s, -Transferred:   	   38.368 KiB / 116.188 KiB, 33%, 2.211 KiB/s, ETA 35s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           16 / 31, 52%
+Elapsed time:        18.0s
+Transferring:
+ *                         archive/2026-02-07.md:100% /3.602Ki, 1.800Ki/s, 0s
+ *                    archive/2026-02-08-0440.md:100% /4.914Ki, 2.456Ki/s, 0s
+ *                         archive/2026-02-08.md:100% /4.662Ki, 0/s, -
+ *                         archive/2026-02-09.md:100% /4.873Ki, 0/s, -Transferred:   	   45.635 KiB / 116.188 KiB, 39%, 2.211 KiB/s, ETA 31s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           18 / 31, 58%
+Elapsed time:        18.5s
+Transferring:
+ *                         archive/2026-02-08.md:100% /4.662Ki, 4.661Ki/s, 0s
+ *                         archive/2026-02-09.md:100% /4.873Ki, 4.872Ki/s, 0s
+ *                         archive/2026-02-12.md:100% /4.218Ki, 0/s, -
+ *                         archive/2026-02-14.md:100% /3.049Ki, 0/s, -Transferred:   	   45.635 KiB / 116.188 KiB, 39%, 2.526 KiB/s, ETA 27s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           19 / 31, 61%
+Elapsed time:        19.0s
+Transferring:
+ *                         archive/2026-02-09.md:100% /4.873Ki, 4.872Ki/s, 0s
+ *                         archive/2026-02-12.md:100% /4.218Ki, 0/s, -
+ *                         archive/2026-02-14.md:100% /3.049Ki, 0/s, -
+ *                         archive/2026-02-15.md:  0% /6.624Ki, 0/s, -Transferred:   	   56.167 KiB / 116.188 KiB, 48%, 2.526 KiB/s, ETA 23s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           20 / 31, 65%
+Elapsed time:        19.5s
+Transferring:
+ *                         archive/2026-02-12.md:100% /4.218Ki, 4.217Ki/s, 0s
+ *                         archive/2026-02-14.md:100% /3.049Ki, 3.048Ki/s, 0s
+ *                         archive/2026-02-15.md:100% /6.624Ki, 0/s, -
+ *                         archive/2026-02-16.md:100% /3.908Ki, 0/s, -Transferred:   	   75.873 KiB / 116.188 KiB, 65%, 4.259 KiB/s, ETA 9s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           21 / 31, 68%
+Elapsed time:        20.0s
+Transferring:
+ *                         archive/2026-02-12.md:100% /4.218Ki, 4.217Ki/s, 0s
+ *                         archive/2026-02-15.md:100% /6.624Ki, 6.623Ki/s, 0s
+ *                         archive/2026-02-16.md:100% /3.908Ki, 0/s, -
+ *                         archive/2026-02-19.md:100% /19.706Ki, 0/s, -Transferred:   	   75.873 KiB / 116.188 KiB, 65%, 4.259 KiB/s, ETA 9s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           21 / 31, 68%
+Elapsed time:        20.5s
+Transferring:
+ *                         archive/2026-02-12.md:100% /4.218Ki, 2.108Ki/s, 0s
+ *                         archive/2026-02-15.md:100% /6.624Ki, 6.623Ki/s, 0s
+ *                         archive/2026-02-16.md:100% /3.908Ki, 3.907Ki/s, 0s
+ *                         archive/2026-02-19.md:100% /19.706Ki, 0/s, -Transferred:   	   81.381 KiB / 116.188 KiB, 70%, 4.337 KiB/s, ETA 8s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           23 / 31, 74%
+Elapsed time:        21.0s
+Transferring:
+ *                         archive/2026-02-12.md:100% /4.218Ki, 2.108Ki/s, 0s
+ *                         archive/2026-02-19.md:100% /19.706Ki, 19.704Ki/s, 0s
+ *                         archive/2026-02-20.md:100% /5.508Ki, 0/s, -
+ *                         archive/2026-02-21.md:  0% /3.370Ki, 0/s, -Transferred:   	   81.381 KiB / 116.188 KiB, 70%, 4.337 KiB/s, ETA 8s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           23 / 31, 74%
+Elapsed time:        21.5s
+Transferring:
+ *                         archive/2026-02-12.md:100% /4.218Ki, 1.405Ki/s, 0s
+ *                         archive/2026-02-19.md:100% /19.706Ki, 19.704Ki/s, 0s
+ *                         archive/2026-02-20.md:100% /5.508Ki, 0/s, -
+ *                         archive/2026-02-21.md:  0% /3.370Ki, 0/s, -Transferred:   	  108.416 KiB / 116.188 KiB, 93%, 5.755 KiB/s, ETA 1s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           24 / 31, 77%
+Elapsed time:        22.0s
+Transferring:
+ *                         archive/2026-02-12.md:100% /4.218Ki, 1.405Ki/s, 0s
+ *                         archive/2026-02-20.md:100% /5.508Ki, 5.507Ki/s, 0s
+ *                         archive/2026-02-21.md:  0% /3.370Ki, 0/s, -
+ *                    archive/2026-02-24-0449.md:100% /27.035Ki, 0/s, -Transferred:   	  108.416 KiB / 116.188 KiB, 93%, 5.755 KiB/s, ETA 1s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           25 / 31, 81%
+Elapsed time:        22.5s
+Transferring:
+ *                         archive/2026-02-12.md:100% /4.218Ki, 1.054Ki/s, 0s
+ *                         archive/2026-02-21.md:  0% /3.370Ki, 0/s, -
+ *                    archive/2026-02-24-0449.md:100% /27.035Ki, 0/s, -
+ *                   logs/cleanup_2026-02-21.log:  0% /1.725Ki, 0/s, -Transferred:   	  108.416 KiB / 116.188 KiB, 93%, 5.396 KiB/s, ETA 1s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           25 / 31, 81%
+Elapsed time:        23.0s
+Transferring:
+ *                         archive/2026-02-12.md:100% /4.218Ki, 1.054Ki/s, 0s
+ *                         archive/2026-02-21.md:  0% /3.370Ki, 0/s, -
+ *                    archive/2026-02-24-0449.md:100% /27.035Ki, 27.032Ki/s, 0s
+ *                   logs/cleanup_2026-02-21.log:  0% /1.725Ki, 0/s, -Transferred:   	  108.416 KiB / 116.188 KiB, 93%, 5.396 KiB/s, ETA 1s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           27 / 31, 87%
+Elapsed time:        23.5s
+Transferring:
+ *                         archive/2026-02-21.md:  0% /3.370Ki, 0/s, -
+ *                   logs/cleanup_2026-02-21.log:  0% /1.725Ki, 0/s, -
+ *                   logs/cleanup_2026-02-22.log:  0% /1.297Ki, 0/s, -
+ *                   logs/cleanup_2026-03-01.log:  0% /1.380Ki, 0/s, -Transferred:   	  116.188 KiB / 116.188 KiB, 100%, 5.544 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           27 / 31, 87%
+Elapsed time:        24.0s
+Transferring:
+ *                         archive/2026-02-21.md:100% /3.370Ki, 0/s, -
+ *                   logs/cleanup_2026-02-21.log:100% /1.725Ki, 0/s, -
+ *                   logs/cleanup_2026-02-22.log:100% /1.297Ki, 0/s, -
+ *                   logs/cleanup_2026-03-01.log:100% /1.380Ki, 0/s, -Transferred:   	  116.188 KiB / 116.188 KiB, 100%, 5.544 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           27 / 31, 87%
+Elapsed time:        24.5s
+Transferring:
+ *                         archive/2026-02-21.md:100% /3.370Ki, 0/s, -
+ *                   logs/cleanup_2026-02-21.log:100% /1.725Ki, 882/s, 0s
+ *                   logs/cleanup_2026-02-22.log:100% /1.297Ki, 1.296Ki/s, 0s
+ *                   logs/cleanup_2026-03-01.log:100% /1.380Ki, 1.379Ki/s, 0sTransferred:   	  116.188 KiB / 116.188 KiB, 100%, 5.544 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           28 / 31, 90%
+Elapsed time:        24.9s
+Transferring:
+ *                         archive/2026-02-21.md:100% /3.370Ki, 862/s, 0s
+ *                   logs/cleanup_2026-02-21.log:100% /1.725Ki, 882/s, 0s
+ *                   logs/cleanup_2026-02-22.log:100% /1.297Ki, 1.296Ki/s, 0sTransferred:   	  116.188 KiB / 116.188 KiB, 100%, 5.197 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           30 / 31, 97%
+Elapsed time:        25.5s
+Transferring:
+ *                         archive/2026-02-21.md:100% /3.370Ki, 862/s, 0sTransferred:   	  116.188 KiB / 116.188 KiB, 100%, 4.872 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           30 / 31, 97%
+Elapsed time:        26.0s
+Transferring:
+ *                         archive/2026-02-21.md:100% /3.370Ki, 690/s, 0sTransferred:   	  116.188 KiB / 116.188 KiB, 100%, 4.872 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 37
+Transferred:           31 / 31, 100%
+Elapsed time:        26.4s
+📦 Syncing: workspace/lancedb_memory
+Transferred:   	          0 B / 47.406 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 46
+Transferred:            0 / 42, 0%
+Elapsed time:         0.5s
+Transferring:
+ *           memories.lance/_versions/1.manifest:  0% /829, 0/s, -
+ * memories.lance/data/00…9202bc2761f65ed5.lance:  0% /2.104Ki, 0/s, -
+ * memories.lance/data/00…b8bf9a5151b684fa.lance:  0% /2.042Ki, 0/s, -
+ * memories.lance/data/00…9a1160d67ad91aa5.lance:  0% /1.729Ki, 0/s, -Transferred:   	          0 B / 47.406 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 46
+Transferred:            0 / 42, 0%
+Elapsed time:         1.0s
+Transferring:
+ *           memories.lance/_versions/1.manifest:  0% /829, 0/s, -
+ * memories.lance/data/00…9202bc2761f65ed5.lance:  0% /2.104Ki, 0/s, -
+ * memories.lance/data/00…b8bf9a5151b684fa.lance:  0% /2.042Ki, 0/s, -
+ * memories.lance/data/00…9a1160d67ad91aa5.lance:  0% /1.729Ki, 0/s, -Transferred:   	          0 B / 47.406 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 46
+Transferred:            0 / 42, 0%
+Elapsed time:         1.5s
+Transferring:
+ *           memories.lance/_versions/1.manifest:  0% /829, 0/s, -
+ * memories.lance/data/00…9202bc2761f65ed5.lance:  0% /2.104Ki, 0/s, -
+ * memories.lance/data/00…b8bf9a5151b684fa.lance:  0% /2.042Ki, 0/s, -
+ * memories.lance/data/00…9a1160d67ad91aa5.lance:  0% /1.729Ki, 0/s, -Transferred:   	          0 B / 47.406 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 46
+Transferred:            0 / 42, 0%
+Elapsed time:         1.9s
+Transferring:
+ *           memories.lance/_versions/1.manifest:  0% /829, 0/s, -
+ * memories.lance/data/00…9202bc2761f65ed5.lance:  0% /2.104Ki, 0/s, -
+ * memories.lance/data/00…b8bf9a5151b684fa.lance:  0% /2.042Ki, 0/s, -
+ * memories.lance/data/00…9a1160d67ad91aa5.lance:  0% /1.729Ki, 0/s, -Transferred:   	          0 B / 47.406 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 46
+Transferred:            0 / 42, 0%
+Elapsed time:         2.5s
+Transferring:
+ *           memories.lance/_versions/1.manifest:  0% /829, 0/s, -
+ * memories.lance/data/00…9202bc2761f65ed5.lance:  0% /2.104Ki, 0/s, -
+ * memories.lance/data/00…b8bf9a5151b684fa.lance:  0% /2.042Ki, 0/s, -
+ * memories.lance/data/00…9a1160d67ad91aa5.lance:  0% /1.729Ki, 0/s, -Transferred:   	          0 B / 47.406 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 46
+Transferred:            0 / 42, 0%
+Elapsed time:         3.0s
+Transferring:
+ *           memories.lance/_versions/1.manifest:  0% /829, 0/s, -
+ * memories.lance/data/00…9202bc2761f65ed5.lance:  0% /2.104Ki, 0/s, -
+ * memories.lance/data/00…b8bf9a5151b684fa.lance:  0% /2.042Ki, 0/s, -
+ * memories.lance/data/00…9a1160d67ad91aa5.lance:  0% /1.729Ki, 0/s, -Transferred:   	          0 B / 47.406 KiB, 0%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 46
+Transferred:            0 / 42, 0%
+Elapsed time:         3.5s
+Transferring:
+ *           memories.lance/_versions/1.manifest:  0% /829, 0/s, -
+ * memories.lance/data/00…9202bc2761f65ed5.lance:  0% /2.104Ki, 0/s, -
+ * memories.lance/data/00…b8bf9a5151b684fa.lance:  0% /2.042Ki, 0/s, -
+ * memories.lance/data/00…9a1160d67ad91aa5.lance:  0% /1.729Ki, 0/s, -Transferred:   	        829 B / 47.406 KiB, 2%, 207 B/s, ETA 3m50s
+Checks:                 0 / 0, -, Listed 46
+Transferred:            0 / 42, 0%
+Elapsed time:         4.0s
+Transferring:
+ *           memories.lance/_versions/1.manifest:100% /829, 0/s, -
+ * memories.lance/data/00…9202bc2761f65ed5.lance:  0% /2.104Ki, 0/s, -
+ * memories.lance/data/00…b8bf9a5151b684fa.lance:  0% /2.042Ki, 0/s, -
+ * memories.lance/data/00…9a1160d67ad91aa5.lance:  0% /1.729Ki, 0/s, -Transferred:   	        829 B / 47.406 KiB, 2%, 207 B/s, ETA 3m50s
+Checks:                 0 / 0, -, Listed 46
+Transferred:            0 / 42, 0%
+Elapsed time:         4.5s
+Transferring:
+ *           memories.lance/_versions/1.manifest:100% /829, 207/s, 0s
+ * memories.lance/data/00…9202bc2761f65ed5.lance:  0% /2.104Ki, 0/s, -
+ * memories.lance/data/00…b8bf9a5151b684fa.lance:  0% /2.042Ki, 0/s, -
+ * memories.lance/data/00…9a1160d67ad91aa5.lance:  0% /1.729Ki, 0/s, -Transferred:   	        829 B / 47.406 KiB, 2%, 165 B/s, ETA 4m47s
+Checks:                 0 / 0, -, Listed 46
+Transferred:            0 / 42, 0%
+Elapsed time:         5.0s
+Transferring:
+ *           memories.lance/_versions/1.manifest:100% /829, 207/s, 0s
+ * memories.lance/data/00…9202bc2761f65ed5.lance:  0% /2.104Ki, 0/s, -
+ * memories.lance/data/00…b8bf9a5151b684fa.lance:  0% /2.042Ki, 0/s, -
+ * memories.lance/data/00…9a1160d67ad91aa5.lance:  0% /1.729Ki, 0/s, -Transferred:   	        829 B / 47.406 KiB, 2%, 165 B/s, ETA 4m47s
+Checks:                 0 / 0, -, Listed 46
+Transferred:            0 / 42, 0%
+Elapsed time:         5.5s
+Transferring:
+ *           memories.lance/_versions/1.manifest:100% /829, 165/s, 0s
+ * memories.lance/data/00…9202bc2761f65ed5.lance:  0% /2.104Ki, 0/s, -
+ * memories.lance/data/00…b8bf9a5151b684fa.lance:  0% /2.042Ki, 0/s, -
+ * memories.lance/data/00…9a1160d67ad91aa5.lance:  0% /1.729Ki, 0/s, -Transferred:   	    8.603 KiB / 47.406 KiB, 18%, 165 B/s, ETA 3m59s
+Checks:                 0 / 0, -, Listed 46
+Transferred:            1 / 42, 2%
+Elapsed time:         6.0s
+Transferring:
+ * memories.lance/data/00…9202bc2761f65ed5.lance:100% /2.104Ki, 0/s, -
+ * memories.lance/data/00…b8bf9a5151b684fa.lance:100% /2.042Ki, 0/s, -
+ * memories.lance/data/00…9a1160d67ad91aa5.lance:100% /1.729Ki, 0/s, -
+ * memories.lance/data/01…904998290115ea07.lance:100% /1.917Ki, 0/s, -Transferred:   	    8.603 KiB / 47.406 KiB, 18%, 1.434 KiB/s, ETA 27s
+Checks:                 0 / 0, -, Listed 46
+Transferred:            1 / 42, 2%
+Elapsed time:         6.5s
+Transferring:
+ * memories.lance/data/00…9202bc2761f65ed5.lance:100% /2.104Ki, 359/s, 0s
+ * memories.lance/data/00…b8bf9a5151b684fa.lance:100% /2.042Ki, 348/s, 0s
+ * memories.lance/data/00…9a1160d67ad91aa5.lance:100% /1.729Ki, 295/s, 0s
+ * memories.lance/data/01…904998290115ea07.lance:100% /1.917Ki, 0/s, -Transferred:   	    8.603 KiB / 47.406 KiB, 18%, 1.229 KiB/s, ETA 31s
+Checks:                 0 / 0, -, Listed 46
+Transferred:            1 / 42, 2%
+Elapsed time:         7.0s
+Transferring:
+ * memories.lance/data/00…9202bc2761f65ed5.lance:100% /2.104Ki, 359/s, 0s
+ * memories.lance/data/00…b8bf9a5151b684fa.lance:100% /2.042Ki, 348/s, 0s
+ * memories.lance/data/00…9a1160d67ad91aa5.lance:100% /1.729Ki, 295/s, 0s
+ * memories.lance/data/01…904998290115ea07.lance:100% /1.917Ki, 1.916Ki/s, 0sTransferred:   	   13.499 KiB / 47.406 KiB, 28%, 1.229 KiB/s, ETA 27s
+Checks:                 0 / 0, -, Listed 46
+Transferred:            5 / 42, 12%
+Elapsed time:         7.5s
+Transferring:
+ * memories.lance/data/01…b30f76845c066f3e.lance:100% /1.854Ki, 0/s, -
+ * memories.lance/data/01…a89d284defe1caf5.lance:100% /3.042Ki, 0/s, -
+ * memories.lance/data/10…b83e615f2209c1c2.lance:  0% /1.540Ki, 0/s, -
+ * memories.lance/data/10…b9ba07326e7c682b.lance:  0% /3.104Ki, 0/s, -Transferred:   	   18.144 KiB / 47.406 KiB, 38%, 2.268 KiB/s, ETA 12s
+Checks:                 0 / 0, -, Listed 46
+Transferred:            5 / 42, 12%
+Elapsed time:         8.0s
+Transferring:
+ * memories.lance/data/01…b30f76845c066f3e.lance:100% /1.854Ki, 0/s, -
+ * memories.lance/data/01…a89d284defe1caf5.lance:100% /3.042Ki, 0/s, -
+ * memories.lance/data/10…b83e615f2209c1c2.lance:100% /1.540Ki, 0/s, -
+ * memories.lance/data/10…b9ba07326e7c682b.lance:100% /3.104Ki, 0/s, -Transferred:   	   18.144 KiB / 47.406 KiB, 38%, 2.268 KiB/s, ETA 12s
+Checks:                 0 / 0, -, Listed 46
+Transferred:            5 / 42, 12%
+Elapsed time:         8.4s
+Transferring:
+ * memories.lance/data/01…b30f76845c066f3e.lance:100% /1.854Ki, 1.854Ki/s, 0s
+ * memories.lance/data/01…a89d284defe1caf5.lance:100% /3.042Ki, 3.041Ki/s, 0s
+ * memories.lance/data/10…b83e615f2209c1c2.lance:100% /1.540Ki, 1.539Ki/s, 0s
+ * memories.lance/data/10…b9ba07326e7c682b.lance:100% /3.104Ki, 3.104Ki/s, 0sTransferred:   	   18.144 KiB / 47.406 KiB, 38%, 2.268 KiB/s, ETA 12s
+Checks:                 0 / 0, -, Listed 46
+Transferred:            6 / 42, 14%
+Elapsed time:         9.0s
+Transferring:
+ * memories.lance/data/01…a89d284defe1caf5.lance:100% /3.042Ki, 3.041Ki/s, 0s
+ * memories.lance/data/10…b83e615f2209c1c2.lance:100% /1.540Ki, 1.539Ki/s, 0s
+ * memories.lance/data/10…b9ba07326e7c682b.lance:100% /3.104Ki, 3.104Ki/s, 0s
+ * memories.lance/data/10…819ba690c9276e92.lance:  0% /1.792Ki, 0/s, -Transferred:   	   19.936 KiB / 47.406 KiB, 42%, 2.016 KiB/s, ETA 13s
+Checks:                 0 / 0, -, Listed 46
+Transferred:            7 / 42, 17%
+Elapsed time:         9.4s
+Transferring:
+ * memories.lance/data/01…a89d284defe1caf5.lance:100% /3.042Ki, 1.521Ki/s, 0s
+ * memories.lance/data/10…b9ba07326e7c682b.lance:100% /3.104Ki, 1.552Ki/s, 0s
+ * memories.lance/data/10…819ba690c9276e92.lance:100% /1.792Ki, 0/s, -
+ * memories.lance/data/10…9ea1096b47d7103b.lance:  0% /3.104Ki, 0/s, -Transferred:   	   23.040 KiB / 47.406 KiB, 49%, 2.016 KiB/s, ETA 12s
+Checks:                 0 / 0, -, Listed 46
+Transferred:            7 / 42, 17%
+Elapsed time:        10.0s
+Transferring:
+ * memories.lance/data/01…a89d284defe1caf5.lance:100% /3.042Ki, 1.521Ki/s, 0s
+ * memories.lance/data/10…b9ba07326e7c682b.lance:100% /3.104Ki, 1.552Ki/s, 0s
+ * memories.lance/data/10…819ba690c9276e92.lance:100% /1.792Ki, 1.791Ki/s, 0s
+ * memories.lance/data/10…9ea1096b47d7103b.lance:100% /3.104Ki, 0/s, -Transferred:   	   23.040 KiB / 47.406 KiB, 49%, 2.304 KiB/s, ETA 10s
+Checks:                 0 / 0, -, Listed 46
+Transferred:            8 / 42, 19%
+Elapsed time:        10.4s
+Transferring:
+ * memories.lance/data/01…a89d284defe1caf5.lance:100% /3.042Ki, 1.014Ki/s, 0s
+ * memories.lance/data/10…819ba690c9276e92.lance:100% /1.792Ki, 1.791Ki/s, 0s
+ * memories.lance/data/10…9ea1096b47d7103b.lance:100% /3.104Ki, 3.104Ki/s, 0s
+ * memories.lance/data/11…9fe4aa0455ac39a9.lance:  0% /1.604Ki, 0/s, -Transferred:   	   24.645 KiB / 47.406 KiB, 52%, 2.240 KiB/s, ETA 10s
+Checks:                 0 / 0, -, Listed 46
+Transferred:            9 / 42, 21%
+Elapsed time:        11.0s
+Transferring:
+ * memories.lance/data/10…819ba690c9276e92.lance:100% /1.792Ki, 917/s, 0s
+ * memories.lance/data/10…9ea1096b47d7103b.lance:100% /3.104Ki, 3.104Ki/s, 0s
+ * memories.lance/data/11…9fe4aa0455ac39a9.lance:100% /1.604Ki, 0/s, -
+ * memories.lance/data/11…831828e82cd2aa26.lance:  0% /2.417Ki, 0/s, -Transferred:   	   30.519 KiB / 47.406 KiB, 64%, 2.240 KiB/s, ETA 7s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           11 / 42, 26%
+Elapsed time:        11.5s
+Transferring:
+ * memories.lance/data/11…9fe4aa0455ac39a9.lance:100% /1.604Ki, 1.604Ki/s, 0s
+ * memories.lance/data/11…831828e82cd2aa26.lance:100% /2.417Ki, 0/s, -
+ * memories.lance/data/11…9c313067be60fb45.lance:100% /1.540Ki, 0/s, -
+ * memories.lance/data/11…a01f652f8bd6b891.lance:100% /1.917Ki, 0/s, -Transferred:   	   30.519 KiB / 47.406 KiB, 64%, 2.240 KiB/s, ETA 7s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           11 / 42, 26%
+Elapsed time:        12.0s
+Transferring:
+ * memories.lance/data/11…9fe4aa0455ac39a9.lance:100% /1.604Ki, 1.604Ki/s, 0s
+ * memories.lance/data/11…831828e82cd2aa26.lance:100% /2.417Ki, 2.416Ki/s, 0s
+ * memories.lance/data/11…9c313067be60fb45.lance:100% /1.540Ki, 0/s, -
+ * memories.lance/data/11…a01f652f8bd6b891.lance:100% /1.917Ki, 0/s, -Transferred:   	   31.832 KiB / 47.406 KiB, 67%, 2.543 KiB/s, ETA 6s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           12 / 42, 29%
+Elapsed time:        12.5s
+Transferring:
+ * memories.lance/data/11…831828e82cd2aa26.lance:100% /2.417Ki, 2.416Ki/s, 0s
+ * memories.lance/data/11…9c313067be60fb45.lance:100% /1.540Ki, 1.539Ki/s, 0s
+ * memories.lance/data/11…a01f652f8bd6b891.lance:100% /1.917Ki, 1.916Ki/s, 0s
+ *          memories.lance/_versions/10.manifest:100% /1.313Ki, 0/s, -Transferred:   	   31.832 KiB / 47.406 KiB, 67%, 2.543 KiB/s, ETA 6s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           14 / 42, 33%
+Elapsed time:        13.0s
+Transferring:
+ * memories.lance/data/11…9c313067be60fb45.lance:100% /1.540Ki, 1.539Ki/s, 0s
+ *          memories.lance/_versions/10.manifest:100% /1.313Ki, 0/s, -
+ *          memories.lance/_versions/11.manifest:  0% /1.397Ki, 0/s, -
+ *          memories.lance/_versions/12.manifest:  0% /1.480Ki, 0/s, -Transferred:   	   34.710 KiB / 47.406 KiB, 73%, 2.448 KiB/s, ETA 5s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           15 / 42, 36%
+Elapsed time:        13.5s
+Transferring:
+ *          memories.lance/_versions/10.manifest:100% /1.313Ki, 1.312Ki/s, 0s
+ *          memories.lance/_versions/11.manifest:100% /1.397Ki, 0/s, -
+ *          memories.lance/_versions/12.manifest:100% /1.480Ki, 0/s, -
+ *          memories.lance/_versions/13.manifest:  0% /1.563Ki, 0/s, -Transferred:   	   36.273 KiB / 47.406 KiB, 77%, 2.448 KiB/s, ETA 4s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           16 / 42, 38%
+Elapsed time:        14.0s
+Transferring:
+ *          memories.lance/_versions/11.manifest:100% /1.397Ki, 1.396Ki/s, 0s
+ *          memories.lance/_versions/12.manifest:100% /1.480Ki, 1.479Ki/s, 0s
+ *          memories.lance/_versions/13.manifest:100% /1.563Ki, 0/s, -
+ *          memories.lance/_versions/14.manifest:  0% /1.647Ki, 0/s, -Transferred:   	   37.921 KiB / 47.406 KiB, 80%, 2.591 KiB/s, ETA 3s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           17 / 42, 40%
+Elapsed time:        14.5s
+Transferring:
+ *          memories.lance/_versions/11.manifest:100% /1.397Ki, 1.396Ki/s, 0s
+ *          memories.lance/_versions/13.manifest:100% /1.563Ki, 1.562Ki/s, 0s
+ *          memories.lance/_versions/14.manifest:100% /1.647Ki, 0/s, -
+ *           memories.lance/_versions/2.manifest:  0% /666, 0/s, -Transferred:   	   39.304 KiB / 47.406 KiB, 83%, 2.591 KiB/s, ETA 3s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           18 / 42, 43%
+Elapsed time:        15.0s
+Transferring:
+ *          memories.lance/_versions/13.manifest:100% /1.563Ki, 1.562Ki/s, 0s
+ *          memories.lance/_versions/14.manifest:100% /1.647Ki, 1.646Ki/s, 0s
+ *           memories.lance/_versions/2.manifest:100% /666, 0/s, -
+ *           memories.lance/_versions/3.manifest:100% /750, 0/s, -Transferred:   	   40.119 KiB / 47.406 KiB, 85%, 2.620 KiB/s, ETA 2s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           19 / 42, 45%
+Elapsed time:        15.5s
+Transferring:
+ *          memories.lance/_versions/14.manifest:100% /1.647Ki, 1.646Ki/s, 0s
+ *           memories.lance/_versions/2.manifest:100% /666, 665/s, 0s
+ *           memories.lance/_versions/3.manifest:100% /750, 0/s, -
+ *           memories.lance/_versions/4.manifest:100% /835, 0/s, -Transferred:   	   41.018 KiB / 47.406 KiB, 87%, 2.620 KiB/s, ETA 2s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           20 / 42, 48%
+Elapsed time:        16.0s
+Transferring:
+ *           memories.lance/_versions/2.manifest:100% /666, 665/s, 0s
+ *           memories.lance/_versions/3.manifest:100% /750, 749/s, 0s
+ *           memories.lance/_versions/4.manifest:100% /835, 0/s, -
+ *           memories.lance/_versions/5.manifest:100% /920, 0/s, -Transferred:   	   41.999 KiB / 47.406 KiB, 89%, 2.563 KiB/s, ETA 2s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           21 / 42, 50%
+Elapsed time:        16.5s
+Transferring:
+ *           memories.lance/_versions/3.manifest:100% /750, 749/s, 0s
+ *           memories.lance/_versions/4.manifest:100% /835, 834/s, 0s
+ *           memories.lance/_versions/5.manifest:100% /920, 0/s, -
+ *           memories.lance/_versions/6.manifest:100% /1005, 0/s, -Transferred:   	   43.063 KiB / 47.406 KiB, 91%, 2.563 KiB/s, ETA 1s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           23 / 42, 55%
+Elapsed time:        16.9s
+Transferring:
+ *           memories.lance/_versions/5.manifest:100% /920, 919/s, 0s
+ *           memories.lance/_versions/6.manifest:100% /1005, 0/s, -
+ *           memories.lance/_versions/7.manifest:100% /1.064Ki, 0/s, -
+ *           memories.lance/_versions/8.manifest:  0% /1.147Ki, 0/s, -Transferred:   	   44.211 KiB / 47.406 KiB, 93%, 2.531 KiB/s, ETA 1s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           24 / 42, 57%
+Elapsed time:        17.5s
+Transferring:
+ *           memories.lance/_versions/6.manifest:100% /1005, 1004/s, 0s
+ *           memories.lance/_versions/7.manifest:100% /1.064Ki, 0/s, -
+ *           memories.lance/_versions/8.manifest:100% /1.147Ki, 0/s, -
+ *           memories.lance/_versions/9.manifest:  0% /1.230Ki, 0/s, -Transferred:   	   45.441 KiB / 47.406 KiB, 96%, 2.531 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           25 / 42, 60%
+Elapsed time:        18.0s
+Transferring:
+ *           memories.lance/_versions/7.manifest:100% /1.064Ki, 1.063Ki/s, 0s
+ *           memories.lance/_versions/8.manifest:100% /1.147Ki, 1.146Ki/s, 0s
+ *           memories.lance/_versions/9.manifest:100% /1.230Ki, 0/s, -
+ * memories.lance/_transa…-84ee-265894711040.txn:  0% /374, 0/s, -Transferred:   	   45.441 KiB / 47.406 KiB, 96%, 2.521 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           26 / 42, 62%
+Elapsed time:        18.5s
+Transferring:
+ *           memories.lance/_versions/8.manifest:100% /1.147Ki, 1.146Ki/s, 0s
+ *           memories.lance/_versions/9.manifest:100% /1.230Ki, 1.229Ki/s, 0s
+ * memories.lance/_transa…-84ee-265894711040.txn:  0% /374, 0/s, -
+ * memories.lance/_transa…-824f-76b14467909e.txn:  0% /126, 0/s, -Transferred:   	   45.441 KiB / 47.406 KiB, 96%, 2.363 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           27 / 42, 64%
+Elapsed time:        19.0s
+Transferring:
+ *           memories.lance/_versions/9.manifest:100% /1.230Ki, 1.229Ki/s, 0s
+ * memories.lance/_transa…-84ee-265894711040.txn:  0% /374, 0/s, -
+ * memories.lance/_transa…-824f-76b14467909e.txn:  0% /126, 0/s, -
+ * memories.lance/_transa…-bc2a-82b85c1572bb.txn:  0% /126, 0/s, -Transferred:   	   46.053 KiB / 47.406 KiB, 97%, 2.363 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           28 / 42, 67%
+Elapsed time:        19.4s
+Transferring:
+ * memories.lance/_transa…-84ee-265894711040.txn:100% /374, 0/s, -
+ * memories.lance/_transa…-824f-76b14467909e.txn:  0% /126, 0/s, -
+ * memories.lance/_transa…-bc2a-82b85c1572bb.txn:100% /126, 0/s, -
+ * memories.lance/_transa…-ac77-818340549903.txn:100% /126, 0/s, -Transferred:   	   46.176 KiB / 47.406 KiB, 97%, 2.363 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           28 / 42, 67%
+Elapsed time:        20.0s
+Transferring:
+ * memories.lance/_transa…-84ee-265894711040.txn:100% /374, 187/s, 0s
+ * memories.lance/_transa…-824f-76b14467909e.txn:100% /126, 0/s, -
+ * memories.lance/_transa…-bc2a-82b85c1572bb.txn:100% /126, 125/s, 0s
+ * memories.lance/_transa…-ac77-818340549903.txn:100% /126, 0/s, -Transferred:   	   46.176 KiB / 47.406 KiB, 97%, 2.262 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           28 / 42, 67%
+Elapsed time:        20.5s
+Transferring:
+ * memories.lance/_transa…-84ee-265894711040.txn:100% /374, 187/s, 0s
+ * memories.lance/_transa…-824f-76b14467909e.txn:100% /126, 62/s, 0s
+ * memories.lance/_transa…-bc2a-82b85c1572bb.txn:100% /126, 125/s, 0s
+ * memories.lance/_transa…-ac77-818340549903.txn:100% /126, 125/s, 0sTransferred:   	   46.299 KiB / 47.406 KiB, 98%, 2.128 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           32 / 42, 76%
+Elapsed time:        21.0s
+Transferring:
+ * memories.lance/_transa…-9ad2-ef54473bed8b.txn:100% /126, 0/s, -
+ * memories.lance/_transa…-8097-b0d7216fcc23.txn:  0% /126, 0/s, -
+ * memories.lance/_transa…-b473-15cf1871576c.txn:  0% /126, 0/s, -
+ * memories.lance/_transa…-a274-784e6a8b65e1.txn:  0% /126, 0/s, -Transferred:   	   46.668 KiB / 47.406 KiB, 98%, 2.128 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           32 / 42, 76%
+Elapsed time:        21.5s
+Transferring:
+ * memories.lance/_transa…-9ad2-ef54473bed8b.txn:100% /126, 0/s, -
+ * memories.lance/_transa…-8097-b0d7216fcc23.txn:100% /126, 0/s, -
+ * memories.lance/_transa…-b473-15cf1871576c.txn:100% /126, 0/s, -
+ * memories.lance/_transa…-a274-784e6a8b65e1.txn:100% /126, 0/s, -Transferred:   	   46.668 KiB / 47.406 KiB, 98%, 2.019 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           32 / 42, 76%
+Elapsed time:        22.0s
+Transferring:
+ * memories.lance/_transa…-9ad2-ef54473bed8b.txn:100% /126, 125/s, 0s
+ * memories.lance/_transa…-8097-b0d7216fcc23.txn:100% /126, 125/s, 0s
+ * memories.lance/_transa…-b473-15cf1871576c.txn:100% /126, 125/s, 0s
+ * memories.lance/_transa…-a274-784e6a8b65e1.txn:100% /126, 125/s, 0sTransferred:   	   46.668 KiB / 47.406 KiB, 98%, 2.019 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           34 / 42, 81%
+Elapsed time:        22.5s
+Transferring:
+ * memories.lance/_transa…-b473-15cf1871576c.txn:100% /126, 125/s, 0s
+ * memories.lance/_transa…-a274-784e6a8b65e1.txn:100% /126, 125/s, 0s
+ * memories.lance/_transa…-a3be-1f64069ca0b3.txn:  0% /126, 0/s, -
+ * memories.lance/_transa…-b961-9d36d884d00d.txn:  0% /126, 0/s, -Transferred:   	   46.914 KiB / 47.406 KiB, 99%, 1.907 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           36 / 42, 86%
+Elapsed time:        23.0s
+Transferring:
+ * memories.lance/_transa…-a3be-1f64069ca0b3.txn:100% /126, 0/s, -
+ * memories.lance/_transa…-b961-9d36d884d00d.txn:100% /126, 0/s, -
+ * memories.lance/_transa…-88d2-677d7f8e9b81.txn:  0% /126, 0/s, -
+ * memories.lance/_transa…-9377-5b84ceb454b9.txn:  0% /126, 0/s, -Transferred:   	   47.160 KiB / 47.406 KiB, 99%, 1.907 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           36 / 42, 86%
+Elapsed time:        23.5s
+Transferring:
+ * memories.lance/_transa…-a3be-1f64069ca0b3.txn:100% /126, 125/s, 0s
+ * memories.lance/_transa…-b961-9d36d884d00d.txn:100% /126, 125/s, 0s
+ * memories.lance/_transa…-88d2-677d7f8e9b81.txn:100% /126, 0/s, -
+ * memories.lance/_transa…-9377-5b84ceb454b9.txn:100% /126, 0/s, -Transferred:   	   47.160 KiB / 47.406 KiB, 99%, 1.907 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           36 / 42, 86%
+Elapsed time:        24.0s
+Transferring:
+ * memories.lance/_transa…-a3be-1f64069ca0b3.txn:100% /126, 125/s, 0s
+ * memories.lance/_transa…-b961-9d36d884d00d.txn:100% /126, 125/s, 0s
+ * memories.lance/_transa…-88d2-677d7f8e9b81.txn:100% /126, 125/s, 0s
+ * memories.lance/_transa…-9377-5b84ceb454b9.txn:100% /126, 125/s, 0sTransferred:   	   47.283 KiB / 47.406 KiB, 100%, 1.804 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           37 / 42, 88%
+Elapsed time:        24.5s
+Transferring:
+ * memories.lance/_transa…-b961-9d36d884d00d.txn:100% /126, 62/s, 0s
+ * memories.lance/_transa…-88d2-677d7f8e9b81.txn:100% /126, 125/s, 0s
+ * memories.lance/_transa…-9377-5b84ceb454b9.txn:100% /126, 125/s, 0s
+ * memories.lance/_transa…-a6f2-0f7779873b08.txn:100% /126, 0/s, -Transferred:   	   47.283 KiB / 47.406 KiB, 100%, 1.698 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           38 / 42, 90%
+Elapsed time:        25.0s
+Transferring:
+ * memories.lance/_transa…-b961-9d36d884d00d.txn:100% /126, 62/s, 0s
+ * memories.lance/_transa…-9377-5b84ceb454b9.txn:100% /126, 62/s, 0s
+ * memories.lance/_transa…-a6f2-0f7779873b08.txn:100% /126, 0/s, -
+ * memories.lance/_transa…-9d96-576d23c68d6f.txn:  0% /126, 0/s, -Transferred:   	   47.406 KiB / 47.406 KiB, 100%, 1.698 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           39 / 42, 93%
+Elapsed time:        25.5s
+Transferring:
+ * memories.lance/_transa…-9377-5b84ceb454b9.txn:100% /126, 62/s, 0s
+ * memories.lance/_transa…-a6f2-0f7779873b08.txn:100% /126, 125/s, 0s
+ * memories.lance/_transa…-9d96-576d23c68d6f.txn:100% /126, 0/s, -Transferred:   	   47.406 KiB / 47.406 KiB, 100%, 1.600 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           40 / 42, 95%
+Elapsed time:        26.0s
+Transferring:
+ * memories.lance/_transa…-9377-5b84ceb454b9.txn:100% /126, 41/s, 0s
+ * memories.lance/_transa…-9d96-576d23c68d6f.txn:100% /126, 125/s, 0sTransferred:   	   47.406 KiB / 47.406 KiB, 100%, 1.600 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           42 / 42, 100%
+Elapsed time:        26.5sTransferred:   	   47.406 KiB / 47.406 KiB, 100%, 1.600 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           42 / 42, 100%
+Elapsed time:        27.0sTransferred:   	   47.406 KiB / 47.406 KiB, 100%, 1.600 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           42 / 42, 100%
+Elapsed time:        27.5sTransferred:   	   47.406 KiB / 47.406 KiB, 100%, 1.600 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 46
+Transferred:           42 / 42, 100%
+Elapsed time:        27.6s
+📦 Syncing: workspace/MEMORY.md
+Transferred:   	          0 B / 15.568 KiB, 0%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         0.2s
+Transferring:
+ *                                     MEMORY.md:  0% /15.568Ki, 0/s, -Transferred:   	          0 B / 15.568 KiB, 0%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         0.7s
+Transferring:
+ *                                     MEMORY.md:  0% /15.568Ki, 0/s, -Transferred:   	   15.568 KiB / 15.568 KiB, 100%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         1.2s
+Transferring:
+ *                                     MEMORY.md:100% /15.568Ki, 0/s, -Transferred:   	   15.568 KiB / 15.568 KiB, 100%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         1.7s
+Transferring:
+ *                                     MEMORY.md:100% /15.568Ki, 0/s, -Transferred:   	   15.568 KiB / 31.137 KiB, 50%, 7.784 KiB/s, ETA 1s
+Transferred:            0 / 1, 0%
+Elapsed time:         2.2s
+Transferring:
+ *                                     MEMORY.md:  0% /15.568Ki, 0/s, -Transferred:   	   31.137 KiB / 31.137 KiB, 100%, 7.784 KiB/s, ETA 0s
+Transferred:            0 / 1, 0%
+Elapsed time:         2.7s
+Transferring:
+ *                                     MEMORY.md:100% /15.568Ki, 0/s, -Transferred:   	   31.137 KiB / 46.705 KiB, 67%, 10.378 KiB/s, ETA 1s
+Transferred:            0 / 1, 0%
+Elapsed time:         3.2s
+Transferring:
+ *                                     MEMORY.md:  0% /15.568Ki, 0/s, -Transferred:   	   31.137 KiB / 46.705 KiB, 67%, 10.378 KiB/s, ETA 1s
+Transferred:            0 / 1, 0%
+Elapsed time:         3.7s
+Transferring:
+ *                                     MEMORY.md:  0% /15.568Ki, 0/s, -Transferred:   	   46.705 KiB / 62.273 KiB, 75%, 11.676 KiB/s, ETA 1s
+Transferred:            0 / 1, 0%
+Elapsed time:         4.2s
+Transferring:
+ *                                     MEMORY.md:  0% /15.568Ki, 0/s, -Transferred:   	   46.705 KiB / 62.273 KiB, 75%, 11.676 KiB/s, ETA 1s
+Transferred:            0 / 1, 0%
+Elapsed time:         4.7s
+Transferring:
+ *                                     MEMORY.md:  0% /15.568Ki, 0/s, -Transferred:   	   46.705 KiB / 62.273 KiB, 75%, 9.341 KiB/s, ETA 1s
+Transferred:            0 / 1, 0%
+Elapsed time:         5.2s
+Transferring:
+ *                                     MEMORY.md:  0% /15.568Ki, 0/s, -Transferred:   	   46.705 KiB / 62.273 KiB, 75%, 9.341 KiB/s, ETA 1s
+Transferred:            0 / 1, 0%
+Elapsed time:         5.7s
+Transferring:
+ *                                     MEMORY.md:  0% /15.568Ki, 0/s, -Transferred:   	   46.705 KiB / 62.273 KiB, 75%, 7.784 KiB/s, ETA 1s
+Transferred:            0 / 1, 0%
+Elapsed time:         6.2s
+Transferring:
+ *                                     MEMORY.md:  0% /15.568Ki, 0/s, -Transferred:   	   62.273 KiB / 62.273 KiB, 100%, 7.784 KiB/s, ETA 0s
+Transferred:            0 / 1, 0%
+Elapsed time:         6.7s
+Transferring:
+ *                                     MEMORY.md:100% /15.568Ki, 0/s, -Transferred:   	   62.273 KiB / 62.273 KiB, 100%, 8.896 KiB/s, ETA 0s
+Transferred:            0 / 1, 0%
+Elapsed time:         7.2s
+Transferring:
+ *                                     MEMORY.md:100% /15.568Ki, 5.189Ki/s, 0sTransferred:   	   62.273 KiB / 62.273 KiB, 100%, 8.896 KiB/s, ETA 0s
+Transferred:            0 / 1, 0%
+Elapsed time:         7.7s
+Transferring:
+ *                                     MEMORY.md:100% /15.568Ki, 5.189Ki/s, 0sTransferred:   	   62.273 KiB / 62.273 KiB, 100%, 7.784 KiB/s, ETA 0s
+Transferred:            0 / 1, 0%
+Elapsed time:         8.2s
+Transferring:
+ *                                     MEMORY.md:100% /15.568Ki, 3.892Ki/s, 0sTransferred:   	   62.273 KiB / 62.273 KiB, 100%, 7.784 KiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         8.3s
+📦 Syncing: workspace/IDENTITY.md
+Transferred:   	          0 B / 1.117 KiB, 0%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         0.2s
+Transferring:
+ *                                   IDENTITY.md:  0% /1.117Ki, 0/s, -Transferred:   	          0 B / 1.117 KiB, 0%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         0.7s
+Transferring:
+ *                                   IDENTITY.md:  0% /1.117Ki, 0/s, -Transferred:   	          0 B / 1.117 KiB, 0%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         1.2s
+Transferring:
+ *                                   IDENTITY.md:  0% /1.117Ki, 0/s, -Transferred:   	    1.117 KiB / 1.117 KiB, 100%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         1.7s
+Transferring:
+ *                                   IDENTITY.md:100% /1.117Ki, 0/s, -Transferred:   	    1.117 KiB / 1.117 KiB, 100%, 571 B/s, ETA 0s
+Transferred:            0 / 1, 0%
+Elapsed time:         2.2s
+Transferring:
+ *                                   IDENTITY.md:100% /1.117Ki, 572/s, 0sTransferred:   	    1.117 KiB / 1.117 KiB, 100%, 571 B/s, ETA 0s
+Transferred:            0 / 1, 0%
+Elapsed time:         2.7s
+Transferring:
+ *                                   IDENTITY.md:100% /1.117Ki, 572/s, 0sTransferred:   	    1.117 KiB / 1.117 KiB, 100%, 381 B/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         3.1s
+📦 Syncing: workspace/USER.md
+Transferred:   	          0 B / 1.262 KiB, 0%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         0.2s
+Transferring:
+ *                                       USER.md:  0% /1.262Ki, 0/s, -Transferred:   	          0 B / 1.262 KiB, 0%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         0.7s
+Transferring:
+ *                                       USER.md:  0% /1.262Ki, 0/s, -Transferred:   	    1.262 KiB / 1.262 KiB, 100%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         1.2s
+Transferring:
+ *                                       USER.md:100% /1.262Ki, 0/s, -Transferred:   	    1.262 KiB / 1.262 KiB, 100%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         1.7s
+Transferring:
+ *                                       USER.md:100% /1.262Ki, 0/s, -Transferred:   	    1.262 KiB / 1.262 KiB, 100%, 645 B/s, ETA 0s
+Transferred:            0 / 1, 0%
+Elapsed time:         2.2s
+Transferring:
+ *                                       USER.md:100% /1.262Ki, 646/s, 0sTransferred:   	    1.262 KiB / 1.262 KiB, 100%, 645 B/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.6s
+📦 Syncing: workspace/SOUL.md
+Transferred:   	          0 B / 1.884 KiB, 0%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         0.2s
+Transferring:
+ *                                       SOUL.md:  0% /1.884Ki, 0/s, -Transferred:   	          0 B / 1.884 KiB, 0%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         0.7s
+Transferring:
+ *                                       SOUL.md:  0% /1.884Ki, 0/s, -Transferred:   	    1.884 KiB / 1.884 KiB, 100%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         1.2s
+Transferring:
+ *                                       SOUL.md:100% /1.884Ki, 0/s, -Transferred:   	    1.884 KiB / 1.884 KiB, 100%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         1.7s
+Transferring:
+ *                                       SOUL.md:100% /1.884Ki, 0/s, -Transferred:   	    1.884 KiB / 1.884 KiB, 100%, 964 B/s, ETA 0s
+Transferred:            0 / 1, 0%
+Elapsed time:         2.2s
+Transferring:
+ *                                       SOUL.md:100% /1.884Ki, 964/s, 0sTransferred:   	    1.884 KiB / 1.884 KiB, 100%, 964 B/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         2.4s
+
+=== Backup Complete ===
+Location: gdrive:OpenClawBackup/20260302/

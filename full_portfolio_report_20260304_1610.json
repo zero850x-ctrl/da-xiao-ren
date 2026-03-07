@@ -1,0 +1,74 @@
+{
+  "timestamp": "2026-03-04 16:10:29",
+  "portfolio": [
+    {
+      "code": "00992",
+      "name": "聯想集團",
+      "category": "科技股",
+      "position": 26000,
+      "buy_price": 8.59,
+      "current_price": 9.17,
+      "notes": "重點持倉，正在測試關鍵支撐位"
+    },
+    {
+      "code": "00005",
+      "name": "匯豐控股",
+      "category": "銀行股",
+      "position": "持有",
+      "buy_price": 59.4,
+      "current_price": 134.2,
+      "notes": "收息股，長期表現優秀"
+    },
+    {
+      "code": "01398",
+      "name": "工商銀行",
+      "category": "銀行股",
+      "position": "持有",
+      "buy_price": 4.46,
+      "current_price": 6.4,
+      "notes": "收息股，穩定增長"
+    },
+    {
+      "code": "02638",
+      "name": "港燈-SS",
+      "category": "公用事業",
+      "position": "持有",
+      "buy_price": 4.85,
+      "current_price": 6.97,
+      "notes": "防守型收息股"
+    },
+    {
+      "code": "09618",
+      "name": "京東集團",
+      "category": "科技股",
+      "position": "持有",
+      "buy_price": 120.0,
+      "current_price": 105.9,
+      "notes": "當前虧損，可考慮成本平均"
+    },
+    {
+      "code": "00700",
+      "name": "騰訊控股",
+      "category": "科技股",
+      "position": "監控",
+      "current_price": 522.0,
+      "notes": "市場風向標，密切監控"
+    },
+    {
+      "code": "09988",
+      "name": "阿里巴巴",
+      "category": "科技股",
+      "position": "監控",
+      "current_price": 148.7,
+      "notes": "科技股代表，跟隨大市"
+    }
+  ],
+  "summary": {
+    "total_stocks": 7,
+    "stocks_with_profit": 4,
+    "stocks_with_loss": 1,
+    "total_investment": 223340.0,
+    "total_profit": 15080.000000000002,
+    "total_return_pct": 6.752037252619325
+  }
+}

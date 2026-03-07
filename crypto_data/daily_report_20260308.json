@@ -1,0 +1,2683 @@
+{
+  "date": "2026-03-08T07:10:30.176600",
+  "total_value": 337010.41258221987,
+  "positions": [
+    {
+      "asset": "BNB",
+      "quantity": 1.0,
+      "price": 620.46,
+      "value": 620.46
+    },
+    {
+      "asset": "BTC",
+      "quantity": 1.0,
+      "price": 67348.23,
+      "value": 67348.23
+    },
+    {
+      "asset": "ETH",
+      "quantity": 1.0,
+      "price": 1968.96,
+      "value": 1968.96
+    },
+    {
+      "asset": "LTC",
+      "quantity": 8.0,
+      "price": 53.44,
+      "value": 427.52
+    },
+    {
+      "asset": "TRX",
+      "quantity": 1756.0,
+      "price": 0.2864,
+      "value": 502.91839999999996
+    },
+    {
+      "asset": "XRP",
+      "quantity": 318.0,
+      "price": 1.3549,
+      "value": 430.8582
+    },
+    {
+      "asset": "NEO",
+      "quantity": 158.0,
+      "price": 2.486,
+      "value": 392.788
+    },
+    {
+      "asset": "GAS",
+      "quantity": 268.0,
+      "price": 1.52,
+      "value": 407.36
+    },
+    {
+      "asset": "LRC",
+      "quantity": 12438.0,
+      "price": 0.0308,
+      "value": 383.0904
+    },
+    {
+      "asset": "KNC",
+      "quantity": 2804.0,
+      "price": 0.1277,
+      "value": 358.0708
+    },
+    {
+      "asset": "IOTA",
+      "quantity": 6763.0,
+      "price": 0.0639,
+      "value": 432.15569999999997
+    },
+    {
+      "asset": "LINK",
+      "quantity": 52.0,
+      "price": 8.68,
+      "value": 451.36
+    },
+    {
+      "asset": "MTL",
+      "quantity": 1624.0,
+      "price": 0.265,
+      "value": 430.36
+    },
+    {
+      "asset": "ETC",
+      "quantity": 52.0,
+      "price": 8.08,
+      "value": 420.16
+    },
+    {
+      "asset": "ZEC",
+      "quantity": 1.0,
+      "price": 196.01,
+      "value": 196.01
+    },
+    {
+      "asset": "DASH",
+      "quantity": 12.0,
+      "price": 31.8,
+      "value": 381.6
+    },
+    {
+      "asset": "REQ",
+      "quantity": 5524.0,
+      "price": 0.0624,
+      "value": 344.69759999999997
+    },
+    {
+      "asset": "BAT",
+      "quantity": 4155.0,
+      "price": 0.0984,
+      "value": 408.85200000000003
+    },
+    {
+      "asset": "LSK",
+      "quantity": 3521.0,
+      "price": 0.129,
+      "value": 454.209
+    },
+    {
+      "asset": "MANA",
+      "quantity": 4522.0,
+      "price": 0.0915,
+      "value": 413.763
+    },
+    {
+      "asset": "ADX",
+      "quantity": 5913.0,
+      "price": 0.0708,
+      "value": 418.6404
+    },
+    {
+      "asset": "ADA",
+      "quantity": 1710.0,
+      "price": 0.2541,
+      "value": 434.51099999999997
+    },
+    {
+      "asset": "XLM",
+      "quantity": 2899.0,
+      "price": 0.15,
+      "value": 434.84999999999997
+    },
+    {
+      "asset": "ICX",
+      "quantity": 11116.0,
+      "price": 0.0346,
+      "value": 384.61359999999996
+    },
+    {
+      "asset": "RLC",
+      "quantity": 1005.0,
+      "price": 0.373,
+      "value": 374.865
+    },
+    {
+      "asset": "STEEM",
+      "quantity": 9138.0,
+      "price": 0.0562,
+      "value": 513.5556
+    },
+    {
+      "asset": "ONT",
+      "quantity": 9679.0,
+      "price": 0.0406,
+      "value": 392.9674
+    },
+    {
+      "asset": "QTUM",
+      "quantity": 473.0,
+      "price": 0.877,
+      "value": 414.821
+    },
+    {
+      "asset": "WAN",
+      "quantity": 7402.0,
+      "price": 0.0656,
+      "value": 485.57120000000003
+    },
+    {
+      "asset": "TUSD",
+      "quantity": 10000.0,
+      "price": 0.9997,
+      "value": 9997.0
+    },
+    {
+      "asset": "ZEN",
+      "quantity": 73.0,
+      "price": 5.405,
+      "value": 394.565
+    },
+    {
+      "asset": "THETA",
+      "quantity": 2325.0,
+      "price": 0.179,
+      "value": 416.17499999999995
+    },
+    {
+      "asset": "IOTX",
+      "quantity": 18446.0,
+      "price": 0.00509,
+      "value": 93.89014
+    },
+    {
+      "asset": "ARDR",
+      "quantity": 9611.0,
+      "price": 0.0448,
+      "value": 430.5728
+    },
+    {
+      "asset": "VET",
+      "quantity": 18446.0,
+      "price": 0.00699,
+      "value": 128.93753999999998
+    },
+    {
+      "asset": "USDC",
+      "quantity": 10000.0,
+      "price": 1.0,
+      "value": 10000.0
+    },
+    {
+      "asset": "ONG",
+      "quantity": 7084.0,
+      "price": 0.0597,
+      "value": 422.9148
+    },
+    {
+      "asset": "HOT",
+      "quantity": 18446.0,
+      "price": 0.000393,
+      "value": 7.249278
+    },
+    {
+      "asset": "ZIL",
+      "quantity": 18446.0,
+      "price": 0.00407,
+      "value": 75.07522
+    },
+    {
+      "asset": "ZRX",
+      "quantity": 4406.0,
+      "price": 0.1018,
+      "value": 448.5308
+    },
+    {
+      "asset": "FET",
+      "quantity": 2767.0,
+      "price": 0.1421,
+      "value": 393.1907
+    },
+    {
+      "asset": "IOST",
+      "quantity": 18446.0,
+      "price": 0.001101,
+      "value": 20.309046
+    },
+    {
+      "asset": "CELR",
+      "quantity": 18446.0,
+      "price": 0.002473,
+      "value": 45.616958
+    },
+    {
+      "asset": "ENJ",
+      "quantity": 18446.0,
+      "price": 0.01778,
+      "value": 327.96988
+    },
+    {
+      "asset": "ATOM",
+      "quantity": 244.0,
+      "price": 1.786,
+      "value": 435.784
+    },
+    {
+      "asset": "TFUEL",
+      "quantity": 18446.0,
+      "price": 0.01316,
+      "value": 242.74936
+    },
+    {
+      "asset": "ONE",
+      "quantity": 18446.0,
+      "price": 0.00236,
+      "value": 43.532560000000004
+    },
+    {
+      "asset": "ALGO",
+      "quantity": 4741.0,
+      "price": 0.0833,
+      "value": 394.9253
+    },
+    {
+      "asset": "DOGE",
+      "quantity": 4713.0,
+      "price": 0.08986,
+      "value": 423.51018
+    },
+    {
+      "asset": "DUSK",
+      "quantity": 4749.0,
+      "price": 0.0877,
+      "value": 416.4873
+    },
+    {
+      "asset": "ANKR",
+      "quantity": 18446.0,
+      "price": 0.00434,
+      "value": 80.05564
+    },
+    {
+      "asset": "WIN",
+      "quantity": 18446.0,
+      "price": 2.116e-05,
+      "value": 0.39031736
+    },
+    {
+      "asset": "COS",
+      "quantity": 18446.0,
+      "price": 0.000834,
+      "value": 15.383964
+    },
+    {
+      "asset": "DENT",
+      "quantity": 18446.0,
+      "price": 0.000209,
+      "value": 3.855214
+    },
+    {
+      "asset": "FUN",
+      "quantity": 18446.0,
+      "price": 0.001161,
+      "value": 21.415806
+    },
+    {
+      "asset": "CVC",
+      "quantity": 14558.0,
+      "price": 0.02971,
+      "value": 432.51818000000003
+    },
+    {
+      "asset": "CHZ",
+      "quantity": 11467.0,
+      "price": 0.03434,
+      "value": 393.77678000000003
+    },
+    {
+      "asset": "BAND",
+      "quantity": 1976.0,
+      "price": 0.211,
+      "value": 416.936
+    },
+    {
+      "asset": "XTZ",
+      "quantity": 1050.0,
+      "price": 0.3602,
+      "value": 378.21000000000004
+    },
+    {
+      "asset": "RVN",
+      "quantity": 18446.0,
+      "price": 0.00547,
+      "value": 100.89962
+    },
+    {
+      "asset": "HBAR",
+      "quantity": 5400.0,
+      "price": 0.09563,
+      "value": 516.402
+    },
+    {
+      "asset": "NKN",
+      "quantity": 18446.0,
+      "price": 0.0073,
+      "value": 134.6558
+    },
+    {
+      "asset": "STX",
+      "quantity": 1712.0,
+      "price": 0.2578,
+      "value": 441.3536
+    },
+    {
+      "asset": "KAVA",
+      "quantity": 8025.0,
+      "price": 0.065,
+      "value": 521.625
+    },
+    {
+      "asset": "ARPA",
+      "quantity": 18446.0,
+      "price": 0.00973,
+      "value": 179.47958000000003
+    },
+    {
+      "asset": "BCH",
+      "quantity": 1.0,
+      "price": 447.6,
+      "value": 447.6
+    },
+    {
+      "asset": "FTT",
+      "quantity": 1461.0,
+      "price": 0.2696,
+      "value": 393.8856
+    },
+    {
+      "asset": "EUR",
+      "quantity": 422.0,
+      "price": 1.1596,
+      "value": 489.3512
+    },
+    {
+      "asset": "OGN",
+      "quantity": 18446.0,
+      "price": 0.01946,
+      "value": 358.95916000000005
+    },
+    {
+      "asset": "BNT",
+      "quantity": 1572.0,
+      "price": 0.2795,
+      "value": 439.374
+    },
+    {
+      "asset": "MBL",
+      "quantity": 18446.0,
+      "price": 0.000894,
+      "value": 16.490724
+    },
+    {
+      "asset": "COTI",
+      "quantity": 18446.0,
+      "price": 0.01178,
+      "value": 217.29388
+    },
+    {
+      "asset": "DATA",
+      "quantity": 18446.0,
+      "price": 0.0009,
+      "value": 16.601399999999998
+    },
+    {
+      "asset": "SOL",
+      "quantity": 5.0,
+      "price": 83.18,
+      "value": 415.90000000000003
+    },
+    {
+      "asset": "CTSI",
+      "quantity": 17242.0,
+      "price": 0.0235,
+      "value": 405.187
+    },
+    {
+      "asset": "HIVE",
+      "quantity": 6297.0,
+      "price": 0.0613,
+      "value": 386.0061
+    },
+    {
+      "asset": "CHR",
+      "quantity": 16722.0,
+      "price": 0.0155,
+      "value": 259.191
+    },
+    {
+      "asset": "MDT",
+      "quantity": 18446.0,
+      "price": 0.0101,
+      "value": 186.3046
+    },
+    {
+      "asset": "COMP",
+      "quantity": 25.0,
+      "price": 17.31,
+      "value": 432.74999999999994
+    },
+    {
+      "asset": "SC",
+      "quantity": 18446.0,
+      "price": 0.001045,
+      "value": 19.276069999999997
+    },
+    {
+      "asset": "SNX",
+      "quantity": 1520.0,
+      "price": 0.313,
+      "value": 475.76
+    },
+    {
+      "asset": "VTHO",
+      "quantity": 18446.0,
+      "price": 0.00057,
+      "value": 10.51422
+    },
+    {
+      "asset": "DGB",
+      "quantity": 18446.0,
+      "price": 0.00406,
+      "value": 74.89076
+    },
+    {
+      "asset": "SXP",
+      "quantity": 15362.0,
+      "price": 0.0207,
+      "value": 317.9934
+    },
+    {
+      "asset": "RUNE",
+      "quantity": 1112.0,
+      "price": 0.417,
+      "value": 463.704
+    },
+    {
+      "asset": "DCR",
+      "quantity": 25.0,
+      "price": 28.31,
+      "value": 707.75
+    },
+    {
+      "asset": "STORJ",
+      "quantity": 4519.0,
+      "price": 0.0899,
+      "value": 406.25809999999996
+    },
+    {
+      "asset": "AVA",
+      "quantity": 1877.0,
+      "price": 0.189,
+      "value": 354.753
+    },
+    {
+      "asset": "YFI",
+      "quantity": 1.0,
+      "price": 2482.0,
+      "value": 2482.0
+    },
+    {
+      "asset": "JST",
+      "quantity": 12337.0,
+      "price": 0.04943,
+      "value": 609.81791
+    },
+    {
+      "asset": "CRV",
+      "quantity": 1790.0,
+      "price": 0.2326,
+      "value": 416.354
+    },
+    {
+      "asset": "SAND",
+      "quantity": 5100.0,
+      "price": 0.0788,
+      "value": 401.88
+    },
+    {
+      "asset": "NMR",
+      "quantity": 51.0,
+      "price": 7.97,
+      "value": 406.46999999999997
+    },
+    {
+      "asset": "DOT",
+      "quantity": 337.0,
+      "price": 1.441,
+      "value": 485.617
+    },
+    {
+      "asset": "LUNA",
+      "quantity": 7602.0,
+      "price": 0.0611,
+      "value": 464.48220000000003
+    },
+    {
+      "asset": "RSR",
+      "quantity": 18446.0,
+      "price": 0.00158,
+      "value": 29.14468
+    },
+    {
+      "asset": "PAXG",
+      "quantity": 1.0,
+      "price": 5175.68,
+      "value": 5175.68
+    },
+    {
+      "asset": "TRB",
+      "quantity": 31.0,
+      "price": 14.83,
+      "value": 459.73
+    },
+    {
+      "asset": "WBTC",
+      "quantity": 1.0,
+      "price": 67105.3,
+      "value": 67105.3
+    },
+    {
+      "asset": "SUSHI",
+      "quantity": 2154.0,
+      "price": 0.1958,
+      "value": 421.7532
+    },
+    {
+      "asset": "KSM",
+      "quantity": 100.0,
+      "price": 4.5,
+      "value": 450.0
+    },
+    {
+      "asset": "EGLD",
+      "quantity": 103.0,
+      "price": 4.07,
+      "value": 419.21000000000004
+    },
+    {
+      "asset": "DIA",
+      "quantity": 2343.0,
+      "price": 0.1804,
+      "value": 422.6772
+    },
+    {
+      "asset": "FIO",
+      "quantity": 18446.0,
+      "price": 0.00806,
+      "value": 148.67476
+    },
+    {
+      "asset": "UMA",
+      "quantity": 894.0,
+      "price": 0.405,
+      "value": 362.07000000000005
+    },
+    {
+      "asset": "BEL",
+      "quantity": 4518.0,
+      "price": 0.095,
+      "value": 429.21
+    },
+    {
+      "asset": "UNI",
+      "quantity": 131.0,
+      "price": 3.758,
+      "value": 492.298
+    },
+    {
+      "asset": "OXT",
+      "quantity": 18446.0,
+      "price": 0.0159,
+      "value": 293.2914
+    },
+    {
+      "asset": "SUN",
+      "quantity": 18446.0,
+      "price": 0.01595,
+      "value": 294.21369999999996
+    },
+    {
+      "asset": "AVAX",
+      "quantity": 50.0,
+      "price": 8.9,
+      "value": 445.0
+    },
+    {
+      "asset": "CAKE",
+      "quantity": 322.0,
+      "price": 1.316,
+      "value": 423.752
+    },
+    {
+      "asset": "UTK",
+      "quantity": 18446.0,
+      "price": 0.00893,
+      "value": 164.72278
+    },
+    {
+      "asset": "XVS",
+      "quantity": 142.0,
+      "price": 2.99,
+      "value": 424.58000000000004
+    },
+    {
+      "asset": "AAVE",
+      "quantity": 3.0,
+      "price": 108.41,
+      "value": 325.23
+    },
+    {
+      "asset": "NEAR",
+      "quantity": 429.0,
+      "price": 1.213,
+      "value": 520.3770000000001
+    },
+    {
+      "asset": "FIL",
+      "quantity": 465.0,
+      "price": 0.952,
+      "value": 442.68
+    },
+    {
+      "asset": "INJ",
+      "quantity": 140.0,
+      "price": 2.831,
+      "value": 396.34
+    },
+    {
+      "asset": "AUDIO",
+      "quantity": 18446.0,
+      "price": 0.0225,
+      "value": 415.03499999999997
+    },
+    {
+      "asset": "CTK",
+      "quantity": 2298.0,
+      "price": 0.1633,
+      "value": 375.2634
+    },
+    {
+      "asset": "AXS",
+      "quantity": 323.0,
+      "price": 1.101,
+      "value": 355.623
+    },
+    {
+      "asset": "STRAX",
+      "quantity": 18446.0,
+      "price": 0.01384,
+      "value": 255.29264
+    },
+    {
+      "asset": "ROSE",
+      "quantity": 18446.0,
+      "price": 0.01155,
+      "value": 213.0513
+    },
+    {
+      "asset": "SKL",
+      "quantity": 18446.0,
+      "price": 0.0063,
+      "value": 116.2098
+    },
+    {
+      "asset": "GLM",
+      "quantity": 2310.0,
+      "price": 0.127,
+      "value": 293.37
+    },
+    {
+      "asset": "GRT",
+      "quantity": 17106.0,
+      "price": 0.02524,
+      "value": 431.75543999999996
+    },
+    {
+      "asset": "JUV",
+      "quantity": 815.0,
+      "price": 0.573,
+      "value": 466.99499999999995
+    },
+    {
+      "asset": "PSG",
+      "quantity": 717.0,
+      "price": 0.68,
+      "value": 487.56000000000006
+    },
+    {
+      "asset": "1INCH",
+      "quantity": 4503.0,
+      "price": 0.0912,
+      "value": 410.6736
+    },
+    {
+      "asset": "OG",
+      "quantity": 125.0,
+      "price": 2.737,
+      "value": 342.125
+    },
+    {
+      "asset": "ATM",
+      "quantity": 577.0,
+      "price": 1.214,
+      "value": 700.478
+    },
+    {
+      "asset": "ASR",
+      "quantity": 353.0,
+      "price": 1.365,
+      "value": 481.84499999999997
+    },
+    {
+      "asset": "CELO",
+      "quantity": 5592.0,
+      "price": 0.0739,
+      "value": 413.24879999999996
+    },
+    {
+      "asset": "RIF",
+      "quantity": 11899.0,
+      "price": 0.0324,
+      "value": 385.5276
+    },
+    {
+      "asset": "TRU",
+      "quantity": 18446.0,
+      "price": 0.0047,
+      "value": 86.6962
+    },
+    {
+      "asset": "CKB",
+      "quantity": 18446.0,
+      "price": 0.001437,
+      "value": 26.506901999999997
+    },
+    {
+      "asset": "TWT",
+      "quantity": 735.0,
+      "price": 0.4752,
+      "value": 349.272
+    },
+    {
+      "asset": "SFP",
+      "quantity": 1736.0,
+      "price": 0.261,
+      "value": 453.096
+    },
+    {
+      "asset": "DODO",
+      "quantity": 18446.0,
+      "price": 0.0136,
+      "value": 250.86559999999997
+    },
+    {
+      "asset": "ACM",
+      "quantity": 1123.0,
+      "price": 0.421,
+      "value": 472.78299999999996
+    },
+    {
+      "asset": "OM",
+      "quantity": 10274.0,
+      "price": 0.0669,
+      "value": 687.3306
+    },
+    {
+      "asset": "POND",
+      "quantity": 18446.0,
+      "price": 0.00231,
+      "value": 42.61026
+    },
+    {
+      "asset": "DEGO",
+      "quantity": 1388.0,
+      "price": 0.379,
+      "value": 526.052
+    },
+    {
+      "asset": "ALICE",
+      "quantity": 3842.0,
+      "price": 0.1167,
+      "value": 448.3614
+    },
+    {
+      "asset": "SUPER",
+      "quantity": 3499.0,
+      "price": 0.1114,
+      "value": 389.7886
+    },
+    {
+      "asset": "CFX",
+      "quantity": 9082.0,
+      "price": 0.0484,
+      "value": 439.5688
+    },
+    {
+      "asset": "TKO",
+      "quantity": 7240.0,
+      "price": 0.0532,
+      "value": 385.168
+    },
+    {
+      "asset": "PUNDIX",
+      "quantity": 2734.0,
+      "price": 0.149,
+      "value": 407.366
+    },
+    {
+      "asset": "TLM",
+      "quantity": 18446.0,
+      "price": 0.001606,
+      "value": 29.624276000000002
+    },
+    {
+      "asset": "BAR",
+      "quantity": 1013.0,
+      "price": 0.495,
+      "value": 501.435
+    },
+    {
+      "asset": "FORTH",
+      "quantity": 367.0,
+      "price": 0.838,
+      "value": 307.546
+    },
+    {
+      "asset": "SLP",
+      "quantity": 18446.0,
+      "price": 0.000518,
+      "value": 9.555028
+    },
+    {
+      "asset": "SHIB",
+      "quantity": 18446.0,
+      "price": 5.44e-06,
+      "value": 0.10034623999999999
+    },
+    {
+      "asset": "ICP",
+      "quantity": 187.0,
+      "price": 2.451,
+      "value": 458.337
+    },
+    {
+      "asset": "AR",
+      "quantity": 202.0,
+      "price": 1.55,
+      "value": 313.1
+    },
+    {
+      "asset": "MASK",
+      "quantity": 939.0,
+      "price": 0.429,
+      "value": 402.831
+    },
+    {
+      "asset": "LPT",
+      "quantity": 192.0,
+      "price": 2.218,
+      "value": 425.856
+    },
+    {
+      "asset": "XVG",
+      "quantity": 18446.0,
+      "price": 0.005216,
+      "value": 96.214336
+    },
+    {
+      "asset": "ATA",
+      "quantity": 18446.0,
+      "price": 0.0112,
+      "value": 206.5952
+    },
+    {
+      "asset": "GTC",
+      "quantity": 4755.0,
+      "price": 0.079,
+      "value": 375.645
+    },
+    {
+      "asset": "PHA",
+      "quantity": 16616.0,
+      "price": 0.0359,
+      "value": 596.5144
+    },
+    {
+      "asset": "MLN",
+      "quantity": 132.0,
+      "price": 3.72,
+      "value": 491.04
+    },
+    {
+      "asset": "DEXE",
+      "quantity": 224.0,
+      "price": 3.622,
+      "value": 811.328
+    },
+    {
+      "asset": "C98",
+      "quantity": 18446.0,
+      "price": 0.0249,
+      "value": 459.30539999999996
+    },
+    {
+      "asset": "QNT",
+      "quantity": 7.0,
+      "price": 65.23,
+      "value": 456.61
+    },
+    {
+      "asset": "FLOW",
+      "quantity": 10152.0,
+      "price": 0.0416,
+      "value": 422.3232
+    },
+    {
+      "asset": "MINA",
+      "quantity": 7106.0,
+      "price": 0.0544,
+      "value": 386.5664
+    },
+    {
+      "asset": "RAY",
+      "quantity": 756.0,
+      "price": 0.577,
+      "value": 436.212
+    },
+    {
+      "asset": "FARM",
+      "quantity": 35.0,
+      "price": 12.54,
+      "value": 438.9
+    },
+    {
+      "asset": "QUICK",
+      "quantity": 18446.0,
+      "price": 0.00992,
+      "value": 182.98432
+    },
+    {
+      "asset": "MBOX",
+      "quantity": 18446.0,
+      "price": 0.0159,
+      "value": 293.2914
+    },
+    {
+      "asset": "GHST",
+      "quantity": 4600.0,
+      "price": 0.108,
+      "value": 496.8
+    },
+    {
+      "asset": "WAXP",
+      "quantity": 18446.0,
+      "price": 0.00613,
+      "value": 113.07398
+    },
+    {
+      "asset": "GNO",
+      "quantity": 4.0,
+      "price": 125.93,
+      "value": 503.72
+    },
+    {
+      "asset": "XEC",
+      "quantity": 18446.0,
+      "price": 6.79e-06,
+      "value": 0.12524834
+    },
+    {
+      "asset": "DYDX",
+      "quantity": 3905.0,
+      "price": 0.0807,
+      "value": 315.13349999999997
+    },
+    {
+      "asset": "IDEX",
+      "quantity": 18446.0,
+      "price": 0.00676,
+      "value": 124.69496000000001
+    },
+    {
+      "asset": "USDP",
+      "quantity": 499.0,
+      "price": 0.9998,
+      "value": 498.9002
+    },
+    {
+      "asset": "GALA",
+      "quantity": 18446.0,
+      "price": 0.00326,
+      "value": 60.133959999999995
+    },
+    {
+      "asset": "ILV",
+      "quantity": 116.0,
+      "price": 3.49,
+      "value": 404.84000000000003
+    },
+    {
+      "asset": "YGG",
+      "quantity": 10961.0,
+      "price": 0.0376,
+      "value": 412.1336
+    },
+    {
+      "asset": "SYS",
+      "quantity": 18446.0,
+      "price": 0.01075,
+      "value": 198.29449999999997
+    },
+    {
+      "asset": "DF",
+      "quantity": 18446.0,
+      "price": 0.00164,
+      "value": 30.25144
+    },
+    {
+      "asset": "FIDA",
+      "quantity": 18446.0,
+      "price": 0.0151,
+      "value": 278.5346
+    },
+    {
+      "asset": "AGLD",
+      "quantity": 2136.0,
+      "price": 0.268,
+      "value": 572.448
+    },
+    {
+      "asset": "RAD",
+      "quantity": 1831.0,
+      "price": 0.232,
+      "value": 424.79200000000003
+    },
+    {
+      "asset": "RARE",
+      "quantity": 18446.0,
+      "price": 0.0159,
+      "value": 293.2914
+    },
+    {
+      "asset": "LAZIO",
+      "quantity": 526.0,
+      "price": 0.694,
+      "value": 365.044
+    },
+    {
+      "asset": "CHESS",
+      "quantity": 18446.0,
+      "price": 0.00275,
+      "value": 50.726499999999994
+    },
+    {
+      "asset": "AUCTION",
+      "quantity": 102.0,
+      "price": 4.73,
+      "value": 482.46000000000004
+    },
+    {
+      "asset": "MOVR",
+      "quantity": 286.0,
+      "price": 1.398,
+      "value": 399.828
+    },
+    {
+      "asset": "CITY",
+      "quantity": 903.0,
+      "price": 0.578,
+      "value": 521.934
+    },
+    {
+      "asset": "ENS",
+      "quantity": 74.0,
+      "price": 5.82,
+      "value": 430.68
+    },
+    {
+      "asset": "QI",
+      "quantity": 18446.0,
+      "price": 0.00188,
+      "value": 34.67848
+    },
+    {
+      "asset": "PORTO",
+      "quantity": 460.0,
+      "price": 1.021,
+      "value": 469.65999999999997
+    },
+    {
+      "asset": "POWR",
+      "quantity": 6913.0,
+      "price": 0.061,
+      "value": 421.693
+    },
+    {
+      "asset": "JASMY",
+      "quantity": 18446.0,
+      "price": 0.00539,
+      "value": 99.42394
+    },
+    {
+      "asset": "AMP",
+      "quantity": 18446.0,
+      "price": 0.001409,
+      "value": 25.990414
+    },
+    {
+      "asset": "PYR",
+      "quantity": 1467.0,
+      "price": 0.295,
+      "value": 432.765
+    },
+    {
+      "asset": "ALCX",
+      "quantity": 84.0,
+      "price": 6.89,
+      "value": 578.76
+    },
+    {
+      "asset": "SANTOS",
+      "quantity": 239.0,
+      "price": 1.217,
+      "value": 290.863
+    },
+    {
+      "asset": "BICO",
+      "quantity": 17119.0,
+      "price": 0.0192,
+      "value": 328.6848
+    },
+    {
+      "asset": "FLUX",
+      "quantity": 6342.0,
+      "price": 0.0563,
+      "value": 357.0546
+    },
+    {
+      "asset": "HIGH",
+      "quantity": 3129.0,
+      "price": 0.133,
+      "value": 416.15700000000004
+    },
+    {
+      "asset": "CVX",
+      "quantity": 255.0,
+      "price": 2.17,
+      "value": 553.35
+    },
+    {
+      "asset": "PEOPLE",
+      "quantity": 18446.0,
+      "price": 0.00683,
+      "value": 125.98618
+    },
+    {
+      "asset": "SPELL",
+      "quantity": 18446.0,
+      "price": 0.0001721,
+      "value": 3.1745566000000003
+    },
+    {
+      "asset": "JOE",
+      "quantity": 11732.0,
+      "price": 0.0363,
+      "value": 425.8716
+    },
+    {
+      "asset": "ACH",
+      "quantity": 18446.0,
+      "price": 0.0069,
+      "value": 127.2774
+    },
+    {
+      "asset": "IMX",
+      "quantity": 2784.0,
+      "price": 0.1546,
+      "value": 430.40639999999996
+    },
+    {
+      "asset": "GLMR",
+      "quantity": 18446.0,
+      "price": 0.0122,
+      "value": 225.0412
+    },
+    {
+      "asset": "SCRT",
+      "quantity": 4596.0,
+      "price": 0.0748,
+      "value": 343.7808
+    },
+    {
+      "asset": "API3",
+      "quantity": 1511.0,
+      "price": 0.2748,
+      "value": 415.2228
+    },
+    {
+      "asset": "BTTC",
+      "quantity": 18446.0,
+      "price": 3.3e-07,
+      "value": 0.00608718
+    },
+    {
+      "asset": "ACA",
+      "quantity": 18446.0,
+      "price": 0.0018,
+      "value": 33.202799999999996
+    },
+    {
+      "asset": "XNO",
+      "quantity": 797.0,
+      "price": 0.529,
+      "value": 421.613
+    },
+    {
+      "asset": "WOO",
+      "quantity": 18446.0,
+      "price": 0.017,
+      "value": 313.58200000000005
+    },
+    {
+      "asset": "ALPINE",
+      "quantity": 1130.0,
+      "price": 0.412,
+      "value": 465.56
+    },
+    {
+      "asset": "T",
+      "quantity": 18446.0,
+      "price": 0.00643,
+      "value": 118.60778
+    },
+    {
+      "asset": "ASTR",
+      "quantity": 18446.0,
+      "price": 0.00779,
+      "value": 143.69434
+    },
+    {
+      "asset": "GMT",
+      "quantity": 18446.0,
+      "price": 0.0108,
+      "value": 199.2168
+    },
+    {
+      "asset": "APE",
+      "quantity": 3458.0,
+      "price": 0.0952,
+      "value": 329.20160000000004
+    },
+    {
+      "asset": "BIFI",
+      "quantity": 3.0,
+      "price": 118.8,
+      "value": 356.4
+    },
+    {
+      "asset": "NEXO",
+      "quantity": 630.0,
+      "price": 0.884,
+      "value": 556.92
+    },
+    {
+      "asset": "LDO",
+      "quantity": 1227.0,
+      "price": 0.284,
+      "value": 348.46799999999996
+    },
+    {
+      "asset": "OP",
+      "quantity": 2248.0,
+      "price": 0.116,
+      "value": 260.76800000000003
+    },
+    {
+      "asset": "STG",
+      "quantity": 3197.0,
+      "price": 0.1719,
+      "value": 549.5643
+    },
+    {
+      "asset": "LUNC",
+      "quantity": 18446.0,
+      "price": 4.044e-05,
+      "value": 0.7459562399999999
+    },
+    {
+      "asset": "GMX",
+      "quantity": 79.0,
+      "price": 6.71,
+      "value": 530.09
+    },
+    {
+      "asset": "POLYX",
+      "quantity": 10572.0,
+      "price": 0.0404,
+      "value": 427.1088
+    },
+    {
+      "asset": "APT",
+      "quantity": 402.0,
+      "price": 0.933,
+      "value": 375.06600000000003
+    },
+    {
+      "asset": "OSMO",
+      "quantity": 12142.0,
+      "price": 0.033,
+      "value": 400.68600000000004
+    },
+    {
+      "asset": "HFT",
+      "quantity": 18446.0,
+      "price": 0.0151,
+      "value": 278.5346
+    },
+    {
+      "asset": "PHB",
+      "quantity": 2808.0,
+      "price": 0.145,
+      "value": 407.15999999999997
+    },
+    {
+      "asset": "HOOK",
+      "quantity": 17183.0,
+      "price": 0.0189,
+      "value": 324.7587
+    },
+    {
+      "asset": "MAGIC",
+      "quantity": 7342.0,
+      "price": 0.0606,
+      "value": 444.9252
+    },
+    {
+      "asset": "RPL",
+      "quantity": 290.0,
+      "price": 1.8,
+      "value": 522.0
+    },
+    {
+      "asset": "GNS",
+      "quantity": 563.0,
+      "price": 0.774,
+      "value": 435.762
+    },
+    {
+      "asset": "SYN",
+      "quantity": 5567.0,
+      "price": 0.0467,
+      "value": 259.9789
+    },
+    {
+      "asset": "SSV",
+      "quantity": 125.0,
+      "price": 2.66,
+      "value": 332.5
+    },
+    {
+      "asset": "LQTY",
+      "quantity": 1592.0,
+      "price": 0.277,
+      "value": 440.98400000000004
+    },
+    {
+      "asset": "USTC",
+      "quantity": 18446.0,
+      "price": 0.00486,
+      "value": 89.64756
+    },
+    {
+      "asset": "PROM",
+      "quantity": 355.0,
+      "price": 1.032,
+      "value": 366.36
+    },
+    {
+      "asset": "QKC",
+      "quantity": 18446.0,
+      "price": 0.003152,
+      "value": 58.141791999999995
+    },
+    {
+      "asset": "ID",
+      "quantity": 8734.0,
+      "price": 0.0412,
+      "value": 359.8408
+    },
+    {
+      "asset": "ARB",
+      "quantity": 3736.0,
+      "price": 0.0965,
+      "value": 360.524
+    },
+    {
+      "asset": "RDNT",
+      "quantity": 18446.0,
+      "price": 0.00513,
+      "value": 94.62798
+    },
+    {
+      "asset": "EDU",
+      "quantity": 2879.0,
+      "price": 0.0999,
+      "value": 287.6121
+    },
+    {
+      "asset": "SUI",
+      "quantity": 452.0,
+      "price": 0.8933,
+      "value": 403.7716
+    },
+    {
+      "asset": "PEPE",
+      "quantity": 18446.0,
+      "price": 3.35e-06,
+      "value": 0.061794100000000005
+    },
+    {
+      "asset": "FLOKI",
+      "quantity": 18446.0,
+      "price": 2.759e-05,
+      "value": 0.50892514
+    },
+    {
+      "asset": "WBETH",
+      "quantity": 1.0,
+      "price": 2155.76,
+      "value": 2155.76
+    },
+    {
+      "asset": "MAV",
+      "quantity": 18446.0,
+      "price": 0.01413,
+      "value": 260.64198
+    },
+    {
+      "asset": "PENDLE",
+      "quantity": 331.0,
+      "price": 1.218,
+      "value": 403.158
+    },
+    {
+      "asset": "ARKM",
+      "quantity": 3671.0,
+      "price": 0.102,
+      "value": 374.44199999999995
+    },
+    {
+      "asset": "WLD",
+      "quantity": 1235.0,
+      "price": 0.376,
+      "value": 464.36
+    },
+    {
+      "asset": "FDUSD",
+      "quantity": 10000.0,
+      "price": 0.9991,
+      "value": 9991.0
+    },
+    {
+      "asset": "SEI",
+      "quantity": 5876.0,
+      "price": 0.0655,
+      "value": 384.87800000000004
+    },
+    {
+      "asset": "CYBER",
+      "quantity": 872.0,
+      "price": 0.515,
+      "value": 449.08
+    },
+    {
+      "asset": "ARK",
+      "quantity": 2437.0,
+      "price": 0.1697,
+      "value": 413.5589
+    },
+    {
+      "asset": "IQ",
+      "quantity": 18446.0,
+      "price": 0.00111,
+      "value": 20.475060000000003
+    },
+    {
+      "asset": "NTRN",
+      "quantity": 18446.0,
+      "price": 0.0103,
+      "value": 189.9938
+    },
+    {
+      "asset": "TIA",
+      "quantity": 1360.0,
+      "price": 0.3241,
+      "value": 440.776
+    },
+    {
+      "asset": "MEME",
+      "quantity": 18446.0,
+      "price": 0.00056,
+      "value": 10.329759999999998
+    },
+    {
+      "asset": "ORDI",
+      "quantity": 159.0,
+      "price": 2.354,
+      "value": 374.286
+    },
+    {
+      "asset": "BEAMX",
+      "quantity": 18446.0,
+      "price": 0.001983,
+      "value": 36.578418
+    },
+    {
+      "asset": "PIVX",
+      "quantity": 4496.0,
+      "price": 0.0798,
+      "value": 358.7808
+    },
+    {
+      "asset": "VIC",
+      "quantity": 8198.0,
+      "price": 0.0438,
+      "value": 359.0724
+    },
+    {
+      "asset": "BLUR",
+      "quantity": 18446.0,
+      "price": 0.019,
+      "value": 350.474
+    },
+    {
+      "asset": "VANRY",
+      "quantity": 18446.0,
+      "price": 0.004777,
+      "value": 88.116542
+    },
+    {
+      "asset": "AEUR",
+      "quantity": 424.0,
+      "price": 1.152,
+      "value": 488.448
+    },
+    {
+      "asset": "JTO",
+      "quantity": 1728.0,
+      "price": 0.2552,
+      "value": 440.9856
+    },
+    {
+      "asset": "1000SATS",
+      "quantity": 18446.0,
+      "price": 1.093e-05,
+      "value": 0.20161478
+    },
+    {
+      "asset": "BONK",
+      "quantity": 18446.0,
+      "price": 5.81e-06,
+      "value": 0.10717126
+    },
+    {
+      "asset": "ACE",
+      "quantity": 2505.0,
+      "price": 0.143,
+      "value": 358.215
+    },
+    {
+      "asset": "NFP",
+      "quantity": 18446.0,
+      "price": 0.0143,
+      "value": 263.7778
+    },
+    {
+      "asset": "AI",
+      "quantity": 18446.0,
+      "price": 0.0194,
+      "value": 357.8524
+    },
+    {
+      "asset": "XAI",
+      "quantity": 18446.0,
+      "price": 0.00911,
+      "value": 168.04306
+    },
+    {
+      "asset": "MANTA",
+      "quantity": 6937.0,
+      "price": 0.0633,
+      "value": 439.11209999999994
+    },
+    {
+      "asset": "ALT",
+      "quantity": 18446.0,
+      "price": 0.00705,
+      "value": 130.0443
+    },
+    {
+      "asset": "JUP",
+      "quantity": 2684.0,
+      "price": 0.1702,
+      "value": 456.8168
+    },
+    {
+      "asset": "PYTH",
+      "quantity": 10083.0,
+      "price": 0.0467,
+      "value": 470.8761
+    },
+    {
+      "asset": "RONIN",
+      "quantity": 4949.0,
+      "price": 0.0873,
+      "value": 432.0477
+    },
+    {
+      "asset": "DYM",
+      "quantity": 10871.0,
+      "price": 0.0353,
+      "value": 383.74629999999996
+    },
+    {
+      "asset": "PIXEL",
+      "quantity": 18446.0,
+      "price": 0.00503,
+      "value": 92.78338
+    },
+    {
+      "asset": "STRK",
+      "quantity": 9019.0,
+      "price": 0.0377,
+      "value": 340.0163
+    },
+    {
+      "asset": "PORTAL",
+      "quantity": 18446.0,
+      "price": 0.01124,
+      "value": 207.33304
+    },
+    {
+      "asset": "AXL",
+      "quantity": 7741.0,
+      "price": 0.053,
+      "value": 410.27299999999997
+    },
+    {
+      "asset": "WIF",
+      "quantity": 2008.0,
+      "price": 0.179,
+      "value": 359.43199999999996
+    },
+    {
+      "asset": "METIS",
+      "quantity": 132.0,
+      "price": 3.27,
+      "value": 431.64
+    },
+    {
+      "asset": "AEVO",
+      "quantity": 17067.0,
+      "price": 0.0237,
+      "value": 404.48789999999997
+    },
+    {
+      "asset": "BOME",
+      "quantity": 18446.0,
+      "price": 0.000384,
+      "value": 7.083264
+    },
+    {
+      "asset": "ETHFI",
+      "quantity": 1004.0,
+      "price": 0.519,
+      "value": 521.076
+    },
+    {
+      "asset": "ENA",
+      "quantity": 3639.0,
+      "price": 0.1011,
+      "value": 367.9029
+    },
+    {
+      "asset": "W",
+      "quantity": 18446.0,
+      "price": 0.0178,
+      "value": 328.3388
+    },
+    {
+      "asset": "TNSR",
+      "quantity": 10240.0,
+      "price": 0.0444,
+      "value": 454.656
+    },
+    {
+      "asset": "SAGA",
+      "quantity": 14369.0,
+      "price": 0.0296,
+      "value": 425.3224
+    },
+    {
+      "asset": "TAO",
+      "quantity": 2.0,
+      "price": 173.0,
+      "value": 346.0
+    },
+    {
+      "asset": "REZ",
+      "quantity": 18446.0,
+      "price": 0.00309,
+      "value": 56.99814
+    },
+    {
+      "asset": "BB",
+      "quantity": 13765.0,
+      "price": 0.0258,
+      "value": 355.137
+    },
+    {
+      "asset": "NOT",
+      "quantity": 18446.0,
+      "price": 0.000361,
+      "value": 6.659006
+    },
+    {
+      "asset": "IO",
+      "quantity": 4166.0,
+      "price": 0.101,
+      "value": 420.766
+    },
+    {
+      "asset": "ZK",
+      "quantity": 18446.0,
+      "price": 0.01879,
+      "value": 346.60034
+    },
+    {
+      "asset": "LISTA",
+      "quantity": 4565.0,
+      "price": 0.0838,
+      "value": 382.547
+    },
+    {
+      "asset": "ZRO",
+      "quantity": 275.0,
+      "price": 1.9,
+      "value": 522.5
+    },
+    {
+      "asset": "G",
+      "quantity": 18446.0,
+      "price": 0.00326,
+      "value": 60.133959999999995
+    },
+    {
+      "asset": "BANANA",
+      "quantity": 100.0,
+      "price": 4.91,
+      "value": 491.0
+    },
+    {
+      "asset": "RENDER",
+      "quantity": 330.0,
+      "price": 1.361,
+      "value": 449.13
+    },
+    {
+      "asset": "TON",
+      "quantity": 362.0,
+      "price": 1.316,
+      "value": 476.392
+    },
+    {
+      "asset": "DOGS",
+      "quantity": 18446.0,
+      "price": 2.62e-05,
+      "value": 0.48328519999999997
+    },
+    {
+      "asset": "EURI",
+      "quantity": 422.0,
+      "price": 1.1594,
+      "value": 489.2668
+    },
+    {
+      "asset": "POL",
+      "quantity": 4733.0,
+      "price": 0.0946,
+      "value": 447.7418
+    },
+    {
+      "asset": "NEIRO",
+      "quantity": 18446.0,
+      "price": 6.293e-05,
+      "value": 1.16080678
+    },
+    {
+      "asset": "TURBO",
+      "quantity": 18446.0,
+      "price": 0.0009,
+      "value": 16.601399999999998
+    },
+    {
+      "asset": "1MBABYDOGE",
+      "quantity": 18446.0,
+      "price": 0.0003743,
+      "value": 6.9043377999999995
+    },
+    {
+      "asset": "CATI",
+      "quantity": 11034.0,
+      "price": 0.0392,
+      "value": 432.5328
+    },
+    {
+      "asset": "HMSTR",
+      "quantity": 18446.0,
+      "price": 0.0001522,
+      "value": 2.8074812000000002
+    },
+    {
+      "asset": "EIGEN",
+      "quantity": 2008.0,
+      "price": 0.175,
+      "value": 351.4
+    },
+    {
+      "asset": "BNSOL",
+      "quantity": 4.0,
+      "price": 91.9,
+      "value": 367.6
+    },
+    {
+      "asset": "SCR",
+      "quantity": 8563.0,
+      "price": 0.03992,
+      "value": 341.83495999999997
+    },
+    {
+      "asset": "LUMIA",
+      "quantity": 6623.0,
+      "price": 0.0595,
+      "value": 394.0685
+    },
+    {
+      "asset": "KAIA",
+      "quantity": 8466.0,
+      "price": 0.0533,
+      "value": 451.2378
+    },
+    {
+      "asset": "COW",
+      "quantity": 3071.0,
+      "price": 0.2359,
+      "value": 724.4489
+    },
+    {
+      "asset": "CETUS",
+      "quantity": 18446.0,
+      "price": 0.01565,
+      "value": 288.67990000000003
+    },
+    {
+      "asset": "PNUT",
+      "quantity": 9035.0,
+      "price": 0.0446,
+      "value": 402.961
+    },
+    {
+      "asset": "ACT",
+      "quantity": 18446.0,
+      "price": 0.0129,
+      "value": 237.9534
+    },
+    {
+      "asset": "USUAL",
+      "quantity": 18446.0,
+      "price": 0.01478,
+      "value": 272.63187999999997
+    },
+    {
+      "asset": "THE",
+      "quantity": 2333.0,
+      "price": 0.2596,
+      "value": 605.6468
+    },
+    {
+      "asset": "ACX",
+      "quantity": 12388.0,
+      "price": 0.033,
+      "value": 408.80400000000003
+    },
+    {
+      "asset": "ORCA",
+      "quantity": 575.0,
+      "price": 0.896,
+      "value": 515.2
+    },
+    {
+      "asset": "MOVE",
+      "quantity": 18446.0,
+      "price": 0.0209,
+      "value": 385.52139999999997
+    },
+    {
+      "asset": "ME",
+      "quantity": 3187.0,
+      "price": 0.1124,
+      "value": 358.2188
+    },
+    {
+      "asset": "VELODROME",
+      "quantity": 18446.0,
+      "price": 0.01619,
+      "value": 298.64074
+    },
+    {
+      "asset": "VANA",
+      "quantity": 285.0,
+      "price": 1.375,
+      "value": 391.875
+    },
+    {
+      "asset": "1000CAT",
+      "quantity": 18446.0,
+      "price": 0.00158,
+      "value": 29.14468
+    },
+    {
+      "asset": "PENGU",
+      "quantity": 18446.0,
+      "price": 0.006573,
+      "value": 121.245558
+    },
+    {
+      "asset": "BIO",
+      "quantity": 16447.0,
+      "price": 0.0209,
+      "value": 343.7423
+    },
+    {
+      "asset": "D",
+      "quantity": 18446.0,
+      "price": 0.00676,
+      "value": 124.69496000000001
+    },
+    {
+      "asset": "AIXBT",
+      "quantity": 18446.0,
+      "price": 0.0248,
+      "value": 457.4608
+    },
+    {
+      "asset": "CGPT",
+      "quantity": 18446.0,
+      "price": 0.02096,
+      "value": 386.62816
+    },
+    {
+      "asset": "COOKIE",
+      "quantity": 18446.0,
+      "price": 0.019,
+      "value": 350.474
+    },
+    {
+      "asset": "S",
+      "quantity": 10062.0,
+      "price": 0.03893,
+      "value": 391.71366
+    },
+    {
+      "asset": "SOLV",
+      "quantity": 18446.0,
+      "price": 0.00374,
+      "value": 68.98804
+    },
+    {
+      "asset": "TRUMP",
+      "quantity": 119.0,
+      "price": 2.999,
+      "value": 356.88100000000003
+    },
+    {
+      "asset": "ANIME",
+      "quantity": 18446.0,
+      "price": 0.00457,
+      "value": 84.29822
+    },
+    {
+      "asset": "BERA",
+      "quantity": 1163.0,
+      "price": 0.539,
+      "value": 626.8570000000001
+    },
+    {
+      "asset": "1000CHEEMS",
+      "quantity": 18446.0,
+      "price": 0.00045,
+      "value": 8.300699999999999
+    },
+    {
+      "asset": "TST",
+      "quantity": 18446.0,
+      "price": 0.00947,
+      "value": 174.68362
+    },
+    {
+      "asset": "LAYER",
+      "quantity": 5069.0,
+      "price": 0.0818,
+      "value": 414.6442
+    },
+    {
+      "asset": "HEI",
+      "quantity": 4852.0,
+      "price": 0.0743,
+      "value": 360.5036
+    },
+    {
+      "asset": "KAITO",
+      "quantity": 1389.0,
+      "price": 0.3583,
+      "value": 497.6787
+    },
+    {
+      "asset": "SHELL",
+      "quantity": 14521.0,
+      "price": 0.0273,
+      "value": 396.42330000000004
+    },
+    {
+      "asset": "RED",
+      "quantity": 2427.0,
+      "price": 0.128,
+      "value": 310.656
+    },
+    {
+      "asset": "GPS",
+      "quantity": 18446.0,
+      "price": 0.00893,
+      "value": 164.72278
+    },
+    {
+      "asset": "EPIC",
+      "quantity": 1305.0,
+      "price": 0.27,
+      "value": 352.35
+    },
+    {
+      "asset": "BMT",
+      "quantity": 18446.0,
+      "price": 0.01451,
+      "value": 267.65146
+    },
+    {
+      "asset": "FORM",
+      "quantity": 2029.0,
+      "price": 0.2637,
+      "value": 535.0473
+    },
+    {
+      "asset": "XUSD",
+      "quantity": 499.0,
+      "price": 1.0,
+      "value": 499.0
+    },
+    {
+      "asset": "NIL",
+      "quantity": 10542.0,
+      "price": 0.0482,
+      "value": 508.1244
+    },
+    {
+      "asset": "PARTI",
+      "quantity": 6606.0,
+      "price": 0.0858,
+      "value": 566.7948
+    },
+    {
+      "asset": "MUBARAK",
+      "quantity": 18446.0,
+      "price": 0.01458,
+      "value": 268.94268
+    },
+    {
+      "asset": "TUT",
+      "quantity": 18446.0,
+      "price": 0.01022,
+      "value": 188.51812
+    },
+    {
+      "asset": "BROCCOLI714",
+      "quantity": 18446.0,
+      "price": 0.0127,
+      "value": 234.2642
+    },
+    {
+      "asset": "BANANAS31",
+      "quantity": 18446.0,
+      "price": 0.007035,
+      "value": 129.76761
+    },
+    {
+      "asset": "GUN",
+      "quantity": 18446.0,
+      "price": 0.0194,
+      "value": 357.8524
+    },
+    {
+      "asset": "BABY",
+      "quantity": 18446.0,
+      "price": 0.01129,
+      "value": 208.25534
+    },
+    {
+      "asset": "ONDO",
+      "quantity": 1818.0,
+      "price": 0.2488,
+      "value": 452.3184
+    },
+    {
+      "asset": "BIGTIME",
+      "quantity": 18446.0,
+      "price": 0.01306,
+      "value": 240.90476
+    },
+    {
+      "asset": "VIRTUAL",
+      "quantity": 788.0,
+      "price": 0.6636,
+      "value": 522.9168
+    },
+    {
+      "asset": "KERNEL",
+      "quantity": 8448.0,
+      "price": 0.0759,
+      "value": 641.2031999999999
+    },
+    {
+      "asset": "WCT",
+      "quantity": 8004.0,
+      "price": 0.0578,
+      "value": 462.6312
+    },
+    {
+      "asset": "HYPER",
+      "quantity": 4723.0,
+      "price": 0.0883,
+      "value": 417.0409
+    },
+    {
+      "asset": "INIT",
+      "quantity": 6972.0,
+      "price": 0.087,
+      "value": 606.564
+    },
+    {
+      "asset": "SIGN",
+      "quantity": 13413.0,
+      "price": 0.04788,
+      "value": 642.21444
+    },
+    {
+      "asset": "STO",
+      "quantity": 7795.0,
+      "price": 0.0572,
+      "value": 445.874
+    },
+    {
+      "asset": "SYRUP",
+      "quantity": 1663.0,
+      "price": 0.2252,
+      "value": 374.5076
+    },
+    {
+      "asset": "KMNO",
+      "quantity": 15086.0,
+      "price": 0.0205,
+      "value": 309.26300000000003
+    },
+    {
+      "asset": "SXT",
+      "quantity": 18446.0,
+      "price": 0.0175,
+      "value": 322.805
+    },
+    {
+      "asset": "NXPC",
+      "quantity": 1339.0,
+      "price": 0.2783,
+      "value": 372.64369999999997
+    },
+    {
+      "asset": "AWE",
+      "quantity": 7971.0,
+      "price": 0.05068,
+      "value": 403.97028
+    },
+    {
+      "asset": "HAEDAL",
+      "quantity": 17128.0,
+      "price": 0.0246,
+      "value": 421.3488
+    },
+    {
+      "asset": "USD1",
+      "quantity": 499.0,
+      "price": 0.9996,
+      "value": 498.8004
+    },
+    {
+      "asset": "HUMA",
+      "quantity": 18446.0,
+      "price": 0.01534,
+      "value": 282.96164
+    },
+    {
+      "asset": "A",
+      "quantity": 5403.0,
+      "price": 0.0766,
+      "value": 413.8698
+    },
+    {
+      "asset": "SOPH",
+      "quantity": 18446.0,
+      "price": 0.00846,
+      "value": 156.05316000000002
+    },
+    {
+      "asset": "RESOLV",
+      "quantity": 6229.0,
+      "price": 0.087,
+      "value": 541.923
+    },
+    {
+      "asset": "HOME",
+      "quantity": 16994.0,
+      "price": 0.02406,
+      "value": 408.87564000000003
+    },
+    {
+      "asset": "SPK",
+      "quantity": 18446.0,
+      "price": 0.01973,
+      "value": 363.93958000000003
+    },
+    {
+      "asset": "NEWT",
+      "quantity": 6326.0,
+      "price": 0.0642,
+      "value": 406.12919999999997
+    },
+    {
+      "asset": "SAHARA",
+      "quantity": 18446.0,
+      "price": 0.02362,
+      "value": 435.69451999999995
+    },
+    {
+      "asset": "LA",
+      "quantity": 2471.0,
+      "price": 0.2298,
+      "value": 567.8358000000001
+    },
+    {
+      "asset": "ERA",
+      "quantity": 3148.0,
+      "price": 0.1411,
+      "value": 444.1828
+    },
+    {
+      "asset": "C",
+      "quantity": 8296.0,
+      "price": 0.0491,
+      "value": 407.3336
+    },
+    {
+      "asset": "TREE",
+      "quantity": 7022.0,
+      "price": 0.067,
+      "value": 470.47400000000005
+    },
+    {
+      "asset": "A2Z",
+      "quantity": 18446.0,
+      "price": 0.000796,
+      "value": 14.683016
+    },
+    {
+      "asset": "TOWNS",
+      "quantity": 18446.0,
+      "price": 0.00322,
+      "value": 59.39612
+    },
+    {
+      "asset": "PROVE",
+      "quantity": 1539.0,
+      "price": 0.2662,
+      "value": 409.6818
+    },
+    {
+      "asset": "BFUSD",
+      "quantity": 500.0,
+      "price": 0.9992,
+      "value": 499.59999999999997
+    },
+    {
+      "asset": "PLUME",
+      "quantity": 18446.0,
+      "price": 0.01147,
+      "value": 211.57562
+    },
+    {
+      "asset": "DOLO",
+      "quantity": 13957.0,
+      "price": 0.03315,
+      "value": 462.67455
+    },
+    {
+      "asset": "MITO",
+      "quantity": 10361.0,
+      "price": 0.0364,
+      "value": 377.1404
+    },
+    {
+      "asset": "WLFI",
+      "quantity": 3741.0,
+      "price": 0.0955,
+      "value": 357.26550000000003
+    },
+    {
+      "asset": "SOMI",
+      "quantity": 2516.0,
+      "price": 0.1872,
+      "value": 470.9952
+    },
+    {
+      "asset": "OPEN",
+      "quantity": 3075.0,
+      "price": 0.1472,
+      "value": 452.64
+    },
+    {
+      "asset": "USDE",
+      "quantity": 500.0,
+      "price": 0.9992,
+      "value": 499.59999999999997
+    },
+    {
+      "asset": "LINEA",
+      "quantity": 18446.0,
+      "price": 0.0031,
+      "value": 57.1826
+    },
+    {
+      "asset": "HOLO",
+      "quantity": 7637.0,
+      "price": 0.0621,
+      "value": 474.2577
+    },
+    {
+      "asset": "PUMP",
+      "quantity": 18446.0,
+      "price": 0.001872,
+      "value": 34.530912
+    },
+    {
+      "asset": "AVNT",
+      "quantity": 2188.0,
+      "price": 0.1545,
+      "value": 338.046
+    },
+    {
+      "asset": "ZKC",
+      "quantity": 5211.0,
+      "price": 0.0808,
+      "value": 421.04879999999997
+    },
+    {
+      "asset": "SKY",
+      "quantity": 8127.0,
+      "price": 0.07178,
+      "value": 583.35606
+    },
+    {
+      "asset": "BARD",
+      "quantity": 695.0,
+      "price": 1.1673,
+      "value": 811.2735
+    },
+    {
+      "asset": "0G",
+      "quantity": 832.0,
+      "price": 0.598,
+      "value": 497.536
+    },
+    {
+      "asset": "HEMI",
+      "quantity": 18446.0,
+      "price": 0.00724,
+      "value": 133.54904
+    },
+    {
+      "asset": "XPL",
+      "quantity": 5332.0,
+      "price": 0.0951,
+      "value": 507.07320000000004
+    },
+    {
+      "asset": "MIRA",
+      "quantity": 4972.0,
+      "price": 0.0833,
+      "value": 414.1676
+    },
+    {
+      "asset": "FF",
+      "quantity": 6447.0,
+      "price": 0.07843,
+      "value": 505.63821
+    },
+    {
+      "asset": "EDEN",
+      "quantity": 13517.0,
+      "price": 0.0361,
+      "value": 487.9637
+    },
+    {
+      "asset": "NOM",
+      "quantity": 18446.0,
+      "price": 0.00333,
+      "value": 61.425180000000005
+    },
+    {
+      "asset": "2Z",
+      "quantity": 4685.0,
+      "price": 0.07385,
+      "value": 345.98725
+    },
+    {
+      "asset": "MORPHO",
+      "quantity": 384.0,
+      "price": 1.812,
+      "value": 695.808
+    },
+    {
+      "asset": "ASTER",
+      "quantity": 893.0,
+      "price": 0.69,
+      "value": 616.17
+    },
+    {
+      "asset": "WAL",
+      "quantity": 5397.0,
+      "price": 0.074,
+      "value": 399.378
+    },
+    {
+      "asset": "EUL",
+      "quantity": 457.0,
+      "price": 0.957,
+      "value": 437.349
+    },
+    {
+      "asset": "ENSO",
+      "quantity": 400.0,
+      "price": 1.224,
+      "value": 489.59999999999997
+    },
+    {
+      "asset": "YB",
+      "quantity": 3039.0,
+      "price": 0.1604,
+      "value": 487.45559999999995
+    },
+    {
+      "asset": "ZBT",
+      "quantity": 6821.0,
+      "price": 0.0748,
+      "value": 510.21080000000006
+    },
+    {
+      "asset": "TURTLE",
+      "quantity": 10299.0,
+      "price": 0.042,
+      "value": 432.55800000000005
+    },
+    {
+      "asset": "GIGGLE",
+      "quantity": 13.0,
+      "price": 28.07,
+      "value": 364.91
+    },
+    {
+      "asset": "F",
+      "quantity": 18446.0,
+      "price": 0.00532,
+      "value": 98.13272
+    },
+    {
+      "asset": "KITE",
+      "quantity": 3439.0,
+      "price": 0.2762,
+      "value": 949.8518
+    },
+    {
+      "asset": "MMT",
+      "quantity": 3148.0,
+      "price": 0.1173,
+      "value": 369.2604
+    },
+    {
+      "asset": "SAPIEN",
+      "quantity": 5120.0,
+      "price": 0.0736,
+      "value": 376.832
+    },
+    {
+      "asset": "ALLO",
+      "quantity": 7866.0,
+      "price": 0.123,
+      "value": 967.518
+    },
+    {
+      "asset": "BANK",
+      "quantity": 14258.0,
+      "price": 0.0408,
+      "value": 581.7264
+    },
+    {
+      "asset": "MET",
+      "quantity": 2178.0,
+      "price": 0.1621,
+      "value": 353.05379999999997
+    },
+    {
+      "asset": "AT",
+      "quantity": 3155.0,
+      "price": 0.1511,
+      "value": 476.7205
+    },
+    {
+      "asset": "KGST",
+      "quantity": 18446.0,
+      "price": 0.01136,
+      "value": 209.54656
+    },
+    {
+      "asset": "BREV",
+      "quantity": 3461.0,
+      "price": 0.1497,
+      "value": 518.1117
+    },
+    {
+      "asset": "\u5e01\u5b89\u4eba\u751f",
+      "quantity": 3737.0,
+      "price": 0.0592,
+      "value": 221.2304
+    },
+    {
+      "asset": "ZKP",
+      "quantity": 5151.0,
+      "price": 0.0902,
+      "value": 464.6202
+    },
+    {
+      "asset": "U",
+      "quantity": 499.0,
+      "price": 1.0,
+      "value": 499.0
+    },
+    {
+      "asset": "FRAX",
+      "quantity": 639.0,
+      "price": 0.5805,
+      "value": 370.9395
+    },
+    {
+      "asset": "FOGO",
+      "quantity": 17946.0,
+      "price": 0.02372,
+      "value": 425.67912
+    },
+    {
+      "asset": "RLUSD",
+      "quantity": 499.0,
+      "price": 1.0,
+      "value": 499.0
+    },
+    {
+      "asset": "SENT",
+      "quantity": 14893.0,
+      "price": 0.02464,
+      "value": 366.96351999999996
+    },
+    {
+      "asset": "ZAMA",
+      "quantity": 16138.0,
+      "price": 0.01983,
+      "value": 320.01654
+    }
+  ],
+  "usdt_balance": 10000.0
+}

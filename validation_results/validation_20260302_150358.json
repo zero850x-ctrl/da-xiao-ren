@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-03-02 15:03:58",
+  "stock_code": "00005",
+  "price": 134.2,
+  "previous_price": null,
+  "validations": {
+    "stock_code": {
+      "valid": true,
+      "reason": "股票代碼格式正確",
+      "severity": "normal",
+      "normalized_code": "00005"
+    },
+    "price_format": {
+      "valid": true,
+      "reason": "價格格式正確",
+      "severity": "normal"
+    },
+    "price_range": {
+      "valid": true,
+      "reason": "價格在合理範圍內: $134.20 (範圍: $40.00-$200.00)",
+      "severity": "normal"
+    }
+  },
+  "overall_valid": true,
+  "issues": [],
+  "warnings": []
+}

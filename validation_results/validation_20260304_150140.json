@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-03-04 15:01:40",
+  "stock_code": "09988",
+  "price": 137.17600000000002,
+  "previous_price": null,
+  "validations": {
+    "stock_code": {
+      "valid": true,
+      "reason": "股票代碼格式正確",
+      "severity": "normal",
+      "normalized_code": "09988"
+    },
+    "price_format": {
+      "valid": false,
+      "reason": "小數位數過多: 14",
+      "severity": "warning"
+    },
+    "price_range": {
+      "valid": false,
+      "reason": "價格格式無效，跳過範圍驗證",
+      "severity": "warning"
+    }
+  },
+  "overall_valid": false,
+  "issues": [
+    "價格範圍: 價格格式無效，跳過範圍驗證"
+  ],
+  "warnings": [
+    "價格格式: 小數位數過多: 14"
+  ]
+}

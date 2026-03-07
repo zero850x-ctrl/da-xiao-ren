@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-02-26T13:05:01.718689",
+  "data": {
+    "BTCUSDT": {
+      "price": 68477.82,
+      "change_24h": 4.61
+    },
+    "ETHUSDT": {
+      "price": 2074.33,
+      "change_24h": 8.75
+    },
+    "BNBUSDT": {
+      "price": 630.05,
+      "change_24h": 5.752
+    }
+  }
+}

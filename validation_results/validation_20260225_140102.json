@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-02-25 14:01:02",
+  "stock_code": "00700",
+  "price": 523.0,
+  "previous_price": null,
+  "validations": {
+    "stock_code": {
+      "valid": true,
+      "reason": "股票代碼格式正確",
+      "severity": "normal",
+      "normalized_code": "00700"
+    },
+    "price_format": {
+      "valid": true,
+      "reason": "價格格式正確",
+      "severity": "normal"
+    },
+    "price_range": {
+      "valid": true,
+      "reason": "價格在合理範圍內: $523.00 (範圍: $300.00-$800.00)",
+      "severity": "normal"
+    }
+  },
+  "overall_valid": true,
+  "issues": [],
+  "warnings": []
+}

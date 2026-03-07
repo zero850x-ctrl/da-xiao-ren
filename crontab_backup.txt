@@ -1,0 +1,3 @@
+
+# 久留美模擬倉自動交易（交易日09:30-16:00每30分鐘）
+*/30 9-16 * * 1-5 cd /Users/gordonlui/.openclaw/workspace && python3 kurumi_auto_trader.py >> /Users/gordonlui/.openclaw/kurumi_trade.log 2>&1

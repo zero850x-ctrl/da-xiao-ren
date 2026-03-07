@@ -1,0 +1,17 @@
+{
+  "jobs": [
+    {
+      "id": "xgb-self-improve-1700",
+      "name": "XGBoost每日自我學習",
+      "schedule": "0 17 * * 1-5",
+      "timezone": "Asia/Hong_Kong",
+      "enabled": true,
+      "payload": {
+        "kind": "agentTurn",
+        "message": "運行XGBoost自我學習系統。每交易日17:00執行，分析當日預測結果，重新訓練模型，並保存優化後的模型。完成後報告學習結果。",
+        "model": "minimax/MiniMax-M2.5",
+        "thinking": "concise"
+      }
+    }
+  ]
+}

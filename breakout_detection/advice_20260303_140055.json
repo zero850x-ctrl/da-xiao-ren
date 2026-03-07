@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-03-03 14:00:55",
+  "stock": "00992",
+  "current_price": 9.37,
+  "breakouts": [],
+  "alerts": [],
+  "recommendations": [
+    {
+      "action": "持有",
+      "reason": "價格在0.618之上，趨勢良好",
+      "urgency": "低"
+    }
+  ]
+}

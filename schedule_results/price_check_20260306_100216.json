@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-03-06 10:02:16",
+  "results": [
+    {
+      "stock": "00992",
+      "price": 85.5,
+      "source": "suggested",
+      "time": "10:02:16"
+    },
+    {
+      "stock": "00700",
+      "price": 380.2,
+      "source": "suggested",
+      "time": "10:02:16"
+    },
+    {
+      "stock": "09988",
+      "price": 78.9,
+      "source": "suggested",
+      "time": "10:02:16"
+    }
+  ]
+}

@@ -1,102 +1,135 @@
 {
-  "timestamp": "2026-02-24T13:05:03.995447",
+  "timestamp": "2026-03-07T09:50:12.901815",
   "signals": [
     {
-      "stock": "00700",
+      "stock": "03750",
+      "signal": "SELL",
+      "price": 513.0,
+      "reason": "Ensemble:SELL(76%)(Futu/yFinance)+R/R=2.0\u2705+\u4e0a\u5347\u8da8\u52e2"
+    },
+    {
+      "stock": "02800",
+      "signal": "SELL",
+      "price": 25.92,
+      "reason": "Ensemble:SELL(84%)(Futu/yFinance)+R/R=2.7\u2705+\u4e0b\u964d\u8da8\u52e2+\u5e03\u6797\u5e95"
+    },
+    {
+      "stock": "01211",
+      "signal": "SELL",
+      "price": 94.7,
+      "reason": "\u6280\u8853\u6307\u6a19+\u4e0b\u964d\u8da8\u52e2+\u7a7a\u982d\u6392\u5217+R/R=2.0\u2705"
+    },
+    {
+      "stock": "00005",
+      "signal": "SELL",
+      "price": 135.2,
+      "reason": "Ensemble:SELL(80%)(Futu/yFinance)+R/R=2.0\u2705+\u4e0b\u964d\u8da8\u52e2"
+    },
+    {
+      "stock": "01398",
+      "signal": "SELL",
+      "price": 6.41,
+      "reason": "Ensemble:SELL(82%)(Futu/yFinance)+R/R=2.0\u2705+\u4e0b\u964d\u8da8\u52e2"
+    },
+    {
+      "stock": "02638",
       "signal": "BUY",
-      "price": 519.0,
-      "reason": "\u8dcc3.5%+RSI\u8d85\u8ce320"
+      "price": 7.02,
+      "reason": "Ensemble:BUY(71%)(Futu/yFinance)+R/R=2.0\u2705+\u4e0a\u5347\u8da8\u52e2+\u591a\u982d"
+    },
+    {
+      "stock": "800000",
+      "signal": "SELL",
+      "price": 25757.29,
+      "reason": "Ensemble:SELL(77%)(Futu/yFinance)+R/R=2.7\u2705+\u4e0b\u964d\u8da8\u52e2+\u5e03\u6797\u5e95"
+    },
+    {
+      "stock": "00857",
+      "signal": "SELL",
+      "price": 10.4,
+      "reason": "Ensemble:SELL(95%)(Futu/yFinance)+R/R=2.0\u2705+\u4e0a\u5347\u8da8\u52e2+\u591a\u982d"
     },
     {
       "stock": "01024",
+      "signal": "SELL",
+      "price": 61.45,
+      "reason": "\u6280\u8853\u6307\u6a19+\u4e0b\u964d\u8da8\u52e2+\u7a7a\u982d\u6392\u5217+RSI\u8d85\u8ce322+R/R=3.6\u2705"
+    },
+    {
+      "stock": "02331",
+      "signal": "SELL",
+      "price": 20.46,
+      "reason": "\u6280\u8853\u6307\u6a19+\u4e0b\u964d\u8da8\u52e2+\u5e03\u6797\u5e95+R/R=3.1\u2705"
+    },
+    {
+      "stock": "02343",
       "signal": "BUY",
-      "price": 66.1,
-      "reason": "\u8dcc3.6%+RSI\u8d85\u8ce317"
+      "price": 3.13,
+      "reason": "Ensemble:BUY(70%)(Futu/yFinance)+R/R=3.6\u2705+\u4e0b\u964d\u8da8\u52e2+\u5e03\u6797\u5e95"
+    },
+    {
+      "stock": "00358",
+      "signal": "SELL",
+      "price": 40.94,
+      "reason": "\u6280\u8853\u6307\u6a19+\u4e0b\u964d\u8da8\u52e2+\u7a7a\u982d\u6392\u5217+\u5e03\u6797\u5e95"
+    },
+    {
+      "stock": "02318",
+      "signal": "SELL",
+      "price": 64.65,
+      "reason": "\u6280\u8853\u6307\u6a19+\u4e0b\u964d\u8da8\u52e2+\u7a7a\u982d\u6392\u5217+\u5e03\u6797\u5e95+RSI\u8d85\u8ce327"
+    },
+    {
+      "stock": "01810",
+      "signal": "SELL",
+      "price": 33.42,
+      "reason": "\u6280\u8853\u6307\u6a19+\u4e0b\u964d\u8da8\u52e2+\u7a7a\u982d\u6392\u5217+R/R=2.6\u2705"
     },
     {
       "stock": "09988",
       "signal": "BUY",
-      "price": 147.6,
-      "reason": "\u8dcc3.0%+RSI\u8d85\u8ce324"
+      "price": 130.7,
+      "reason": "Ensemble:BUY(73%)(Futu/yFinance)+R/R=5.7\u2705+\u4e0b\u964d\u8da8\u52e2+RSI\u8d85\u8ce320+\u5e03\u6797\u5e95"
     }
   ],
   "results": [
-    {
-      "code": "HK.00992",
-      "name": {
-        "name": "\u806f\u60f3\u96c6\u5718",
-        "owner": "\u4e45\u7559\u7f8e"
-      },
-      "price": 9.49,
-      "change_pct": 1.2806830309498507,
-      "signal": "HOLD",
-      "confidence": 0.6,
-      "reason": "\u6210\u4ea4\u91cf\u8ce3\u51fa",
-      "kline": {
-        "ma5": 9.328,
-        "ma10": 9.286,
-        "ma20": NaN,
-        "rsi": 63.43612334801761,
-        "trend": "\u6a6b\u884c",
-        "close": 9.49
-      },
-      "volume": {
-        "signal": "SELL",
-        "reason": "\u50f9\u6f32\u91cf\u7e2e - \u8b66\u793a\u4fe1\u865f",
-        "volume_ratio": 0.65722811411176,
-        "price_change": 1.2806830309498507
-      }
-    },
-    {
-      "code": "HK.00700",
-      "name": {
-        "name": "\u9a30\u8a0a\u63a7\u80a1",
-        "owner": "\u4e45\u7559\u7f8e"
-      },
-      "price": 519.0,
-      "change_pct": -3.5315985130111525,
-      "signal": "BUY",
-      "confidence": 0.9,
-      "reason": "\u8dcc3.5%+RSI\u8d85\u8ce320",
-      "kline": {
-        "ma5": 528.8,
-        "ma10": 538.6,
-        "ma20": NaN,
-        "rsi": 20.408163265306115,
-        "trend": "\u6a6b\u884c",
-        "close": 519.0
-      },
-      "volume": {
-        "signal": "HOLD",
-        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
-        "volume_ratio": 0.9037741458757435,
-        "price_change": -3.5315985130111525
-      }
-    },
     {
       "code": "HK.03750",
       "name": {
         "name": "\u5be7\u5fb7\u6642\u4ee3",
         "owner": "Monitor"
       },
-      "price": 522.5,
-      "change_pct": -3.686635944700461,
-      "signal": "HOLD",
-      "confidence": 0.6,
-      "reason": "\u8dcc3.7%",
+      "price": 513.0,
+      "change_pct": 2.6410564225690254,
+      "signal": "SELL",
+      "confidence": 0.7634673708554245,
+      "reason": "Ensemble:SELL(76%)(Futu/yFinance)+R/R=2.0\u2705+\u4e0a\u5347\u8da8\u52e2",
       "kline": {
-        "ma5": 528.0,
-        "ma10": 520.1,
-        "ma20": NaN,
-        "rsi": 60.18099547511313,
-        "trend": "\u6a6b\u884c",
-        "close": 522.5
+        "ma5": 492.67999999999995,
+        "ma10": 505.88,
+        "ma20": 509.50499999999994,
+        "ema8": 501.4638331798793,
+        "ema13": 503.22890694899877,
+        "ema34": 502.4719138771319,
+        "rsi": 51.62337662337663,
+        "macd": 0.10280352124328829,
+        "macd_signal": 0.10280352124328829,
+        "macd_hist": 0.0,
+        "bb_upper": 544.8745959234693,
+        "bb_middle": 509.50499999999994,
+        "bb_lower": 474.1354040765306,
+        "bb_position": 54.940684094274516,
+        "dc_upper": 543.0,
+        "dc_lower": 470.2,
+        "dc_middle": 506.6,
+        "trend": "\u4e0a\u5347",
+        "close": 513.0
       },
       "volume": {
-        "signal": "HOLD",
-        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
-        "volume_ratio": 0.841568100641345,
-        "price_change": -3.686635944700461
+        "signal": "BUY",
+        "reason": "\u91cf\u6f32\u50f9\u6f32 - \u5065\u5eb7\u4e0a\u5347\u8da8\u52e2",
+        "volume_ratio": 1.4823290845886443,
+        "price_change": 2.6410564225690254
       }
     },
     {
@@ -105,24 +138,115 @@
         "name": "\u76c8\u5bcc\u57fa\u91d1",
         "owner": "\u4e45\u7559\u7f8e"
       },
-      "price": 26.76,
-      "change_pct": -1.9780219780219748,
+      "price": 25.92,
+      "change_pct": 1.6470588235294186,
+      "signal": "SELL",
+      "confidence": 0.8354603218884068,
+      "reason": "Ensemble:SELL(84%)(Futu/yFinance)+R/R=2.7\u2705+\u4e0b\u964d\u8da8\u52e2+\u5e03\u6797\u5e95",
+      "kline": {
+        "ma5": 25.832,
+        "ma10": 26.371999999999996,
+        "ma20": 26.719,
+        "ema8": 26.105359046658933,
+        "ema13": 26.339513894994106,
+        "ema34": 26.707757686448858,
+        "rsi": 34.765625000000014,
+        "macd": -0.32938701804214077,
+        "macd_signal": -0.32938701804214077,
+        "macd_hist": 0.0,
+        "bb_upper": 27.90994654968664,
+        "bb_middle": 26.719,
+        "bb_lower": 25.52805345031336,
+        "bb_position": 16.455253587567327,
+        "dc_upper": 27.64,
+        "dc_lower": 25.16,
+        "dc_middle": 26.4,
+        "trend": "\u4e0b\u964d",
+        "close": 25.92
+      },
+      "volume": {
+        "signal": "HOLD",
+        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
+        "volume_ratio": 0.771815807335318,
+        "price_change": 1.6470588235294186
+      }
+    },
+    {
+      "code": "HK.07500",
+      "name": {
+        "name": "\u5169\u500d\u770b\u7a7a",
+        "owner": "\u4e45\u7559\u7f8e"
+      },
+      "price": 1.788,
+      "change_pct": -3.1419284940411725,
       "signal": "HOLD",
       "confidence": 0.6,
-      "reason": "\u6210\u4ea4\u91cf\u8cb7\u5165",
+      "reason": "\u6280\u8853\u6307\u6a19+\u4e0a\u5347\u8da8\u52e2+\u591a\u982d\u6392\u5217+R/R=2.0\u274c",
       "kline": {
-        "ma5": 26.887999999999998,
-        "ma10": 27.052,
-        "ma20": NaN,
-        "rsi": 40.09216589861747,
-        "trend": "\u6a6b\u884c",
-        "close": 26.74
+        "ma5": 1.8096,
+        "ma10": 1.7414,
+        "ma20": 1.7015,
+        "ema8": 1.7744653868637466,
+        "ema13": 1.7467160854164625,
+        "ema34": 1.704781328365536,
+        "rsi": 63.49693251533741,
+        "macd": 0.03802181561839735,
+        "macd_signal": 0.03802181561839735,
+        "macd_hist": 0.0,
+        "bb_upper": 1.8470985829890565,
+        "bb_middle": 1.7015,
+        "bb_lower": 1.5559014170109435,
+        "bb_position": 79.70495942481169,
+        "dc_upper": 1.906,
+        "dc_lower": 1.594,
+        "dc_middle": 1.75,
+        "trend": "\u4e0a\u5347",
+        "close": 1.788
+      },
+      "volume": {
+        "signal": "HOLD",
+        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
+        "volume_ratio": 0.8498082881442706,
+        "price_change": -3.1419284940411725
+      }
+    },
+    {
+      "code": "HK.01211",
+      "name": {
+        "name": "\u6bd4\u4e9e\u8fea",
+        "owner": "\u4e45\u7559\u7f8e"
+      },
+      "price": 94.7,
+      "change_pct": 2.267818574514048,
+      "signal": "SELL",
+      "confidence": 0.9,
+      "reason": "\u6280\u8853\u6307\u6a19+\u4e0b\u964d\u8da8\u52e2+\u7a7a\u982d\u6392\u5217+R/R=2.0\u2705",
+      "kline": {
+        "ma5": 95.53,
+        "ma10": 96.575,
+        "ma20": 95.86749999999999,
+        "ema8": 95.48198727930047,
+        "ema13": 95.90007160541657,
+        "ema34": 96.61099355789915,
+        "rsi": 41.55597722960151,
+        "macd": -0.5397599933776007,
+        "macd_signal": -0.5397599933776007,
+        "macd_hist": 0.0,
+        "bb_upper": 101.71785086667103,
+        "bb_middle": 95.86749999999999,
+        "bb_lower": 90.01714913332896,
+        "bb_position": 40.02196597599692,
+        "dc_upper": 101.1,
+        "dc_lower": 88.5,
+        "dc_middle": 94.8,
+        "trend": "\u4e0b\u964d",
+        "close": 94.7
       },
       "volume": {
         "signal": "BUY",
-        "reason": "\u50f9\u8dcc\u91cf\u7e2e - \u53ef\u80fd\u898b\u5e95",
-        "volume_ratio": 0.5271925181759237,
-        "price_change": -2.0512820512820595
+        "reason": "\u91cf\u6f32\u50f9\u6f32 - \u5065\u5eb7\u4e0a\u5347\u8da8\u52e2",
+        "volume_ratio": 1.31959846656221,
+        "price_change": 2.267818574514048
       }
     },
     {
@@ -131,24 +255,37 @@
         "name": "\u4eac\u6771\u96c6\u5718",
         "owner": "Gordon"
       },
-      "price": 107.1,
-      "change_pct": -0.3720930232558192,
+      "price": 106.6,
+      "change_pct": 9.95358432181536,
       "signal": "HOLD",
       "confidence": 0.6,
-      "reason": "\u89c0\u671b",
+      "reason": "\u6280\u8853\u6307\u6a19+\u4e0a\u5347\u8da8\u52e2+\u7a7a\u982d\u6392\u5217",
       "kline": {
-        "ma5": 106.14000000000001,
-        "ma10": 107.37,
-        "ma20": NaN,
-        "rsi": 37.19806763285021,
-        "trend": "\u6a6b\u884c",
-        "close": 107.1
+        "ma5": 100.65,
+        "ma10": 103.225,
+        "ma20": 105.40249999999999,
+        "ema8": 102.49343608035657,
+        "ema13": 103.66297612822903,
+        "ema34": 107.47526158057636,
+        "rsi": 44.952681388012614,
+        "macd": -2.868849993278033,
+        "macd_signal": -2.868849993278033,
+        "macd_hist": 0.0,
+        "bb_upper": 112.78943548025651,
+        "bb_middle": 105.40249999999999,
+        "bb_lower": 98.01556451974346,
+        "bb_position": 58.105526325501486,
+        "dc_upper": 111.3,
+        "dc_lower": 95.9,
+        "dc_middle": 103.6,
+        "trend": "\u4e0a\u5347",
+        "close": 106.6
       },
       "volume": {
-        "signal": "HOLD",
-        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
-        "volume_ratio": 0.5701448643903567,
-        "price_change": -0.3720930232558192
+        "signal": "BUY",
+        "reason": "\u91cf\u6f32\u50f9\u6f32 - \u5065\u5eb7\u4e0a\u5347\u8da8\u52e2",
+        "volume_ratio": 1.963623061082416,
+        "price_change": 9.95358432181536
       }
     },
     {
@@ -157,24 +294,37 @@
         "name": "\u532f\u8c50\u63a7\u80a1",
         "owner": "Gordon"
       },
-      "price": 133.7,
-      "change_pct": -1.6188373804267968,
-      "signal": "HOLD",
-      "confidence": 0.6,
-      "reason": "\u6210\u4ea4\u91cf\u8cb7\u5165",
+      "price": 135.2,
+      "change_pct": 0.9708737864077542,
+      "signal": "SELL",
+      "confidence": 0.8019100115971743,
+      "reason": "Ensemble:SELL(80%)(Futu/yFinance)+R/R=2.0\u2705+\u4e0b\u964d\u8da8\u52e2",
       "kline": {
-        "ma5": 134.76,
-        "ma10": 136.75,
-        "ma20": NaN,
-        "rsi": 44.401544401544406,
-        "trend": "\u6a6b\u884c",
-        "close": 133.7
+        "ma5": 135.08,
+        "ma10": 138.16000000000003,
+        "ma20": 137.85,
+        "ema8": 136.46410022502883,
+        "ema13": 136.94411376655643,
+        "ema34": 135.52486520132535,
+        "rsi": 44.36274509803919,
+        "macd": 0.6813864414931174,
+        "macd_signal": 0.6813864414931174,
+        "macd_hist": 0.0,
+        "bb_upper": 145.93416255468233,
+        "bb_middle": 137.85,
+        "bb_lower": 129.76583744531766,
+        "bb_position": 33.609928783129625,
+        "dc_upper": 148.0,
+        "dc_lower": 129.5,
+        "dc_middle": 138.75,
+        "trend": "\u4e0b\u964d",
+        "close": 135.2
       },
       "volume": {
         "signal": "BUY",
-        "reason": "\u50f9\u8dcc\u91cf\u7e2e - \u53ef\u80fd\u898b\u5e95",
-        "volume_ratio": 0.5774114207634107,
-        "price_change": -1.6188373804267968
+        "reason": "\u91cf\u6f32\u50f9\u6f32 - \u5065\u5eb7\u4e0a\u5347\u8da8\u52e2",
+        "volume_ratio": 1.3127425021317745,
+        "price_change": 0.9708737864077542
       }
     },
     {
@@ -183,24 +333,37 @@
         "name": "\u5de5\u5546\u9280\u884c",
         "owner": "Gordon"
       },
-      "price": 6.48,
-      "change_pct": -1.2195121951219388,
-      "signal": "HOLD",
-      "confidence": 0.6,
-      "reason": "\u6210\u4ea4\u91cf\u8cb7\u5165",
+      "price": 6.41,
+      "change_pct": 0.7861635220125759,
+      "signal": "SELL",
+      "confidence": 0.8219035566484293,
+      "reason": "Ensemble:SELL(82%)(Futu/yFinance)+R/R=2.0\u2705+\u4e0b\u964d\u8da8\u52e2",
       "kline": {
-        "ma5": 6.452,
-        "ma10": 6.49,
-        "ma20": NaN,
-        "rsi": 49.295774647887335,
-        "trend": "\u6a6b\u884c",
-        "close": 6.48
+        "ma5": 6.382,
+        "ma10": 6.425,
+        "ma20": 6.45,
+        "ema8": 6.404121239134719,
+        "ema13": 6.415531709907713,
+        "ema34": 6.394410984747136,
+        "rsi": 41.57303370786521,
+        "macd": 0.0057691157645116675,
+        "macd_signal": 0.0057691157645116675,
+        "macd_hist": 0.0,
+        "bb_upper": 6.58502436427316,
+        "bb_middle": 6.45,
+        "bb_lower": 6.3149756357268405,
+        "bb_position": 35.18785842269235,
+        "dc_upper": 6.61,
+        "dc_lower": 6.24,
+        "dc_middle": 6.425000000000001,
+        "trend": "\u4e0b\u964d",
+        "close": 6.41
       },
       "volume": {
-        "signal": "BUY",
-        "reason": "\u50f9\u8dcc\u91cf\u7e2e - \u53ef\u80fd\u898b\u5e95",
-        "volume_ratio": 0.5655485063221939,
-        "price_change": -1.2195121951219388
+        "signal": "HOLD",
+        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
+        "volume_ratio": 0.6263996933560986,
+        "price_change": 0.7861635220125759
       }
     },
     {
@@ -210,23 +373,36 @@
         "owner": "Gordon"
       },
       "price": 7.02,
-      "change_pct": 0.429184549356214,
-      "signal": "HOLD",
-      "confidence": 0.6,
-      "reason": "RSI\u8d85\u8cb780",
+      "change_pct": -0.14224751066857289,
+      "signal": "BUY",
+      "confidence": 0.7124216624790618,
+      "reason": "Ensemble:BUY(71%)(Futu/yFinance)+R/R=2.0\u2705+\u4e0a\u5347\u8da8\u52e2+\u591a\u982d",
       "kline": {
-        "ma5": 6.9959999999999996,
-        "ma10": 6.962999999999999,
-        "ma20": NaN,
-        "rsi": 80.35714285714292,
-        "trend": "\u6a6b\u884c",
+        "ma5": 6.998,
+        "ma10": 7.008,
+        "ma20": 6.961499999999999,
+        "ema8": 7.001089691919417,
+        "ema13": 6.978888410734239,
+        "ema34": 6.842717509972452,
+        "rsi": 55.5555555555555,
+        "macd": 0.09161867312078709,
+        "macd_signal": 0.09161867312078709,
+        "macd_hist": 0.0,
+        "bb_upper": 7.1337024512326295,
+        "bb_middle": 6.961499999999999,
+        "bb_lower": 6.789297548767369,
+        "bb_position": 66.98582092799947,
+        "dc_upper": 7.1,
+        "dc_lower": 6.61,
+        "dc_middle": 6.855,
+        "trend": "\u4e0a\u5347",
         "close": 7.02
       },
       "volume": {
         "signal": "HOLD",
         "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
-        "volume_ratio": 0.5867194450045478,
-        "price_change": 0.429184549356214
+        "volume_ratio": 0.7019666546841211,
+        "price_change": -0.14224751066857289
       }
     },
     {
@@ -235,24 +411,37 @@
         "name": "\u6046\u751f\u6307\u6578",
         "owner": "-"
       },
-      "price": 26528.72,
-      "change_pct": -2.0426550416864937,
-      "signal": "HOLD",
-      "confidence": 0.6,
-      "reason": "\u8dcc2.0%",
+      "price": 25757.29,
+      "change_pct": 1.7216703381416651,
+      "signal": "SELL",
+      "confidence": 0.7735648387318144,
+      "reason": "Ensemble:SELL(77%)(Futu/yFinance)+R/R=2.7\u2705+\u4e0b\u964d\u8da8\u52e2+\u5e03\u6797\u5e95",
       "kline": {
-        "ma5": 26659.408000000003,
-        "ma10": 26836.621999999996,
-        "ma20": NaN,
-        "rsi": 39.545471153494844,
-        "trend": "\u6a6b\u884c",
-        "close": 26528.72
+        "ma5": 25631.208,
+        "ma10": 26160.555,
+        "ma20": 26504.684999999998,
+        "ema8": 25902.346797192036,
+        "ema13": 26131.658215457053,
+        "ema34": 26502.42431546586,
+        "rsi": 34.87676652683439,
+        "macd": -329.10592653194544,
+        "macd_signal": -329.10592653194544,
+        "macd_hist": 0.0,
+        "bb_upper": 27685.659363329753,
+        "bb_middle": 26504.684999999998,
+        "bb_lower": 25323.710636670243,
+        "bb_position": 18.35684908973307,
+        "dc_upper": 27397.65,
+        "dc_lower": 24958.43,
+        "dc_middle": 26178.04,
+        "trend": "\u4e0b\u964d",
+        "close": 25757.29
       },
       "volume": {
         "signal": "HOLD",
         "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
         "volume_ratio": 1,
-        "price_change": -2.0426550416864937
+        "price_change": 1.7216703381416651
       }
     },
     {
@@ -261,24 +450,37 @@
         "name": "\u4e2d\u570b\u77f3\u6cb9",
         "owner": "Monitor"
       },
-      "price": 9.59,
-      "change_pct": 0.20898641588296316,
-      "signal": "HOLD",
-      "confidence": 0.6,
-      "reason": "\u89c0\u671b",
+      "price": 10.4,
+      "change_pct": 1.3645224171540018,
+      "signal": "SELL",
+      "confidence": 0.95,
+      "reason": "Ensemble:SELL(95%)(Futu/yFinance)+R/R=2.0\u2705+\u4e0a\u5347\u8da8\u52e2+\u591a\u982d",
       "kline": {
-        "ma5": 9.382,
-        "ma10": 9.35,
-        "ma20": NaN,
-        "rsi": 57.209302325581405,
-        "trend": "\u6a6b\u884c",
-        "close": 9.59
+        "ma5": 10.228,
+        "ma10": 9.887,
+        "ma20": 9.573500000000001,
+        "ema8": 10.036308922236087,
+        "ema13": 9.846240912301347,
+        "ema34": 9.34149135519162,
+        "rsi": 68.47826086956522,
+        "macd": 0.38393603650356134,
+        "macd_signal": 0.38393603650356134,
+        "macd_hist": 0.0,
+        "bb_upper": 10.435865779030076,
+        "bb_middle": 9.573500000000001,
+        "bb_lower": 8.711134220969926,
+        "bb_position": 97.92050079547367,
+        "dc_upper": 10.61,
+        "dc_lower": 8.81,
+        "dc_middle": 9.71,
+        "trend": "\u4e0a\u5347",
+        "close": 10.4
       },
       "volume": {
-        "signal": "HOLD",
-        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
-        "volume_ratio": 1.0360244898584974,
-        "price_change": 0.20898641588296316
+        "signal": "SELL",
+        "reason": "\u50f9\u6f32\u91cf\u7e2e - \u8b66\u793a\u4fe1\u865f",
+        "volume_ratio": 0.6105939731676984,
+        "price_change": 1.3645224171540018
       }
     },
     {
@@ -287,24 +489,154 @@
         "name": "\u5feb\u624b",
         "owner": "Monitor"
       },
-      "price": 66.1,
-      "change_pct": -3.574033552151718,
-      "signal": "BUY",
+      "price": 61.45,
+      "change_pct": 3.1040268456375864,
+      "signal": "SELL",
       "confidence": 0.9,
-      "reason": "\u8dcc3.6%+RSI\u8d85\u8ce317",
+      "reason": "\u6280\u8853\u6307\u6a19+\u4e0b\u964d\u8da8\u52e2+\u7a7a\u982d\u6392\u5217+RSI\u8d85\u8ce322+R/R=3.6\u2705",
       "kline": {
-        "ma5": 67.6,
-        "ma10": 68.94000000000001,
-        "ma20": NaN,
-        "rsi": 17.096018735363003,
-        "trend": "\u6a6b\u884c",
-        "close": 66.1
+        "ma5": 60.31999999999999,
+        "ma10": 62.96,
+        "ma20": 66.525,
+        "ema8": 62.05578262868646,
+        "ema13": 63.88063751006862,
+        "ema34": 68.93999713823658,
+        "rsi": 22.766570605187326,
+        "macd": -3.991675457316447,
+        "macd_signal": -3.991675457316447,
+        "macd_hist": 0.0,
+        "bb_upper": 75.5590583641193,
+        "bb_middle": 66.525,
+        "bb_lower": 57.490941635880716,
+        "bb_position": 21.911848499028633,
+        "dc_upper": 74.2,
+        "dc_lower": 57.9,
+        "dc_middle": 66.05,
+        "trend": "\u4e0b\u964d",
+        "close": 61.45
       },
       "volume": {
         "signal": "HOLD",
         "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
-        "volume_ratio": 1.0476492667575406,
-        "price_change": -3.574033552151718
+        "volume_ratio": 0.9501556803773118,
+        "price_change": 3.1040268456375864
+      }
+    },
+    {
+      "code": "HK.02331",
+      "name": {
+        "name": "\u674e\u5be7",
+        "owner": "Monitor"
+      },
+      "price": 20.46,
+      "change_pct": 2.4024024024024047,
+      "signal": "SELL",
+      "confidence": 0.8,
+      "reason": "\u6280\u8853\u6307\u6a19+\u4e0b\u964d\u8da8\u52e2+\u5e03\u6797\u5e95+R/R=3.1\u2705",
+      "kline": {
+        "ma5": 20.736,
+        "ma10": 21.584,
+        "ma20": 21.585,
+        "ema8": 21.02500650276831,
+        "ema13": 21.23316824568498,
+        "ema34": 21.079511583731172,
+        "rsi": 36.700336700336706,
+        "macd": 0.015728536336578003,
+        "macd_signal": 0.015728536336578003,
+        "macd_hist": 0.0,
+        "bb_upper": 23.0797416604815,
+        "bb_middle": 21.585,
+        "bb_lower": 20.090258339518503,
+        "bb_position": 12.368079055292876,
+        "dc_upper": 23.42,
+        "dc_lower": 19.65,
+        "dc_middle": 21.535,
+        "trend": "\u4e0b\u964d",
+        "close": 20.46
+      },
+      "volume": {
+        "signal": "SELL",
+        "reason": "\u50f9\u6f32\u91cf\u7e2e - \u8b66\u793a\u4fe1\u865f",
+        "volume_ratio": 0.6897733376852044,
+        "price_change": 2.4024024024024047
+      }
+    },
+    {
+      "code": "HK.02343",
+      "name": {
+        "name": "\u592a\u5e73\u6d0b\u822a\u904b",
+        "owner": "Monitor"
+      },
+      "price": 3.13,
+      "change_pct": 2.6229508196721336,
+      "signal": "BUY",
+      "confidence": 0.701380896721309,
+      "reason": "Ensemble:BUY(70%)(Futu/yFinance)+R/R=3.6\u2705+\u4e0b\u964d\u8da8\u52e2+\u5e03\u6797\u5e95",
+      "kline": {
+        "ma5": 3.2920000000000003,
+        "ma10": 3.3810000000000002,
+        "ma20": 3.3445,
+        "ema8": 3.2880982352308674,
+        "ema13": 3.308271539868401,
+        "ema34": 3.15234264681131,
+        "rsi": 34.31372549019608,
+        "macd": 0.08610469431635215,
+        "macd_signal": 0.08610469431635215,
+        "macd_hist": 0.0,
+        "bb_upper": 3.6588899690377823,
+        "bb_middle": 3.3445,
+        "bb_lower": 3.0301100309622178,
+        "bb_position": 15.886316179791619,
+        "dc_upper": 3.66,
+        "dc_lower": 2.86,
+        "dc_middle": 3.26,
+        "trend": "\u4e0b\u964d",
+        "close": 3.13
+      },
+      "volume": {
+        "signal": "HOLD",
+        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
+        "volume_ratio": 0.9769647863622835,
+        "price_change": 2.6229508196721336
+      }
+    },
+    {
+      "code": "HK.00358",
+      "name": {
+        "name": "\u6c5f\u897f\u9285\u696d",
+        "owner": "Monitor"
+      },
+      "price": 40.94,
+      "change_pct": -2.3843586075345735,
+      "signal": "SELL",
+      "confidence": 0.6,
+      "reason": "\u6280\u8853\u6307\u6a19+\u4e0b\u964d\u8da8\u52e2+\u7a7a\u982d\u6392\u5217+\u5e03\u6797\u5e95",
+      "kline": {
+        "ma5": 42.66,
+        "ma10": 44.144,
+        "ma20": 44.065999999999995,
+        "ema8": 43.03231964979657,
+        "ema13": 43.615774655090654,
+        "ema34": 44.49823328891711,
+        "rsi": 37.500000000000014,
+        "macd": -0.7761096957167837,
+        "macd_signal": -0.7761096957167837,
+        "macd_hist": 0.0,
+        "bb_upper": 47.21255634656456,
+        "bb_middle": 44.065999999999995,
+        "bb_lower": 40.91944365343543,
+        "bb_position": 0.32664831486351337,
+        "dc_upper": 47.4,
+        "dc_lower": 39.84,
+        "dc_middle": 43.620000000000005,
+        "trend": "\u4e0b\u964d",
+        "close": 40.94
+      },
+      "volume": {
+        "signal": "HOLD",
+        "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
+        "volume_ratio": 0.8288840210659616,
+        "price_change": -2.3843586075345735
       }
     },
     {
@@ -313,50 +645,37 @@
         "name": "\u4e2d\u570b\u9280\u884c",
         "owner": "Monitor"
       },
-      "price": 69.7,
-      "change_pct": -4.258241758241751,
-      "signal": "HOLD",
+      "price": 64.65,
+      "change_pct": 0.9367681498829173,
+      "signal": "SELL",
       "confidence": 0.6,
-      "reason": "\u8dcc4.3%",
+      "reason": "\u6280\u8853\u6307\u6a19+\u4e0b\u964d\u8da8\u52e2+\u7a7a\u982d\u6392\u5217+\u5e03\u6797\u5e95+RSI\u8d85\u8ce327",
       "kline": {
-        "ma5": 70.81,
-        "ma10": 71.45,
-        "ma20": NaN,
-        "rsi": 41.8918918918919,
-        "trend": "\u6a6b\u884c",
-        "close": 69.7
+        "ma5": 65.13,
+        "ma10": 67.525,
+        "ma20": 69.52250000000001,
+        "ema8": 66.30519990872561,
+        "ema13": 67.43685251259397,
+        "ema34": 69.22684771768311,
+        "rsi": 27.113702623906804,
+        "macd": -1.55387228102461,
+        "macd_signal": -1.55387228102461,
+        "macd_hist": 0.0,
+        "bb_upper": 75.56179893108025,
+        "bb_middle": 69.52250000000001,
+        "bb_lower": 63.48320106891976,
+        "bb_position": 9.660052800793718,
+        "dc_upper": 74.15,
+        "dc_lower": 62.6,
+        "dc_middle": 68.375,
+        "trend": "\u4e0b\u964d",
+        "close": 64.65
       },
       "volume": {
         "signal": "HOLD",
         "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
-        "volume_ratio": 1.237646101383009,
-        "price_change": -4.258241758241751
-      }
-    },
-    {
-      "code": "HK.01211",
-      "name": {
-        "name": "\u6bd4\u4e9e\u8fea",
-        "owner": "Monitor"
-      },
-      "price": 98.3,
-      "change_pct": -1.7982017982017955,
-      "signal": "HOLD",
-      "confidence": 0.6,
-      "reason": "\u6210\u4ea4\u91cf\u8cb7\u5165",
-      "kline": {
-        "ma5": 97.88,
-        "ma10": 96.875,
-        "ma20": NaN,
-        "rsi": 51.01289134438304,
-        "trend": "\u6a6b\u884c",
-        "close": 98.3
-      },
-      "volume": {
-        "signal": "BUY",
-        "reason": "\u50f9\u8dcc\u91cf\u7e2e - \u53ef\u80fd\u898b\u5e95",
-        "volume_ratio": 0.48005851614008266,
-        "price_change": -1.7982017982017955
+        "volume_ratio": 0.6344555779886902,
+        "price_change": 0.9367681498829173
       }
     },
     {
@@ -365,24 +684,37 @@
         "name": "\u5c0f\u7c73\u96c6\u5718",
         "owner": "Monitor"
       },
-      "price": 35.8,
-      "change_pct": -2.0787746170678476,
-      "signal": "HOLD",
-      "confidence": 0.6,
-      "reason": "\u8dcc2.1%",
+      "price": 33.42,
+      "change_pct": 3.788819875776394,
+      "signal": "SELL",
+      "confidence": 0.9,
+      "reason": "\u6280\u8853\u6307\u6a19+\u4e0b\u964d\u8da8\u52e2+\u7a7a\u982d\u6392\u5217+R/R=2.6\u2705",
       "kline": {
-        "ma5": 36.244,
-        "ma10": 36.08,
-        "ma20": NaN,
-        "rsi": 51.66297117516628,
-        "trend": "\u6a6b\u884c",
-        "close": 35.8
+        "ma5": 32.468,
+        "ma10": 34.032,
+        "ma20": 34.882,
+        "ema8": 33.418671206163886,
+        "ema13": 33.99074055589819,
+        "ema34": 35.28698831862419,
+        "rsi": 32.307692307692335,
+        "macd": -0.9996221788001947,
+        "macd_signal": -0.9996221788001947,
+        "macd_hist": 0.0,
+        "bb_upper": 38.19340040339118,
+        "bb_middle": 34.882,
+        "bb_lower": 31.570599596608815,
+        "bb_position": 27.924747510105213,
+        "dc_upper": 37.5,
+        "dc_lower": 31.2,
+        "dc_middle": 34.35,
+        "trend": "\u4e0b\u964d",
+        "close": 33.42
       },
       "volume": {
         "signal": "HOLD",
         "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
-        "volume_ratio": 0.7186432253017639,
-        "price_change": -2.0787746170678476
+        "volume_ratio": 1.194473917857178,
+        "price_change": 3.788819875776394
       }
     },
     {
@@ -391,24 +723,37 @@
         "name": "\u963f\u91cc\u5df4\u5df4",
         "owner": "Monitor"
       },
-      "price": 147.6,
-      "change_pct": -3.0223390275952657,
+      "price": 130.7,
+      "change_pct": 3.483768804433881,
       "signal": "BUY",
-      "confidence": 0.9,
-      "reason": "\u8dcc3.0%+RSI\u8d85\u8ce324",
+      "confidence": 0.7340431785586776,
+      "reason": "Ensemble:BUY(73%)(Futu/yFinance)+R/R=5.7\u2705+\u4e0b\u964d\u8da8\u52e2+RSI\u8d85\u8ce320+\u5e03\u6797\u5e95",
       "kline": {
-        "ma5": 151.4,
-        "ma10": 154.91,
-        "ma20": NaN,
-        "rsi": 24.883720930232542,
-        "trend": "\u6a6b\u884c",
-        "close": 147.6
+        "ma5": 131.61999999999998,
+        "ma10": 139.25,
+        "ma20": 148.045,
+        "ema8": 135.80840690923898,
+        "ema13": 140.487591015677,
+        "ema34": 149.22762069149658,
+        "rsi": 20.0,
+        "macd": -7.620969192394853,
+        "macd_signal": -7.620969192394853,
+        "macd_hist": 0.0,
+        "bb_upper": 170.54454151579654,
+        "bb_middle": 148.045,
+        "bb_lower": 125.54545848420344,
+        "bb_position": 11.454770116488007,
+        "dc_upper": 162.7,
+        "dc_lower": 125.1,
+        "dc_middle": 143.89999999999998,
+        "trend": "\u4e0b\u964d",
+        "close": 130.7
       },
       "volume": {
         "signal": "HOLD",
         "reason": "\u6b63\u5e38\u6210\u4ea4\u91cf",
-        "volume_ratio": 0.8198362021807221,
-        "price_change": -3.0223390275952657
+        "volume_ratio": 0.8017379104767962,
+        "price_change": 3.483768804433881
       }
     }
   ]

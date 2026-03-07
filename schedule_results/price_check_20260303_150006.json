@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-03-03 15:00:06",
+  "results": [
+    {
+      "stock": "00992",
+      "price": 9.37,
+      "source": "get_price_from_futu",
+      "time": "15:00:06"
+    },
+    {
+      "stock": "00700",
+      "price": 514.5,
+      "source": "get_price_from_futu",
+      "time": "15:00:06"
+    },
+    {
+      "stock": "09988",
+      "price": 135.6,
+      "source": "get_price_from_futu",
+      "time": "15:00:06"
+    }
+  ]
+}

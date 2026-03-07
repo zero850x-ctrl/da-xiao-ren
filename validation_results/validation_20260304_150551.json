@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-03-04 15:05:51",
+  "stock_code": "09618",
+  "price": 105.9,
+  "previous_price": null,
+  "validations": {
+    "stock_code": {
+      "valid": true,
+      "reason": "股票代碼格式正確",
+      "severity": "normal",
+      "normalized_code": "09618"
+    },
+    "price_format": {
+      "valid": true,
+      "reason": "價格格式正確",
+      "severity": "normal"
+    },
+    "price_range": {
+      "valid": true,
+      "reason": "價格在合理範圍內: $105.90 (範圍: $80.00-$150.00)",
+      "severity": "normal"
+    }
+  },
+  "overall_valid": true,
+  "issues": [],
+  "warnings": []
+}

@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-03-04 13:00:54",
+  "time_slot": "13:00",
+  "tasks_executed": [
+    "price_check",
+    "prediction_update"
+  ],
+  "tasks_successful": 2,
+  "success_rate": 100.0,
+  "results_summary": {
+    "price_check": {
+      "status": "success",
+      "summary": "檢查了 7/7 隻股票"
+    },
+    "prediction_update": {
+      "status": "success",
+      "summary": "更新了 3/3 隻股票預測"
+    }
+  },
+  "system_status": {
+    "uptime_hours": 0.00025468944444444446,
+    "total_tasks_executed": 2,
+    "recent_success_rate": 100.0,
+    "recent_failures": 0,
+    "monitoring_stocks": 7,
+    "next_scheduled_time": "14:00"
+  }
+}

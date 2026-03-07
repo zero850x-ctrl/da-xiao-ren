@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-03-06T12:05:01.045303",
+  "results": [
+    {
+      "stock": "00992",
+      "name": "聯想集團",
+      "price": 86.14,
+      "timestamp": "2026-03-06 12:05:01",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "stock": "00700",
+      "name": "騰訊",
+      "price": 382.52,
+      "timestamp": "2026-03-06 12:05:01",
+      "issues": [],
+      "valid": true
+    },
+    {
+      "stock": "09988",
+      "name": "阿里巴巴",
+      "price": 78.99,
+      "timestamp": "2026-03-06 12:05:01",
+      "issues": [],
+      "valid": true
+    }
+  ]
+}

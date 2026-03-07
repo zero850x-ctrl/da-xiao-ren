@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-03-02 14:30:07",
+  "stock_code": "00992",
+  "price": 9.4533,
+  "previous_price": null,
+  "validations": {
+    "stock_code": {
+      "valid": true,
+      "reason": "股票代碼格式正確",
+      "severity": "normal",
+      "normalized_code": "00992"
+    },
+    "price_format": {
+      "valid": true,
+      "reason": "價格格式正確",
+      "severity": "normal"
+    },
+    "price_range": {
+      "valid": true,
+      "reason": "價格在合理範圍內: $9.45 (範圍: $5.00-$15.00)",
+      "severity": "normal"
+    }
+  },
+  "overall_valid": true,
+  "issues": [],
+  "warnings": []
+}

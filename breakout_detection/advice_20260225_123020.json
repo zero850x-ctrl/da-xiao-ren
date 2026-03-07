@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-02-25 12:30:20",
+  "stock": "00992",
+  "current_price": 9.61,
+  "breakouts": [],
+  "alerts": [
+    {
+      "type": "達到目標1",
+      "level": "target_1",
+      "level_price": 9.58,
+      "current_price": 9.61,
+      "distance_percent": 0.31315240083507057,
+      "action": "考慮獲利了結",
+      "urgency": "高"
+    }
+  ],
+  "recommendations": [
+    {
+      "action": "考慮獲利了結",
+      "reason": "達到目標1: $9.58",
+      "urgency": "高"
+    }
+  ]
+}

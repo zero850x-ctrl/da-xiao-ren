@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-03-05 14:02:52",
+  "time_slot": "14:00",
+  "tasks_executed": [
+    "price_check",
+    "breakout_check"
+  ],
+  "tasks_successful": 2,
+  "success_rate": 100.0,
+  "results_summary": {
+    "price_check": {
+      "status": "success",
+      "summary": "檢查了 7/7 隻股票"
+    },
+    "breakout_check": {
+      "status": "success",
+      "summary": "檢測了 5/5 隻股票突破"
+    }
+  },
+  "system_status": {
+    "uptime_hours": 0.00022563527777777777,
+    "total_tasks_executed": 2,
+    "recent_success_rate": 100.0,
+    "recent_failures": 0,
+    "monitoring_stocks": 7,
+    "next_scheduled_time": "14:30"
+  }
+}

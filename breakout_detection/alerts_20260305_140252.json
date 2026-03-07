@@ -1,0 +1,11 @@
+[
+  {
+    "type": "止損觸發",
+    "level": "stop_loss",
+    "level_price": 9.02,
+    "current_price": 6.38,
+    "distance_percent": -29.268292682926823,
+    "action": "立即賣出",
+    "urgency": "緊急"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-03-02 11:03:58",
+  "stock_code": "00992",
+  "price": "not_a_number",
+  "previous_price": null,
+  "validations": {
+    "stock_code": {
+      "valid": true,
+      "reason": "股票代碼格式正確",
+      "severity": "normal",
+      "normalized_code": "00992"
+    },
+    "price_format": {
+      "valid": false,
+      "reason": "無法解析為價格",
+      "severity": "critical"
+    },
+    "price_range": {
+      "valid": false,
+      "reason": "價格格式無效，跳過範圍驗證",
+      "severity": "warning"
+    }
+  },
+  "overall_valid": false,
+  "issues": [
+    "價格格式: 無法解析為價格",
+    "價格範圍: 價格格式無效，跳過範圍驗證"
+  ],
+  "warnings": []
+}

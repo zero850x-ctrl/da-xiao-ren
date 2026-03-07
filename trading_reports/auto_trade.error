@@ -1,0 +1,7 @@
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/gordonlui/.openclaw/workspace/auto_trade_executor.py': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "/Users/gordonlui/.openclaw/workspace/auto_trade_executor.py", line 373, in <module>
+    execute_auto_trade()
+  File "/Users/gordonlui/.openclaw/workspace/auto_trade_executor.py", line 308, in execute_auto_trade
+    order_key = f"{code}:{max_qty}"
+UnboundLocalError: local variable 'max_qty' referenced before assignment

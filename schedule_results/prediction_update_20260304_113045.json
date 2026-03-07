@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-03-04 11:30:45",
+  "results": [
+    {
+      "stock": "00992",
+      "prediction": {
+        "probability_up": 0.55,
+        "signal": "\ud83d\udfe1 \u6301\u6709",
+        "confidence": 0.10000000000000009,
+        "validated_price": 9.12,
+        "prediction_time": "2026-03-04 11:30:45"
+      },
+      "advice": {
+        "action": "HOLD",
+        "reason": "\u65b9\u5411\u4e0d\u660e\uff0c\u5efa\u8b70\u89c0\u671b",
+        "suggested_price": "N/A",
+        "stop_loss": 8.9376,
+        "take_profit": 9.302399999999999
+      }
+    }
+  ]
+}
