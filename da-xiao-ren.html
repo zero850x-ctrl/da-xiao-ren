@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>打小人 - 香港傳統民間習俗</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary-red: #c62828;
+            --gold: #ffd700;
+            --dark-red: #8b0000;
+            --black: #1a1a1a;
+            --light-gold: #fff9c4;
+            --paper: #f5f5dc;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Noto Serif TC', 'Microsoft JhengHei', serif;
+            background-color: var(--paper);
+            color: var(--black);
+            line-height: 1.6;
+            background-image: 
+                radial-gradient(circle at 10% 20%, rgba(255, 215, 0, 0.05) 0%, transparent 20%),
+                radial-gradient(circle at 90% 80%, rgba(198, 40, 40, 0.05) 0%, transparent 20%);
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        /* Header Styles */
+        header {
+            background: linear-gradient(135deg, var(--dark-red) 0%, var(--primary-red) 100%);
+            color: var(--gold);
+            padding: 2rem 0;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+            border-bottom: 8px solid var(--gold);
+        }
+        
+        header::before {
+            content: "福";
+            position: absolute;
+            font-size: 300px;
+            opacity: 0.05;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-family: 'Noto Serif TC', serif;
+        }
+        
+        .header-content {
+            position: relative;
+            z-index: 1;
+        }
+        
+        h1 {
+            font-size: 3.5rem;
+            margin-bottom: 0.5rem;
+            text-shadow: 3px 3px 0 var(--dark-red);
+            letter-spacing: 2px;
+        }
+        
+        .subtitle {
+            font-size: 1.5rem;
+            color: var(--light-gold);
+            margin-bottom: 1rem;
+        }
+        
+        /* Navigation */
+        nav {
+            background-color: var(--black);
+            padding: 1rem 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+        }
+        
+        .nav-links {
+            display: flex;
+            justify-content: center;
+            list-style: none;
+            gap: 2rem;
+        }
+        
+        .nav-links a {
+            color: var(--gold);
+            text-decoration: none;
+            font-size: 1.2rem;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            transition: all 0.3s ease;
+        }
+        
+        .nav-links a:hover {
+            background-color: var(--primary-red);
+            transform: translateY(-2px);
+        }
+        
+        /* Main Content */
+        main {
+            padding: 3rem 0;
+        }
+        
+        section {
+            margin-bottom: 4rem;
+            background-color: white;
+            border-radius: 12px;
+            padding: 2.5rem;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+            border-left: 6px solid var(--primary-red);
+            position: relative;
+        }
+        
+        section::before {
+            content: "";
+            position: absolute;
+            top: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60px;
+            height: 10px;
+            background-color: var(--gold);
+            border-radius: 5px 5px 0 0;
+        }
+        
+        h2 {
+            color: var(--primary-red);
+            font-size: 2.5rem;
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 3px solid var(--gold);
+            display: inline-block;
+        }
+        
+        h3 {
+            color: var(--dark-red);
+            font-size: 1.8rem;
+            margin: 1.5rem 0 1rem;
+        }
+        
+        p {
+            margin-bottom: 1rem;
+            font-size: 1.1rem;
+        }
+        
+        /* Emoji Icons */
+        .emoji-icon {
+            font-size: 2rem;
+            margin-right: 10px;
+            vertical-align: middle;
+        }
+        
+        /* Ritual Steps */
+        .ritual-steps {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+        
+        .step {
+            background: linear-gradient(145deg, #fff9e6, #ffe6e6);
+            border-radius: 10px;
+            padding: 1.5rem;
+            text-align: center;
+            border: 2px solid var(--gold);
+            transition: transform 0.3s ease;
+        }
+        
+        .step:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(198, 40, 40, 0.15);
+        }
+        
+        .step-number {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            background-color: var(--primary-red);
+            color: var(--gold);
+            border-radius: 50%;
+            line-height: 40px;
+            font-weight: bold;
+            margin-bottom: 1rem;
+        }
+        
+        /* Interactive Section */
+        .interactive-section {
+            text-align: center;
+            background: linear-gradient(135deg, #fff9e6 0%, #ffe6e6 100%);
+            border: 3px dashed var(--primary-red);
+        }
+        
+        .beat-area {
+            background-color: white;
+            border-radius: 15px;
+            padding: 2rem;
+            margin: 2rem auto;
+            max-width: 600px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+            border: 4px solid var(--black);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .beat-area::before {
+            content: "小人退散";
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 1.2rem;
+            color: var(--primary-red);
+            font-weight: bold;
+            transform: rotate(15deg);
+        }
+        
+        .little-person {
+            font-size: 8rem;
+            margin: 1rem 0;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: inline-block;
+        }
+        
+        .little-person:hover {
+            transform: scale(1.1);
+        }
+        
+        .beat-button {
+            background-color: var(--primary-red);
+            color: white;
+            border: none;
+            padding: 1rem 2rem;
+            font-size: 1.5rem;
+            border-radius: 50px;
+            cursor: pointer;
+            margin-top: 1rem;
+            transition: all 0.3s ease;
+            font-weight: bold;
+            letter-spacing: 2px;
+            box-shadow: 0 6px 0 var(--dark-red);
+        }
+        
+        .beat-button:hover {
+            background-color: var(--dark-red);
+            transform: translateY(-3px);
+            box-shadow: 0 9px 0 #5a0000;
+        }
+        
+        .beat-button:active {
+            transform: translateY(3px);
+            box-shadow: 0 3px 0 #5a0000;
+        }
+        
+        .beat-count {
+            font-size: 1.2rem;
+            margin-top: 1rem;
+            color: var(--dark-red);
+            font-weight: bold;
+        }
+        
+        .animation-area {
+            height: 100px;
+            margin-top: 2rem;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .shoe {
+            position: absolute;
+            font-size: 3rem;
+            bottom: 0;
+            opacity: 0;
+        }
+        
+        /* Items Grid */
+        .items-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+        
+        .item {
+            background-color: white;
+            border-radius: 10px;
+            padding: 1.5rem;
+            text-align: center;
+            border: 2px solid var(--gold);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+        }
+        
+        .item-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+        
+        /* English Example */
+        .english-example {
+            background-color: #f0f8ff;
+            border-left: 6px solid #4a90e2;
+            padding: 1.5rem;
+            margin: 2rem 0;
+            border-radius: 0 10px 10px 0;
+        }
+        
+        .english-example h3 {
+            color: #4a90e2;
+        }
+        
+        /* Footer */
+        footer {
+            background-color: var(--black);
+            color: var(--gold);
+            padding: 3rem 0;
+            text-align: center;
+            border-top: 8px solid var(--primary-red);
+        }
+        
+        .footer-content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 1.5rem;
+        }
+        
+        .footer-logo {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .footer-links {
+            display: flex;
+            gap: 2rem;
+            margin: 1.5rem 0;
+        }
+        
+        .footer-links a {
+            color: var(--light-gold);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        
+        .footer-links a:hover {
+            color: white;
+        }
+        
+        .copyright {
+            color: #aaa;
+            font-size: 0.9rem;
+            margin-top: 2rem;
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2.5rem;
+            }
+            
+            .subtitle {
+                font-size: 1.2rem;
+            }
+            
+            .nav-links {
+                flex-direction: column;
+                gap: 0.5rem;
+                align-items: center;
+            }
+            
+            section {
+                padding: 1.5rem;
+            }
+            
+            .little-person {
+                font-size: 6rem;
+            }
+            
+            .ritual-steps, .items-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        /* Animation Classes */
+        @keyframes beat {
+            0% { transform: scale(1); }
+            50% { transform: scale(0.9); }
+            100% { transform: scale(1); }
+        }
+        
+        @keyframes shoeThrow {
+            0% { 
+                transform: translateX(-100px) rotate(0deg);
+                opacity: 1;
+                bottom: 0;
+            }
+            100% { 
+                transform: translateX(calc(100vw + 100px)) rotate(720deg);
+                opacity: 1;
+                bottom: 50px;
+            }
+        }
+        
+        .beating {
+            animation: beat 0.2s ease;
+        }
+        
+        .shoe-throw {
+            animation: shoeThrow 1.5s ease-out forwards;
+        }
+        
+        /* Decorative Elements */
+        .decoration {
+            position: absolute;
+            font-size: 2rem;
+            opacity: 0.1;
+            z-index: 0;
+        }
+        
+        .decoration-1 { top: 10%; left: 5%; }
+        .decoration-2 { top: 20%; right: 10%; }
+        .decoration-3 { bottom: 30%; left: 15%; }
+        .decoration-4 { bottom: 20%; right: 5%; }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Decorative Elements -->
+    <div class="decoration decoration-1">👹</div>
+    <div class="decoration decoration-2">🐯</div>
+    <div class="decoration decoration-3">👟</div>
+    <div class="decoration decoration-4">🔥</div>
+    
+    <header>
+        <div class="container header-content">
+            <h1><i class="fas fa-fist-raised emoji-icon"></i>打小人</h1>
+            <div class="subtitle">Beat the Little People - 香港傳統民間習俗</div>
+            <p>一種源自驚蟄時節的傳統儀式，驅除厄運、化解小人</p>
+        </div>
+    </header>
+    
+    <nav>
+        <div class="container">
+            <ul class="nav-links">
+                <li><a href="#origin"><i class="fas fa-history"></i> 起源</a></li>
+                <li><a href="#ritual"><i class="fas fa-pray"></i> 儀式步驟</a></li>
+                <li><a href="#location"><i class="fas fa-map-marker-alt"></i> 地點</a></li>
+                <li><a href="#items"><i class="fas fa-tools"></i> 用品</a></li>
+                <li><a href="#interactive"><i class="fas fa-gamepad"></i> 互動體驗</a></li>
+            </ul>
+        </div>
+    </nav>
+    
+    <main class="container">
+        <section id="origin">
+            <h2><i class="fas fa-seedling emoji-icon"></i>起源</h2>
+            <p>「打小人」是香港一種傳統民間習俗，起源於農業社會的驚蟄時節。驚蟄（每年3月5日或6日）是二十四節氣中的第三個節氣，代表春雷始鳴，驚醒冬眠的動物。</p>
+            <p>在傳統農業社會中，人們相信驚蟄時節各種蟲蛇鼠蟻會開始活動，而「小人」也會在這個時候出來作祟。因此，人們會在驚蟄日進行「打小人」儀式，象徵性地驅除生活中的「小人」——那些在背後說壞話、使絆子、帶來厄運的人。</p>
+            <p>這項習俗最早可追溯至唐代，但在香港得到了特別的發展和傳承，成為獨具特色的民間文化活動。</p>
+            <div style="text-align: center; margin-top: 2rem;">
+                <span style="font-size: 4rem;">🌩️</span>
+                <span style="font-size: 4rem; margin: 0 1rem;">→</span>
+                <span style="font-size: 4rem;">👹</span>
+                <span style="font-size: 4rem; margin: 0 1rem;">→</span>
+                <span style="font-size: 4rem;">👟</span>
+            </div>
+        </section>
+        
+        <section id="ritual">
+            <h2><i class="fas fa-list-ol emoji-icon"></i>儀式八步驟</h2>
+            <p>完整的「打小人」儀式包含八個嚴謹的步驟，每個步驟都有其特定的意義和目的：</p>
+            
+            <div class="ritual-steps">
+                <div class="step">
+                    <div class="step-number">1</div>
+                    <h3>奉神</h3>
+                    <p><i class="fas fa-place-of-worship"></i> 首先祭祀神明，通常會準備香燭、水果等供品，祈求神明保佑儀式順利。</p>
+                </div>
+                
+                <div class="step">
+                    <div class="step-number">2</div>
+                    <h3>稟告</h3>
+                    <p><i class="fas fa-comment-alt"></i> 向神明稟告要打的小人姓名、生辰八字或特徵，讓神明知道目標是誰。</p>
+                </div>
+                
+                <div class="step">
+                    <div class="step-number">3</div>
+                    <h3>打小人</h3>
+                    <p><i class="fas fa-shoe-prints"></i> 用舊鞋用力拍打紙製小人，邊打邊念咒語，象徵性地懲罰小人。</p>
+                </div>
+                
+                <div class="step">
+                    <div class="step-number">4</div>
+                    <h3>祭白虎</h3>
+                    <p><i class="fas fa-paw"></i> 祭祀紙製白虎，用肥豬肉抹白虎嘴巴，寓意「塞住白虎口」，防止小人搬弄是非。</p>
+                </div>
+                
+                <div class="step">
+                    <div class="step-number">5</div>
+                    <h3>化解</h3>
+                    <p><i class="fas fa-hand-sparkles"></i> 將小人紙和祭品一起焚化，象徵將小人送走，厄運隨煙消散。</p>
+                </div>
+                
+                <div class="step">
+                    <div class="step-number">6</div>
+                    <h3>祈福</h3>
+                    <p><i class="fas fa-hands-praying"></i> 為自己或家人祈福，祈求好運、平安、事業順利。</p>
+                </div>
+                
+                <div class="step">
+                    <div class="step-number">7</div>
+                    <h3>進寶</h3>
+                    <p><i class="fas fa-gem"></i> 撒米和銅錢，象徵招財進寶，將財富帶回家中。</p>
+                </div>
+                
+                <div class="step">
+                    <div class="step-number">8</div>
+                    <h3>打杯</h3>
+                    <p><i class="fas fa-dice"></i> 擲筊詢問神明是否接受儀式，獲得聖杯代表儀式圓滿成功。</p>
+                </div>
+            </div>
+            
+            <div style="margin-top: 2rem; padding: 1.5rem; background-color: #f9f9f9; border-radius: 10px; border-left: 4px solid var(--gold);">
+                <h3><i class="fas fa-lightbulb"></i> 儀式意義</h3>
+                <p>「打小人」不僅是一種民間信仰，更是心理治療的一種形式。通過儀式性的行為，人們可以宣洩情緒、減輕壓力，並獲得心理上的安慰和力量。這項習俗體現了中國傳統文化中「以儀式化解危機」的智慧。</p>
+            </div>
+        </section>
+        
+        <section id="location">
+            <h2><i class="fas fa-map-marked-alt emoji-icon"></i>著名地點</h2>
+            <p>香港最著名的「打小人」地點位於灣仔的鵝頸橋底（堅拿道天橋下），這裡已經成為這項傳統習俗的文化地標。</p>
+            
+            <div style="display: flex; align-items: center; margin: 2rem 0; gap: 2rem; flex-wrap: wrap;">
+                <div style="flex: 1; min-width: 300px;">
+                    <h3><i class="fas fa-bridge"></i> 鵝頸橋底</h3>
+                    <p>鵝頸橋底之所以成為「打小人」的熱門地點，有幾個原因：</p>
+                    <ul style="margin-left: 1.5rem; margin-top: 1rem;">
+                        <li><strong>三岔路口</strong>：傳統認為三岔路口煞氣重，適合進行驅邪儀式</li>
+                        <li><strong>橋底陰涼</strong>：提供遮蔽，適合長時間進行儀式</li>
+                        <li><strong>歷史悠久</strong>：自1960年代起就有專業「打小人」婆婆在此服務</li>
+                        <li><strong>交通便利</strong>：位於銅鑼灣與灣仔之間，容易到達</li>
+                    </ul>
+                </div>
+                <div style="flex: 1; min-width: 300px; text-align: center;">
+                    <div style="font-size: 8rem;">🌉</div>
+                    <div style="font-size: 5rem; margin-top: -2rem;">👵</div>
+                    <div style="font-size: 4rem; margin-top: -1rem;">👟</div>
+                </div>
+            </div>
+            
+            <div style="background-color: #e8f4f8; padding: 1.5rem; border-radius: 10px; margin-top: 2rem;">
+                <h3><i class="fas fa-clock"></i> 最佳時間</h3>
+                <p>雖然「打小人」全年都可以進行，但最盛行的時間是：</p>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1rem;">
+                    <div style="text-align: center; padding: 1rem; background-color: white; border-radius: 8px;">
+                        <div style="font-size: 2rem;">🌩️</div>
+                        <h4>驚蟄日</h4>
+                        <p>每年3月5-6日，最傳統的時節</p>
+                    </div>
+                    <div style="text-align: center; padding: 1rem; background-color: white; border-radius: 8px;">
+                        <div style="font-size: 2rem;">📅</div>
+                        <h4>農曆每月初一、十五</h4>
+                        <p>傳統祭祀日子</p>
+                    </div>
+                    <div style="text-align: center; padding: 1rem; background-color: white; border-radius: 8px;">
+                        <div style="font-size: 2rem;">🌙</div>
+                        <h4>晚上7-9時</h4>
+                        <p>陰氣較重時段</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section id="items">
+            <h2><i class="fas fa-box-open emoji-icon"></i>儀式用品</h2>
+            <p>「打小人」儀式需要準備多種特定的物品，每樣物品都有其象徵意義：</p>
+            
+            <div class="items-grid">
+                <div class="item">
+                    <div class="item-icon">👟</div>
+                    <h3>舊鞋</h3>
+                    <p>用來拍打小人紙，舊鞋越破越有效，代表「踩低」小人。</p>
+                </div>
+                
+                <div class="item">
+                    <div class="item-icon">🧱</div>
+                    <h3>磚塊</h3>
+                    <p>作為拍打的墊板，增強打擊力，象徵「壓制」小人。</p>
+                </div>
+                
+                <div class="item">
+                    <div class="item-icon">🥩</div>
+                    <h3>肥豬肉</h3>
+                    <p>用來祭祀白虎，抹在紙老虎嘴上，「塞住白虎口」。</p>
+                </div>
+                
+                <div class="item">
+                    <div class="item-icon">🐯</div>
+                    <h3>紙老虎</h3>
+                    <p>代表白虎星君，祭祀後可化解是非口舌。</p>
+                </div>
+                
+                <div class="item">
+                    <div class="item-icon">📜</div>
+                    <h3>小人紙</h3>
+                    <p>寫有小人生辰八字或特徵的紙張，是拍打的對象。</p>
+                </div>
+                
+                <div class="item">
+                    <div class="item-icon">🕯️</div>
+                    <h3>香燭</h3>
+                    <p>用來祭祀神明，溝通天地，祈求保佑。</p>
+                </div>
+                
+                <div class="item">
+                    <div class="item-icon">🍊</div>
+                    <h3>生果</h3>
+                    <p>供奉神明的祭品，通常使用橙、蘋果等吉祥水果。</p>
+                </div>
+                
+                <div class="item">
+                    <div class="item-icon">💰</div>
+                    <h3>銅錢、白米</h3>
+                    <p>儀式後撒出，象徵招財進寶、豐衣足食。</p>
+                </div>
+            </div>
+            
+            <div class="english-example">
+                <h3><i class="fas fa-language"></i> 英文口訣範例 (English Chant Example)</h3>
+                <p>在打小人的過程中，通常會念誦特定的口訣。以下是一個英文版本的例子：</p>
+                <div style="background-color: white; padding: 1.5rem; border-radius: 8px; margin-top: 1rem; font-family: 'Courier New', monospace;">
+                    <p><strong>"Beat the little person, beat the evil away,</strong></p>
+                    <p><strong>Beat the trouble, beat the sorrow, beat them all today.</strong></p>
+                    <p><strong>Beat the gossip, beat the envy, beat the wicked mind,</strong></p>
+                    <p><strong>Leave me peace and happiness, good fortune let me find."</strong></p>
+                </div>
+                <p style="margin-top: 1rem; font-style: italic;">中文對照：打小人，打走邪惡，打走麻煩，打走憂愁，今天全部打走。打走閒言碎語，打走嫉妒，打走惡意，留給我平安快樂，讓我找到好運。</p>
+            </div>
+        </section>
+        
+        <section id="interactive" class="interactive-section">
+            <h2><i class="fas fa-magic emoji-icon"></i>互動體驗</h2>
+            <p>點擊下面的「打小人」按鈕，體驗傳統儀式的感覺！</p>
+            
+            <div class="beat-area">
+                <h3>打小人模擬器</h3>
+                <p>點擊小人或按鈕來「打小人」，看看會發生什麼！</p>
+                
+                <div class="little-person" id="littlePerson">👹</div>
+                
+                <button class="beat-button" id="beatButton">
+                    <i class="fas fa-fist-raised"></i> 打小人！
+                </button>
+                
+                <div class="beat-count" id="beatCount">
+                    已打：<span id="count">0</span> 次
+                </div>
+                
+                <div class="animation-area" id="animationArea">
+                    <!-- Shoes will appear here during animation -->
+                </div>
+                
+                <div style="margin-top: 2rem; padding: 1rem; background-color: #f0f0f0; border-radius: 8px;">
+                    <h4><i class="fas fa-info-circle"></i> 互動說明</h4>
+                    <p>• 點擊「打小人」按鈕或直接點擊小人圖標</p>
+                    <p>• 每次點擊都會觸發動畫效果</p>
+                    <p>• 連續點擊可以累積打擊次數</p>
+                    <p>• 體驗傳統儀式的節奏感</p>
+                </div>
+            </div>
+            
+            <div style="margin-top: 3rem; display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center;">
+                <div style="flex: 1; min-width: 250px; text-align: center; padding: 1.5rem; background-color: white; border-radius: 10px; border: 2px solid var(--gold);">
+                    <div style="font-size: 3rem;">🎭</div>
+                    <h3>文化意義</h3>
+                    <p>「打小人」不僅是迷信，更是香港非物質文化遺產的一部分，體現了民間智慧。</p>
+                </div>
+                
+                <div style="flex: 1; min-width: 250px; text-align: center; padding: 1.5rem; background-color: white; border-radius: 10px; border: 2px solid var(--gold);">
+                    <div style="font-size: 3rem;">🧠</div>
+                    <h3>心理作用</h3>
+                    <p>通過儀式性的行為，人們可以宣洩負面情緒，獲得心理安慰和力量。</p>
+                </div>
+                
+                <div style="flex: 1; min-width: 250px; text-align: center; padding: 1.5rem; background-color: white; border-radius: 10px; border: 2px solid var(--gold);">
+                    <div style="font-size: 3rem;">🏙️</div>
+                    <h3>都市傳說</h3>
+                    <p>在香港這個現代都市中，這項傳統習俗依然蓬勃，形成獨特的文化景觀。</p>
+                </div>
+            </div>
+        </section>
+    </main>
+    
+    <footer>
+        <div class="container footer-content">
+            <div class="footer-logo">
+                <i class="fas fa-fist-raised"></i> 打小人
+            </div>
+            <p>香港傳統民間習俗文化網站</p>
+            
+            <div class="footer-links">
+                <a href="#origin"><i class="fas fa-history"></i> 起源</a>
+                <a href="#ritual"><i class="fas fa-pray"></i> 儀式</a>
+                <a href="#location"><i class="fas fa-map-marker-alt"></i> 地點</a>
+                <a href="#items"><i class="fas fa-tools"></i> 用品</a>
+                <a href="#interactive"><i class="fas fa-gamepad"></i> 互動</a>
+            </div>
+            
+            <div style="margin-top: 1rem;">
+                <p>本網站旨在介紹和保存香港傳統文化，僅供教育與文化研究用途。</p>
+                <p>尊重傳統，理解文化，傳承智慧。</p>
+            </div>
+            
+            <div class="copyright">
+                <p>© 2025 打小人文化網站 | 香港非物質文化遺產 | 設計：傳統中國風現代詮釋</p>
+                <p>紅色、金色、黑色主調 | 響應式網頁設計</p>
+            </div>
+        </div>
+    </footer>
+    
+    <script>
+        // Interactive Elements
+        document.addEventListener('DOMContentLoaded', function() {
+            const littlePerson = document.getElementById('littlePerson');
+            const beatButton = document.getElementById('beatButton');
+            const beatCount = document.getElementById('count');
+            const animationArea = document.getElementById('animationArea');
+            
+            let count = 0;
+            let isAnimating = false;
+            
+            // Function to beat the little person
+            function beatLittlePerson() {
+                // Update count
+                count++;
+                beatCount.textContent = count;
+                
+                // Add beating animation to little person
+                littlePerson.classList.remove('beating');
+                void littlePerson.offsetWidth; // Trigger reflow
+                littlePerson.classList.add('beating');
+                
+                // Create shoe throw animation
+                if (!isAnimating) {
+                    isAnimating = true;
+                    createShoeAnimation();
+                    
+                    // Reset animation flag after delay
+                    setTimeout(() => {
+                        isAnimating = false;
+                    }, 1500);
+                }
+                
+                // Change little person expression occasionally
+                if (count % 5 === 0) {
+                    const expressions = ['👹', '😱', '💀', '😵', '🤕'];
+                    const randomExpression = expressions[Math.floor(Math.random() * expressions.length)];
+                    
+                    littlePerson.textContent = randomExpression;
+                    
+                    // Return to original after 1 second
+                    setTimeout(() => {
+                        littlePerson.textContent = '👹';
+                    }, 1000);
+                }
+                
+                // Play sound effect (if browser allows)
+                playBeatSound();
+                
+                // Show message after certain counts
+                showMessage(count);
+            }
+            
+            // Create shoe throwing animation
+            function createShoeAnimation() {
+                const shoe = document.createElement('div');
+                shoe.className = 'shoe shoe-throw';
+                shoe.textContent = '👟';
+                shoe.style.left = '-50px';
+                
+                // Random vertical position
+                const randomBottom = Math.random() * 30;
+                shoe.style.bottom = `${randomBottom}px`;
+                
+                // Random size
+                const randomSize = 2 + Math.random() * 2;
+                shoe.style.fontSize = `${randomSize}rem`;
+                
+                animationArea.appendChild(shoe);
+                
+                // Remove shoe after animation completes
+                setTimeout(() => {
+                    if (shoe.parentNode === animationArea) {
+                        animationArea.removeChild(shoe);
+                    }
+                }, 1500);
+            }
+            
+            // Play beat sound
+            function playBeatSound() {
+                // Try to play a simple beep sound
+                try {
+                    const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                    const oscillator = audioContext.createOscillator();
+                    const gainNode = audioContext.createGain();
+                    
+                    oscillator.connect(gainNode);
+                    gainNode.connect(audioContext.destination);
+                    
+                    oscillator.frequency.value = 200 + (count * 10);
+                    oscillator.type = 'sine';
+                    
+                    gainNode.gain.setValueAtTime(0.3, audioContext.currentTime);
+                    gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.1);
+                    
+                    oscillator.start(audioContext.currentTime);
+                    oscillator.stop(audioContext.currentTime + 0.1);
+                } catch (e) {
+                    // Sound not supported, continue silently
+                }
+            }
+            
+            // Show message based on count
+            function showMessage(count) {
+                const messages = [
+                    { count: 5, text: "小人開始退散！" },
+                    { count: 10, text: "繼續努力，厄運正在消失！" },
+                    { count: 15, text: "小人已經被打得七零八落！" },
+                    { count: 20, text: "恭喜！小人完全被打走了！" },
+                    { count: 25, text: "你已經成為打小人高手！" }
+                ];
+                
+                for (const message of messages) {
+                    if (count === message.count) {
+                        // Create message element
+                        const messageEl = document.createElement('div');
+                        messageEl.style.cssText = `
+                            position: fixed;
+                            top: 20px;
+                            right: 20px;
+                            background-color: var(--primary-red);
+                            color: white;
+                            padding: 1rem 1.5rem;
+                            border-radius: 8px;
+                            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+                            z-index: 1000;
+                            animation: slideIn 0.5s ease;
+                        `;
+                        
+                        // Add CSS for animation
+                        const style = document.createElement('style');
+                        style.textContent = `
+                            @keyframes slideIn {
+                                from { transform: translateX(100%); opacity: 0; }
+                                to { transform: translateX(0); opacity: 1; }
+                            }
+                        `;
+                        document.head.appendChild(style);
+                        
+                        messageEl.innerHTML = `<strong>${message.text}</strong>`;
+                        document.body.appendChild(messageEl);
+                        
+                        // Remove message after 3 seconds
+                        setTimeout(() => {
+                            if (messageEl.parentNode) {
+                                messageEl.style.animation = 'slideIn 0.5s ease reverse';
+                                setTimeout(() => {
+                                    if (messageEl.parentNode) {
+                                        document.body.removeChild(messageEl);
+                                    }
+                                }, 500);
+                            }
+                        }, 3000);
+                        
+                        break;
+                    }
+                }
+            }
+            
+            // Event listeners
+            littlePerson.addEventListener('click', beatLittlePerson);
+            beatButton.addEventListener('click', beatLittlePerson);
+            
+            // Add keyboard support
+            document.addEventListener('keydown', function(event) {
+                if (event.code === 'Space' || event.code === 'Enter') {
+                    event.preventDefault();
+                    beatLittlePerson();
+                }
+            });
+            
+            // Smooth scrolling for navigation links
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    
+                    const targetId = this.getAttribute('href');
+                    if (targetId === '#') return;
+                    
+                    const targetElement = document.querySelector(targetId);
+                    if (targetElement) {
+                        window.scrollTo({
+                            top: targetElement.offsetTop - 80,
+                            behavior: 'smooth'
+                        });
+                    }
+                });
+            });
+            
+            // Add parallax effect to decorative elements
+            window.addEventListener('scroll', function() {
+                const scrolled = window.pageYOffset;
+                const decorations = document.querySelectorAll('.decoration');
+                
+                decorations.forEach((decoration, index) => {
+                    const speed = 0.5 + (index * 0.1);
+                    const yPos = -(scrolled * speed * 0.1);
+                    decoration.style.transform = `translateY(${yPos}px)`;
+                });
+            });
+            
+            // Initialize with a welcome message
+            setTimeout(() => {
+                const welcomeEl = document.createElement('div');
+                welcomeEl.style.cssText = `
+                    position: fixed;
+                    top: 20px;
+                    right: 20px;
+                    background-color: var(--gold);
+                    color: var(--black);
+                    padding: 1rem 1.5rem;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+                    z-index: 1000;
+                    animation: slideIn 0.5s ease;
+                `;
+                welcomeEl.innerHTML = '<strong>歡迎體驗「打小人」傳統文化！</strong>';
+                document.body.appendChild(welcomeEl);
+                
+                setTimeout(() => {
+                    if (welcomeEl.parentNode) {
+                        welcomeEl.style.animation = 'slideIn 0.5s ease reverse';
+                        setTimeout(() => {
+                            if (welcomeEl.parentNode) {
+                                document.body.removeChild(welcomeEl);
+                            }
+                        }, 500);
+                    }
+                }, 4000);
+            }, 1000);
+        });
+    </script>
+</body>
+</html>
